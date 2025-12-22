@@ -1,0 +1,32 @@
+const fs = require("fs"),
+  path = require("path"),
+  glob = require("glob"),
+  cheerio = require("cheerio"),
+  sharp = require("sharp"),
+  projectRoot = path.resolve("."),
+  files = glob.sync("**/*.{html,php}", { cwd: projectRoot, absolute: !0 });
+async function addDimensions() {
+  for (const t of files) {
+    let e = fs.readFileSync(t, "utf8");
+    const i = cheerio.load(e, { decodeEntities: !1 });
+    let o = !1;
+    const r = i("img");
+    for (let e = 0; e < r.length; e++) {
+      const s = i(r[e]);
+      if (!s.attr("width") || !s.attr("height")) {
+        let e = s.attr("src");
+        if (!e) continue;
+        const i = path.resolve(path.dirname(t), e.split("?")[0].split("#")[0]);
+        if (!fs.existsSync(i)) continue;
+        try {
+          const t = await sharp(i).metadata();
+          t.width &&
+            t.height &&
+            (s.attr("width", t.width), s.attr("height", t.height), (o = !0));
+        } catch {}
+      }
+    }
+    o && fs.writeFileSync(t, i.html(), "utf8");
+  }
+}
+addDimensions().catch(console.error);

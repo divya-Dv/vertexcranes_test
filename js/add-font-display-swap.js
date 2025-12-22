@@ -1,0 +1,12 @@
+const fs = require("fs"),
+  path = require("path"),
+  glob = require("glob"),
+  projectRoot = path.resolve("."),
+  cssFiles = glob.sync("css/**/*.css", { cwd: projectRoot, absolute: !0 });
+cssFiles.forEach((s) => {
+  let e = fs.readFileSync(s, "utf8");
+  const t = e.replace(/@font-face\s*{[^}]*}/g, (s) =>
+    /font-display\s*:/i.test(s) ? s : s.replace(/}/, "  font-display: swap;\n}")
+  );
+  t !== e && fs.writeFileSync(s, t, "utf8");
+});

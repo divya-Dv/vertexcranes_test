@@ -1,0 +1,5 @@
+[05-May-2024 05:31:49 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/recovery-van/PHPMailerAutoload.php on line 45
+[14-May-2024 10:03:53 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/recovery-van/PHPMailerAutoload.php on line 45
+[14-May-2024 10:04:33 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/recovery-van/PHPMailerAutoload.php on line 45
+[16-May-2024 09:56:21 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/recovery-van/PHPMailerAutoload.php on line 45
+[02-Jul-2024 14:02:43 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/recovery-van/PHPMailerAutoload.php on line 45

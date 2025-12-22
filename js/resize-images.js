@@ -1,0 +1,27 @@
+const sharp = require("sharp"),
+  fs = require("fs"),
+  path = require("path"),
+  glob = require("glob"),
+  sizes = [320, 640, 1024, 1920],
+  projectRoot = path.resolve(".");
+glob
+  .sync("**/images/**/*.{jpg,jpeg,png}", {
+    cwd: projectRoot,
+    nodir: !0,
+    absolute: !1,
+  })
+  .forEach((e) => {
+    const o = path.extname(e).toLowerCase(),
+      t = path.basename(e, o),
+      r = path.dirname(e),
+      s = path.join(projectRoot, e);
+    sizes.forEach((e) => {
+      const a = path.join(projectRoot, r, `${e}w`);
+      fs.existsSync(a) || fs.mkdirSync(a, { recursive: !0 }),
+        sharp(s)
+          .resize(e)
+          .toFile(path.join(a, `${t}_${e}w${o}`))
+          .then(() => {})
+          .catch((e) => {});
+    });
+  });

@@ -1,0 +1,139 @@
+const fs = require("fs-extra"),
+  path = require("path"),
+  glob = require("glob"),
+  cheerio = require("cheerio"),
+  { minify: minifyHtml } = require("html-minifier-terser"),
+  postcss = require("postcss"),
+  purgecss = require("@fullhuman/postcss-purgecss"),
+  cssnano = require("cssnano"),
+  terser = require("terser"),
+  sharp = require("sharp"),
+  imagemin = require("imagemin"),
+  imageminWebp = require("imagemin-webp"),
+  imageminAvif = require("imagemin-avif"),
+  imageminMozjpeg = require("imagemin-mozjpeg"),
+  imageminPngquant = require("imagemin-pngquant"),
+  SRC_DIR = "emnar-pharma",
+  OUT_DIR = "optimized",
+  IMG_WIDTHS = [320, 640, 1024];
+async function ensureOut() {
+  await fs.remove(OUT_DIR), await fs.ensureDir(OUT_DIR);
+}
+async function copyStatic() {
+  await fs.copy(SRC_DIR, OUT_DIR);
+}
+async function minifyHtmlPhpFiles() {
+  const a = glob.sync(`${OUT_DIR}/**/*.{html,php}`);
+  await Promise.all(
+    a.map(async (a) => {
+      let i = await fs.readFile(a, "utf8");
+      try {
+        const e = await minifyHtml(i, {
+          collapseWhitespace: !0,
+          removeComments: !0,
+          removeRedundantAttributes: !0,
+          keepClosingSlash: !0,
+          minifyCSS: !0,
+          minifyJS: !0,
+          ignoreCustomFragments: [/<\?php[\s\S]*?\?>/],
+        });
+        await fs.writeFile(a, e, "utf8");
+      } catch (a) {}
+    })
+  );
+}
+async function processCssFiles() {
+  const a = glob.sync(`${OUT_DIR}/**/*.css`),
+    i = glob.sync(`${OUT_DIR}/**/*.{html,php,js}`, { nodir: !0 }),
+    e = purgecss({
+      content: i,
+      safelist: {
+        standard: [
+          /^container(-fluid)?$/,
+          /^row$/,
+          /^col(-.*)?$/,
+          /^btn(-.*)?$/,
+          /^navbar(-.*)?$/,
+          /^d-(sm|md|lg|xl|xxl)?-(flex|block|none)$/,
+          /^show$/,
+          /^fade$/,
+          /^active$/,
+          /^carousel(-.*)?$/,
+        ],
+      },
+    });
+  await Promise.all(
+    a.map(async (a) => {
+      let i = await fs.readFile(a, "utf8");
+      const t = await postcss([e, cssnano({ preset: "default" })]).process(i, {
+        from: a,
+        to: a,
+      });
+      await fs.writeFile(a, t.css, "utf8");
+    })
+  );
+}
+async function minifyJsFiles() {
+  const a = glob.sync(`${OUT_DIR}/**/*.js`);
+  await Promise.all(
+    a.map(async (a) => {
+      const i = await fs.readFile(a, "utf8");
+      try {
+        const e = await terser.minify(i);
+        e.code && (await fs.writeFile(a, e.code, "utf8"));
+      } catch {}
+    })
+  );
+}
+async function optimizeImages() {
+  const a = glob.sync(`${OUT_DIR}/images/**/*.{png,jpg,jpeg}`, { nodir: !0 });
+  await Promise.all(
+    a.map(async (a) => {
+      const i = path.dirname(a),
+        e = path.basename(a, path.extname(a)),
+        t = await imagemin([a], {
+          plugins: [
+            imageminMozjpeg({ quality: 78 }),
+            imageminPngquant({ quality: [0.7, 0.85] }),
+          ],
+        });
+      t[0] && (await fs.writeFile(a, t[0].data)),
+        await Promise.all(
+          IMG_WIDTHS.map(async (t) => {
+            await sharp(a)
+              .resize({ width: t, withoutEnlargement: !0 })
+              .toFormat("webp", { quality: 72 })
+              .toFile(path.join(i, `${e}-${t}.webp`)),
+              await sharp(a)
+                .resize({ width: t, withoutEnlargement: !0 })
+                .toFormat("avif", { quality: 40 })
+                .toFile(path.join(i, `${e}-${t}.avif`));
+          })
+        );
+    })
+  );
+}
+async function transformHtmlImages() {
+  const a = glob.sync(`${OUT_DIR}/**/*.{html,php}`);
+  await Promise.all(
+    a.map(async (a) => {
+      let i = await fs.readFile(a, "utf8");
+      const e = cheerio.load(i, { decodeEntities: !1 });
+      e("img").each((a, i) => {
+        const t = e(i);
+        t.attr("loading") || t.attr("loading", "lazy");
+      }),
+        await fs.writeFile(a, e.html(), "utf8");
+    })
+  );
+}
+async function main() {
+  await ensureOut(),
+    await copyStatic(),
+    await minifyHtmlPhpFiles(),
+    await processCssFiles(),
+    await minifyJsFiles(),
+    await optimizeImages(),
+    await transformHtmlImages();
+}
+main();

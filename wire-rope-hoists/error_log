@@ -1,0 +1,4 @@
+[10-Apr-2024 07:52:44 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/wire-rope-hoists/PHPMailerAutoload.php on line 45
+[08-May-2024 11:00:13 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/wire-rope-hoists/PHPMailerAutoload.php on line 45
+[16-May-2024 13:11:59 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/wire-rope-hoists/PHPMailerAutoload.php on line 45
+[06-Jul-2024 01:58:52 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/wire-rope-hoists/PHPMailerAutoload.php on line 45

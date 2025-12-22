@@ -1,0 +1,19 @@
+const sharp = require("sharp"),
+  fs = require("fs"),
+  path = require("path"),
+  glob = require("glob"),
+  projectRoot = path.resolve("."),
+  imageFiles = glob.sync("**/images/**/*.{jpg,jpeg,png}", {
+    cwd: projectRoot,
+    nodir: !0,
+    absolute: !0,
+  });
+imageFiles.forEach((e) => {
+  const a = path.extname(e).toLowerCase(),
+    o = path.join(path.dirname(e), path.basename(e, a) + ".webp");
+  sharp(e)
+    .toFormat("webp")
+    .toFile(o)
+    .then(() => {})
+    .catch((e) => {});
+});

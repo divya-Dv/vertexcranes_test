@@ -1,0 +1,12 @@
+[04-Apr-2024 17:35:07 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[04-May-2024 22:48:03 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[06-May-2024 05:14:21 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[06-May-2024 08:43:12 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[08-May-2024 08:57:30 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[10-May-2024 08:34:02 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[17-May-2024 10:58:41 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[08-Jun-2024 16:26:09 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[02-Apr-2025 20:02:28 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[04-Apr-2025 02:17:24 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[07-Apr-2025 03:25:29 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45
+[08-Apr-2025 03:23:16 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/hoists/PHPMailerAutoload.php on line 45

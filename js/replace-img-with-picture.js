@@ -1,0 +1,60 @@
+const fs = require("fs"),
+  path = require("path"),
+  cheerio = require("cheerio"),
+  sizes = [320, 640, 1024, 1920];
+function processHTMLorPHP(e) {
+  let t = fs.readFileSync(e, "utf8");
+  const s = cheerio.load(t, { decodeEntities: !1 });
+  s("img").each((e, t) => {
+    const i = s(t),
+      a = i.attr("src");
+    if (!a || a.includes("data:")) return;
+    const r = path.extname(a).toLowerCase(),
+      n = path.basename(a, r),
+      c = path.dirname(a),
+      o = s("<picture></picture>");
+    sizes.forEach((e) => {
+      o.append(
+        `<source srcset="${c}/${e}w/${n}_${e}w.webp" media="(max-width: ${e}px)" type="image/webp">`
+      );
+    });
+    const p = i.clone();
+    p.attr("src", `${c}/${n}.webp`), o.append(p), i.replaceWith(o);
+  }),
+    fs.writeFileSync(e, s.html(), "utf8");
+}
+function processCSS(e) {
+  let t = fs.readFileSync(e, "utf8");
+  (t = t.replace(/(background(?:-image)?\s*:\s*)([^;]+)(;?)/gi, (e, t, s, i) =>
+    s
+      .split(/\s*,\s*/)
+      .map((e) => {
+        const s = /url\(["']?([^"')]+)["']?\)/i.exec(e);
+        if (!s) return e;
+        const a = s[1],
+          r = path.extname(a).toLowerCase(),
+          n = path.basename(a, r),
+          c = path.dirname(a),
+          o = sizes
+            .map((e) => `url("${c}/${e}w/${n}_${e}w.webp") ${e}w`)
+            .join(", "),
+          p = sizes
+            .map((e) => `url("${c}/${e}w/${n}_${e}w${r}") ${e}w`)
+            .join(", ");
+        return `\n${t}${e}${i}\n${t}-webkit-image-set(${o}); \n${t}image-set(${o});\n${t}-webkit-image-set(${p});\n${t}image-set(${p});\n`;
+      })
+      .join(", ")
+  )),
+    fs.writeFileSync(e, t, "utf8");
+}
+function walk(e) {
+  fs.readdirSync(e).forEach((t) => {
+    const s = path.join(e, t);
+    fs.statSync(s).isDirectory()
+      ? walk(s)
+      : /\.(php|html)$/i.test(t)
+      ? processHTMLorPHP(s)
+      : /\.css$/i.test(t) && processCSS(s);
+  });
+}
+walk(path.resolve(__dirname, ".."));

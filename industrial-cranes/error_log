@@ -1,0 +1,5 @@
+[07-May-2024 07:24:32 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/industrial-cranes/PHPMailerAutoload.php on line 45
+[08-May-2024 05:09:00 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/industrial-cranes/PHPMailerAutoload.php on line 45
+[08-May-2024 17:08:13 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/industrial-cranes/PHPMailerAutoload.php on line 45
+[24-May-2024 10:41:40 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/industrial-cranes/PHPMailerAutoload.php on line 45
+[23-Jan-2025 18:46:06 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/industrial-cranes/PHPMailerAutoload.php on line 45

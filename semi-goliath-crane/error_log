@@ -1,0 +1,5 @@
+[14-Apr-2024 22:02:14 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/semi-goliath-crane/PHPMailerAutoload.php on line 45
+[19-Apr-2024 16:14:07 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/semi-goliath-crane/PHPMailerAutoload.php on line 45
+[13-Jul-2024 23:21:00 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/semi-goliath-crane/PHPMailerAutoload.php on line 45
+[03-Jan-2025 11:32:52 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/semi-goliath-crane/PHPMailerAutoload.php on line 45
+[09-Mar-2025 12:06:27 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/vertexcranes/public_html/semi-goliath-crane/PHPMailerAutoload.php on line 45
