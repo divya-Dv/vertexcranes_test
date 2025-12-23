@@ -31,6 +31,7 @@
     "imagemin-pngquant": "^9.0.2",
     "imagemin-webp": "^7.0.0",
     "lighthouse": "^10.0.0",
+    
     "postcss": "^8.4.25",
     "purgecss": "^5.0.0",
     "sharp": "^0.32.6",
