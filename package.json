@@ -48,7 +48,9 @@
     "website-optimization",
     "performance",
     "lighthouse",
-    "image-optimization"
+    "image-optimization",
+    "css-purge",
+    "minification"
   ],
   "author": "Emnar Pharma",
   "license": "MIT"
