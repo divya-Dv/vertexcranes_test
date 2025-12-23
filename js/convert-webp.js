@@ -1,19 +1,28 @@
-const sharp = require("sharp"),
-  fs = require("fs"),
-  path = require("path"),
-  glob = require("glob"),
-  projectRoot = path.resolve("."),
-  imageFiles = glob.sync("**/images/**/*.{jpg,jpeg,png}", {
-    cwd: projectRoot,
-    nodir: !0,
-    absolute: !0,
-  });
-imageFiles.forEach((e) => {
-  const a = path.extname(e).toLowerCase(),
-    o = path.join(path.dirname(e), path.basename(e, a) + ".webp");
-  sharp(e)
+// convert-webp.js
+const sharp = require("sharp");
+const fs = require("fs");
+const path = require("path");
+const glob = require("glob");
+
+const projectRoot = path.resolve(".");
+const imageFiles = glob.sync("**/images/**/*.{jpg,jpeg,png}", {
+  cwd: projectRoot,
+  nodir: true,
+  absolute: true,
+});
+
+console.log(`Found ${imageFiles.length} images to convert to WebP`);
+
+imageFiles.forEach((filePath) => {
+  const ext = path.extname(filePath).toLowerCase();
+  const outputPath = path.join(
+    path.dirname(filePath),
+    path.basename(filePath, ext) + ".webp"
+  );
+
+  sharp(filePath)
     .toFormat("webp")
-    .toFile(o)
-    .then(() => {})
-    .catch((e) => {});
+    .toFile(outputPath)
+    .then(() => console.log(`Converted to WebP: ${outputPath}`))
+    .catch((err) => console.error(`Error converting ${filePath}:`, err));
 });
