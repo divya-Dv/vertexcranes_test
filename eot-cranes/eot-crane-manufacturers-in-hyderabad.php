@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>EOT Crane Manufacturers in Hyderabad | Vertex</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
-  <meta name="description" content="EOT Crane Manufacturers in Hyderabad, Vertex Cranes. The smooth working of our EOT Cranes makes the employment simple and less prolonged"/>
+  <meta name="description" content="EOT Crane Manufacturers in Hyderabad, Vertex Cranes. The smooth working of our EOT Cranes makes the employment simple and less prolonged">
   <link rel="canonical" href="https://www.vertexcranes.com/eot-cranes/eot-crane-manufacturers-in-hyderabad.php">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
  
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -29,7 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -49,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -90,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="work-box">
   <!-- <a href="../img/gallery/gallery-09.jpg" data-lightbox="gallery-mf">-->
    <div class="work-img">
-   <img src="../img/eot.jpg" style="height:300px;width:400px" class="img-fluid">
+   <picture><source srcset="../img/320w/eot_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/640w/eot_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/1024w/eot_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/1920w/eot_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/eot.webp" style="height:300px;width:400px" class="img-fluid"></picture>
    </div>
    <!--</a>-->
    </div>
@@ -103,11 +101,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="col-md-12">
 <h2 style="font-size:28px;margin:24px;margin-left:0px">EOT Crane Company Profile</h2>
 <p>Vertex cranes Industries are professionally managed by a group of technocrats having more than two decades experience in the field of designing and manufacturing of heavy-duty cranes, <a href="https://www.vertexcranes.com/hoists-manufacturers.php">hoists</a> and other tailor-made material handling equipment’s/systems. Throughout its history, Vertex cranes have been an industry leader in both technological and product advancements, contributing to its long-standing reputation as a manufacturer of high-quality material handling equipment. During these years of operations, Vertex cranes have established itself as a ‘TRUSTED’ manufacturer of ‘QUALITY’ material handling equipment.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -145,7 +143,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </div>
         </div>
       </div>
-</div>
+
 <!--cranes manufacturer end-->
 
 </section>
@@ -160,8 +158,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

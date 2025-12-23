@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 
 <title>Cranes Manufacturers In India | Vertex Cranes</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta name="description" content="Cranes Manufacturers In India, Vertex Cranes. Expect industry-leading performance and efficiency, designed to elevate your lifting solutions. Call us." />
+<meta name="description" content="Cranes Manufacturers In India, Vertex Cranes. Expect industry-leading performance and efficiency, designed to elevate your lifting solutions. Call us.">
 <meta name="keywords" content="Cranes Manufacturers In India , Cranes Manufacturers">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 
 <link rel="canonical" href="https://www.vertexcranes.com/cranes/cranes-manufacturers.php">
 <!-- Google Tag Manager -->
@@ -20,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -41,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 
@@ -65,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
  <h2 style="font-size:28px;margin:24px;margin-left:0px">Cranes Manufacturers In India</h2>
 
-   <p>Vertex Cranes and Hoists (India) P.Ltd. is a leading business individual engaged as <b>Cranes Manufacturers in India</b>. We offer comprehensive range of high-quality cranes like Cranes Manufacturers, semi goliath, <a href = "https://www.vertexcranes.com/jib-cranes.php" >jib cranes</a> etc. The cranes we are supplying are highly demanded in the market and are deeply appreciated by our esteemed clients. Vertex are famous as <b>Crane manufacturers</b>. We equipped with high grade machinery that allows us to build customized cranes as per the needs of the customers. Vеrtеx Cranеs is a leading name in thе rеalm of cranеs manufacturers in India. With a commitmеnt to еxcеllеncе and innovation, we specialize in dеsigning, producing, and delivering a divеrsе rangе of high-quality cranes tailored to mееt thе uniquе nееds of our clients.</p>
+   <p>Vertex Cranes and Hoists (India) P.Ltd. is a leading business individual engaged as <b>Cranes Manufacturers in India</b>. We offer comprehensive range of high-quality cranes like Cranes Manufacturers, semi goliath, <a href="https://www.vertexcranes.com/jib-cranes.php">jib cranes</a> etc. The cranes we are supplying are highly demanded in the market and are deeply appreciated by our esteemed clients. Vertex are famous as <b>Crane manufacturers</b>. We equipped with high grade machinery that allows us to build customized cranes as per the needs of the customers. Vеrtеx Cranеs is a leading name in thе rеalm of cranеs manufacturers in India. With a commitmеnt to еxcеllеncе and innovation, we specialize in dеsigning, producing, and delivering a divеrsе rangе of high-quality cranes tailored to mееt thе uniquе nееds of our clients.</p>
    
 <p>Vertex Cranes industries, a leading <b>cranes manufacturer in India</b>, offers a wide range of reliable and precision-engineered cranes. From industrial and double girder EOT cranes to tower cranes, we elevate lifting and material handling solutions for various industries. Trust in Vertex Cranes for top-quality <b>crane manufacturers</b> that enhance efficiency and performance. As a trusted name among cranes manufacturing, it specializes in precision and reliability. Our range includes single and double girder EOT cranes, industrial cranes, and tower cranes, all designed to elevate your lifting solutions. With Vertex Cranes, you can expect industry-leading performance and efficiency.</p>
    </div>
@@ -77,7 +75,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!--<a href="../img/gallery/gallery-16.jpg" data-lightbox="gallery-mf">-->
 
    <div class="work-img">
-   <img src="../img/gallery/gallery-02.jpg" style="height:300px;width:400px" class="img-fluid" alt="Cranes Manufacturers In India" title="Cranes Manufacturers In India">
+   <picture><source srcset="../img/gallery/320w/gallery-02_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-02_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-02_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-02_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-02.webp" style="height:300px;width:400px" class="img-fluid" alt="Cranes Manufacturers In India" title="Cranes Manufacturers In India"></picture>
    </div>
 
    <!--</a>-->
@@ -98,7 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 style="font-size:28px;margin:24px;margin-left:0px">Company Profile</h2>
 
 <p>Vertex Cranes Industries Is A Leading <b>Cranes Manufacturers In India</b> With the commitment of giving a superior quality product, our raw materials are well tested from stage-wise right from the initial stage to the ultimate completion stage. All sub-assemblies are again inspected by our QC team. before we do give clearance for final shop assembly and trial-run testing of the cranes. Finally, with the consumer's representative, the entire crane is trial-tested and dimension checked. We've made a well-defined quality policy under which we've been conducting various manufacturing tests by using highly advanced equipment and machinery. We've successfully achieved a high level of customer indulgence by providing them with a consistently quality product at the right price.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 
 </div>
 
@@ -106,7 +104,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 
-<div class="container" >
+<div class="container">
 
               <div class="row">
 
@@ -132,7 +130,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 
-					<ul >
+					<ul>
 
                         <li>Robust Construction</li>
 
@@ -182,7 +180,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       </div>
 
-</div>
+
 
 <!--cranes manufacturer end-->
 
@@ -200,10 +198,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
 <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
 <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
 
 
+
+
+</body></html>

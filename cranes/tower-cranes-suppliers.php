@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Tower Cranes Suppliers In India | Vertexcranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
-  <meta name="description" content="Your Trusted Tower Cranes Suppliers in India - Vertex Cranes: Building Success, One Elevation at a Time. Explore Our Range for Reliable Solutions Today"/>
+  <meta name="description" content="Your Trusted Tower Cranes Suppliers in India - Vertex Cranes: Building Success, One Elevation at a Time. Explore Our Range for Reliable Solutions Today">
   <link rel="canonical" href="https://www.vertexcranes.com/cranes/tower-cranes-suppliers.php">
-       <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+       <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -20,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -42,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -84,7 +82,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="work-box">
    <!--<a href="../img/gallery/gallery-09.jpg" data-lightbox="gallery-mf">-->
    <div class="work-img">
-   <img src="../img/tpless-tc.jpg" style="height:300px;width:400px" class="img-fluid" alt="Tower Cranes Suppliers in India" title="Tower Cranes Suppliers in India">
+   <picture><source srcset="../img/320w/tpless-tc_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/640w/tpless-tc_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/1024w/tpless-tc_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/1920w/tpless-tc_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/tpless-tc.webp" style="height:300px;width:400px" class="img-fluid" alt="Tower Cranes Suppliers in India" title="Tower Cranes Suppliers in India"></picture>
    </div>
    <!--</a>-->
    </div>
@@ -100,11 +98,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>When it comes to reliable tower crane suppliers in India, Vertexcranes is the name that stands tall in the construction industry. With a legacy of excellence and a commitment to innovation, we are your trusted partner for all your tower crane needs.
 
 Vertex Cranes Industries offers a wide range of tower cranes that are engineered to meet the demanding requirements of construction projects across India. Our selection includes stationary and mobile tower cranes, ensuring that you find the perfect solution for your specific project, whether it's a high-rise building or infrastructure development.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -117,7 +115,7 @@ Vertex Cranes Industries offers a wide range of tower cranes that are engineered
                   </nav>
                   <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-					<ul >
+					<ul>
                         <li>Robust Construction</li>
                         <li>	Dimensionally accurate</li>
                         <li>	Compact Structure</li>
@@ -144,7 +142,7 @@ Vertex Cranes Industries offers a wide range of tower cranes that are engineered
                     <div>
               <br><br>
             <p style="color: maroon;"><b>Refference Links</b></p>
-                        <ul class"seo_li">
+                        <ul class"seo_li"="">
                             <li><a href="https://www.vertexcranes.com/eot-cranes/eot-crane-manufacturers-in-india.php">EOT Crane Manufacturers In India</a></li>
                             <li><a href="https://www.vertexcranes.com/hoists/hoist-suppliers-in-india.php">Hoist Suppliers In India</a></li>
                             <li><a href="https://www.vertexcranes.com/cranes/portal-crane-for-sale.php">Portal Crane For Sale</a></li>
@@ -154,7 +152,7 @@ Vertex Cranes Industries offers a wide range of tower cranes that are engineered
                     </div>
         
       </div>
-</div>
+
 <!--cranes manufacturer end-->
 
 </section>
@@ -171,9 +169,10 @@ Vertex Cranes Industries offers a wide range of tower cranes that are engineered
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
 <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
 
-</body>
-</html>
 
+
+
+</body></html>

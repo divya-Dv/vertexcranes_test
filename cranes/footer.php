@@ -1,4 +1,4 @@
-<section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
+<html><head></head><body><section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
@@ -19,13 +19,13 @@
                       <div class="row">
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
                             <div class="validation"></div>
                           </div>
                         </div>
@@ -51,7 +51,7 @@
                   
                   <div class="more-info">
                     <div class="main-ff">
-                    <span class="ion-ios-location aa-01 ss-01"></span> <div class="ass"><h5>Head Office & Works</h5>
+                    <span class="ion-ios-location aa-01 ss-01"></span> <div class="ass"><h5>Head Office &amp; Works</h5>
                   <p>  SY. NO. 103/1, BESIDE JAIN INTERNATIONAL SCHOOL, KUCHARAM(V), TOOPRAN(M), MEDAK DIST.-502381.</p></div>
                     </div>
                     
@@ -60,7 +60,7 @@
                       <div class="col-md-6 col-sm-12 col-xs-12 m9"> 
                           <div class="main-ff">
                             <span class="ion-ios-location aa-01 ss-01"></span>
-                             <div class="ass"><h5>South Works & Sales</h5>
+                             <div class="ass"><h5>South Works &amp; Sales</h5>
                               <p>38/4, 6A, IIDC, NAGARI, CHITTOR - 517590, A.P.</p>
                           </div>
                             </div>
@@ -80,7 +80,7 @@
                             <span class="ion-email aa-01"></span> 
                             <div class="ass">
                               <h5>General Enquiries</h5>
-                          <p>vertexcranes@gmail.com<br/> info@vertexcranes.com</p></div>
+                          <p>vertexcranes@gmail.com<br> info@vertexcranes.com</p></div>
                             </div>
                       </div>
 
@@ -89,7 +89,7 @@
                             <span class="ion-ios-telephone aa-01"></span> 
                             <div class="ass">
                               <h5>Call Us</h5>
-                              <p>+91-9390181010<br/> +91-7680021123 <br/> 08106-244242</p>
+                              <p>+91-9390181010<br> +91-7680021123 <br> 08106-244242</p>
                             </div>
                             </div>
                       </div>
@@ -115,13 +115,13 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright 2019-2020 <strong class="vs">Vertex Crane And Hoist India Pvt Ltd</strong>. All Rights Reserved</p>
+              <p class="copyright">© Copyright 2019-2020 <strong class="vs">Vertex Crane And Hoist India Pvt Ltd</strong>. All Rights Reserved</p>
               <div class="credits">
-                Designed by <span><img src="https://www.grank.co.in/img/logo-white.png" alt="grank-logo" style="height:15px;"></span><a href="sitemap.php">Sitemap</a>
+                Designed by <span><picture><source srcset="https://www.grank.co.in/img/320w/logo-white_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="https://www.grank.co.in/img/640w/logo-white_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="https://www.grank.co.in/img/1024w/logo-white_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="https://www.grank.co.in/img/1920w/logo-white_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="https://www.grank.co.in/img/logo-white.webp" alt="grank-logo" style="height:15px;"></picture></span><a href="sitemap.php">Sitemap</a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </footer>
-  </section>
+  </section></body></html>

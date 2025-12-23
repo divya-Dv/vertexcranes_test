@@ -1,11 +1,10 @@
-<?php
+<!--?php
 
 /**
  * Japanese PHPMailer language file: refer to English translation for definitive list
  * @package PHPMailer
- * @author Mitsuhiro Yoshida <http://mitstek.com/>
- * @author Yoshi Sakai <http://bluemooninc.jp/>
- * @author Arisophy <https://github.com/arisophy/>
+ * @author Mitsuhiro Yoshida <http://mitstek.com/--><html><head></head><body>* @author Yoshi Sakai <http: bluemooninc.jp="">
+ * @author Arisophy <https: github.com="" arisophy="">
  */
 
 $PHPMAILER_LANG['authenticate']         = 'SMTPエラー: 認証できませんでした。';
@@ -27,3 +26,4 @@ $PHPMAILER_LANG['smtp_connect_failed']  = 'SMTP接続に失敗しました。';
 $PHPMAILER_LANG['smtp_error']           = 'SMTPサーバーエラー: ';
 $PHPMAILER_LANG['variable_set']         = '変数が存在しません: ';
 $PHPMAILER_LANG['extension_missing']    = '拡張機能が見つかりません: ';
+</https:></http:></body></html>

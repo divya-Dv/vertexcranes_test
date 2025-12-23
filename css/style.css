@@ -270,7 +270,7 @@ a:hover {
     width: 18px;
     height: 7px;
     margin: 5px;
-    background: #cde1f8;
+    #cde1f8
     border: 0 solid #cde1f8;
     display: block;
     transition: .6s ease-in-out;
@@ -316,7 +316,7 @@ a:hover {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #0078ff;
+    #0078ff
     width: 44px;
     height: 44px;
     line-height: 1;
@@ -347,11 +347,11 @@ a:hover {
     bottom: 0;
     z-index: 9999;
     overflow: hidden;
-    background: #fff
+    #fff
 }
 
 #preloader:before {
-    content: "";
+    content: ""
     position: fixed;
     top: calc(50% - 30px);
     left: calc(50% - 30px);
@@ -1017,7 +1017,13 @@ footer .credits {
 }
 
 .bg-image {
-    background-image: url(../img/banner-01.jpg);
+    
+background-image: url(../img/banner-01.jpg);
+background-image: -webkit-image-set(url("../img/320w/banner-01_320w.webp") 320w, url("../img/640w/banner-01_640w.webp") 640w, url("../img/1024w/banner-01_1024w.webp") 1024w, url("../img/1920w/banner-01_1920w.webp") 1920w); 
+background-image: image-set(url("../img/320w/banner-01_320w.webp") 320w, url("../img/640w/banner-01_640w.webp") 640w, url("../img/1024w/banner-01_1024w.webp") 1024w, url("../img/1920w/banner-01_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../img/320w/banner-01_320w.jpg") 320w, url("../img/640w/banner-01_640w.jpg") 640w, url("../img/1024w/banner-01_1024w.jpg") 1024w, url("../img/1920w/banner-01_1920w.jpg") 1920w);
+background-image: image-set(url("../img/320w/banner-01_320w.jpg") 320w, url("../img/640w/banner-01_640w.jpg") 640w, url("../img/1024w/banner-01_1024w.jpg") 1024w, url("../img/1920w/banner-01_1920w.jpg") 1920w);
+
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -1036,7 +1042,8 @@ footer .credits {
 }
 
 .bg-image1 {
-    background-image: url(../img/contact-new.jpg)
+    
+background-image: url(../img/contact-new.jpg)
 }
 
 .bg-about {
@@ -1057,6 +1064,11 @@ footer .credits {
 
 .pro-tc {
     background-image: url(../img/ramky-tc.jpg);
+background-image: -webkit-image-set(url("../img/320w/contact-new_320w.webp") 320w, url("../img/640w/contact-new_640w.webp") 640w, url("../img/1024w/contact-new_1024w.webp") 1024w, url("../img/1920w/contact-new_1920w.webp") 1920w); 
+background-image: image-set(url("../img/320w/contact-new_320w.webp") 320w, url("../img/640w/contact-new_640w.webp") 640w, url("../img/1024w/contact-new_1024w.webp") 1024w, url("../img/1920w/contact-new_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../img/320w/contact-new_320w.jpg") 320w, url("../img/640w/contact-new_640w.jpg") 640w, url("../img/1024w/contact-new_1024w.jpg") 1024w, url("../img/1920w/contact-new_1920w.jpg") 1920w);
+background-image: image-set(url("../img/320w/contact-new_320w.jpg") 320w, url("../img/640w/contact-new_640w.jpg") 640w, url("../img/1024w/contact-new_1024w.jpg") 1024w, url("../img/1920w/contact-new_1920w.jpg") 1920w);
+
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1082,15 +1094,21 @@ footer .credits {
 }
 
 .pro-bg1 {
-    background-image: url(../img/jib-cranes2.jpg)
+    
+background-image: url(../img/jib-cranes2.jpg)
 }
 
 .pro-bg2 {
     background-image: url(../img/electric-winch.jpg)
 }
 
-.pro-bg3,
-.pro-bgh {
+.pro-bg3;
+background-image: -webkit-image-set(url("../img/320w/jib-cranes2_320w.webp") 320w, url("../img/640w/jib-cranes2_640w.webp") 640w, url("../img/1024w/jib-cranes2_1024w.webp") 1024w, url("../img/1920w/jib-cranes2_1920w.webp") 1920w); 
+background-image: image-set(url("../img/320w/jib-cranes2_320w.webp") 320w, url("../img/640w/jib-cranes2_640w.webp") 640w, url("../img/1024w/jib-cranes2_1024w.webp") 1024w, url("../img/1920w/jib-cranes2_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../img/320w/jib-cranes2_320w.jpg") 320w, url("../img/640w/jib-cranes2_640w.jpg") 640w, url("../img/1024w/jib-cranes2_1024w.jpg") 1024w, url("../img/1920w/jib-cranes2_1920w.jpg") 1920w);
+background-image: image-set(url("../img/320w/jib-cranes2_320w.jpg") 320w, url("../img/640w/jib-cranes2_640w.jpg") 640w, url("../img/1024w/jib-cranes2_1024w.jpg") 1024w, url("../img/1920w/jib-cranes2_1920w.jpg") 1920w);
+, 
+background-image: .pro-bgh {
     background-image: url(../img/electric-hoist.jpg)
 }
 
@@ -1128,6 +1146,11 @@ footer .credits {
 
 .dropdown-submenu>.dropdown-menu {
     top: 0;
+background-image: -webkit-image-set(url("../img/320w/electric-hoist_320w.webp") 320w, url("../img/640w/electric-hoist_640w.webp") 640w, url("../img/1024w/electric-hoist_1024w.webp") 1024w, url("../img/1920w/electric-hoist_1920w.webp") 1920w); 
+background-image: image-set(url("../img/320w/electric-hoist_320w.webp") 320w, url("../img/640w/electric-hoist_640w.webp") 640w, url("../img/1024w/electric-hoist_1024w.webp") 1024w, url("../img/1920w/electric-hoist_1920w.webp") 1920w);
+background-image: -webkit-image-set(url("../img/320w/electric-hoist_320w.jpg") 320w, url("../img/640w/electric-hoist_640w.jpg") 640w, url("../img/1024w/electric-hoist_1024w.jpg") 1024w, url("../img/1920w/electric-hoist_1920w.jpg") 1920w);
+background-image: image-set(url("../img/320w/electric-hoist_320w.jpg") 320w, url("../img/640w/electric-hoist_640w.jpg") 640w, url("../img/1024w/electric-hoist_1024w.jpg") 1024w, url("../img/1920w/electric-hoist_1920w.jpg") 1920w);
+
     left: 100%;
     margin-top: 0
 }
@@ -1171,7 +1194,13 @@ footer .credits {
 }
 
 .single-item {
-    background: url(../img/clients/1.jpg) 0 0/cover no-repeat rgba(0, 0, 0, 0);
+    
+background: url(../img/clients/1.jpg) 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/1_320w.webp") 320w, url("../img/clients/640w/1_640w.webp") 640w, url("../img/clients/1024w/1_1024w.webp") 1024w, url("../img/clients/1920w/1_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/1_320w.webp") 320w, url("../img/clients/640w/1_640w.webp") 640w, url("../img/clients/1024w/1_1024w.webp") 1024w, url("../img/clients/1920w/1_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/1_320w.jpg") 320w, url("../img/clients/640w/1_640w.jpg") 640w, url("../img/clients/1024w/1_1024w.jpg") 1024w, url("../img/clients/1920w/1_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/1_320w.jpg") 320w, url("../img/clients/640w/1_640w.jpg") 640w, url("../img/clients/1024w/1_1024w.jpg") 1024w, url("../img/clients/1920w/1_1920w.jpg") 1920w);
+, 0, 0, 0)
     min-height: 277px;
     padding-bottom: 0;
     padding-top: 48px;
@@ -1188,7 +1217,7 @@ footer .credits {
     width: 100%;
     height: 100%;
     content: "";
-    background: #01a9f4;
+    #01a9f4
     opacity: .9;
     z-index: -1;
     transition: background-color .4s
@@ -1199,245 +1228,591 @@ footer .credits {
 }
 
 .single-item.pd-bottom.text-center.kg1 {
-    background: url("../img/clients/2.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    
+background: url("../img/clients/2.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/2_320w.webp") 320w, url("../img/clients/640w/2_640w.webp") 640w, url("../img/clients/1024w/2_1024w.webp") 1024w, url("../img/clients/1920w/2_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/2_320w.webp") 320w, url("../img/clients/640w/2_640w.webp") 640w, url("../img/clients/1024w/2_1024w.webp") 1024w, url("../img/clients/1920w/2_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/2_320w.jpg") 320w, url("../img/clients/640w/2_640w.jpg") 640w, url("../img/clients/1024w/2_1024w.jpg") 1024w, url("../img/clients/1920w/2_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/2_320w.jpg") 320w, url("../img/clients/640w/2_640w.jpg") 640w, url("../img/clients/1024w/2_1024w.jpg") 1024w, url("../img/clients/1920w/2_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg2 {
-    background: url("../img/clients/3.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/3.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/3_320w.webp") 320w, url("../img/clients/640w/3_640w.webp") 640w, url("../img/clients/1024w/3_1024w.webp") 1024w, url("../img/clients/1920w/3_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/3_320w.webp") 320w, url("../img/clients/640w/3_640w.webp") 640w, url("../img/clients/1024w/3_1024w.webp") 1024w, url("../img/clients/1920w/3_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/3_320w.jpg") 320w, url("../img/clients/640w/3_640w.jpg") 640w, url("../img/clients/1024w/3_1024w.jpg") 1024w, url("../img/clients/1920w/3_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/3_320w.jpg") 320w, url("../img/clients/640w/3_640w.jpg") 640w, url("../img/clients/1024w/3_1024w.jpg") 1024w, url("../img/clients/1920w/3_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.text-center.kg3 {
-    background: url("../img/clients/ct4.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct4.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct4_320w.webp") 320w, url("../img/clients/640w/ct4_640w.webp") 640w, url("../img/clients/1024w/ct4_1024w.webp") 1024w, url("../img/clients/1920w/ct4_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct4_320w.webp") 320w, url("../img/clients/640w/ct4_640w.webp") 640w, url("../img/clients/1024w/ct4_1024w.webp") 1024w, url("../img/clients/1920w/ct4_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct4_320w.jpg") 320w, url("../img/clients/640w/ct4_640w.jpg") 640w, url("../img/clients/1024w/ct4_1024w.jpg") 1024w, url("../img/clients/1920w/ct4_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct4_320w.jpg") 320w, url("../img/clients/640w/ct4_640w.jpg") 640w, url("../img/clients/1024w/ct4_1024w.jpg") 1024w, url("../img/clients/1920w/ct4_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg4 {
-    background: url("../img/clients/ct5.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct5.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct5_320w.webp") 320w, url("../img/clients/640w/ct5_640w.webp") 640w, url("../img/clients/1024w/ct5_1024w.webp") 1024w, url("../img/clients/1920w/ct5_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct5_320w.webp") 320w, url("../img/clients/640w/ct5_640w.webp") 640w, url("../img/clients/1024w/ct5_1024w.webp") 1024w, url("../img/clients/1920w/ct5_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct5_320w.jpg") 320w, url("../img/clients/640w/ct5_640w.jpg") 640w, url("../img/clients/1024w/ct5_1024w.jpg") 1024w, url("../img/clients/1920w/ct5_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct5_320w.jpg") 320w, url("../img/clients/640w/ct5_640w.jpg") 640w, url("../img/clients/1024w/ct5_1024w.jpg") 1024w, url("../img/clients/1920w/ct5_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg5 {
-    background: url("../img/clients/ct6.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct6.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct6_320w.webp") 320w, url("../img/clients/640w/ct6_640w.webp") 640w, url("../img/clients/1024w/ct6_1024w.webp") 1024w, url("../img/clients/1920w/ct6_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct6_320w.webp") 320w, url("../img/clients/640w/ct6_640w.webp") 640w, url("../img/clients/1024w/ct6_1024w.webp") 1024w, url("../img/clients/1920w/ct6_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct6_320w.jpg") 320w, url("../img/clients/640w/ct6_640w.jpg") 640w, url("../img/clients/1024w/ct6_1024w.jpg") 1024w, url("../img/clients/1920w/ct6_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct6_320w.jpg") 320w, url("../img/clients/640w/ct6_640w.jpg") 640w, url("../img/clients/1024w/ct6_1024w.jpg") 1024w, url("../img/clients/1920w/ct6_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg6 {
-    background: url("../img/clients/ct7.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct7.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct7_320w.webp") 320w, url("../img/clients/640w/ct7_640w.webp") 640w, url("../img/clients/1024w/ct7_1024w.webp") 1024w, url("../img/clients/1920w/ct7_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct7_320w.webp") 320w, url("../img/clients/640w/ct7_640w.webp") 640w, url("../img/clients/1024w/ct7_1024w.webp") 1024w, url("../img/clients/1920w/ct7_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct7_320w.jpg") 320w, url("../img/clients/640w/ct7_640w.jpg") 640w, url("../img/clients/1024w/ct7_1024w.jpg") 1024w, url("../img/clients/1920w/ct7_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct7_320w.jpg") 320w, url("../img/clients/640w/ct7_640w.jpg") 640w, url("../img/clients/1024w/ct7_1024w.jpg") 1024w, url("../img/clients/1920w/ct7_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg7 {
-    background: url("../img/clients/ct8.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct8.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct8_320w.webp") 320w, url("../img/clients/640w/ct8_640w.webp") 640w, url("../img/clients/1024w/ct8_1024w.webp") 1024w, url("../img/clients/1920w/ct8_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct8_320w.webp") 320w, url("../img/clients/640w/ct8_640w.webp") 640w, url("../img/clients/1024w/ct8_1024w.webp") 1024w, url("../img/clients/1920w/ct8_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct8_320w.jpg") 320w, url("../img/clients/640w/ct8_640w.jpg") 640w, url("../img/clients/1024w/ct8_1024w.jpg") 1024w, url("../img/clients/1920w/ct8_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct8_320w.jpg") 320w, url("../img/clients/640w/ct8_640w.jpg") 640w, url("../img/clients/1024w/ct8_1024w.jpg") 1024w, url("../img/clients/1920w/ct8_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg8 {
-    background: url("../img/clients/ct9.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct9.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct9_320w.webp") 320w, url("../img/clients/640w/ct9_640w.webp") 640w, url("../img/clients/1024w/ct9_1024w.webp") 1024w, url("../img/clients/1920w/ct9_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct9_320w.webp") 320w, url("../img/clients/640w/ct9_640w.webp") 640w, url("../img/clients/1024w/ct9_1024w.webp") 1024w, url("../img/clients/1920w/ct9_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct9_320w.jpg") 320w, url("../img/clients/640w/ct9_640w.jpg") 640w, url("../img/clients/1024w/ct9_1024w.jpg") 1024w, url("../img/clients/1920w/ct9_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct9_320w.jpg") 320w, url("../img/clients/640w/ct9_640w.jpg") 640w, url("../img/clients/1024w/ct9_1024w.jpg") 1024w, url("../img/clients/1920w/ct9_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg9 {
-    background: url("../img/clients/ct10.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct10.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct10_320w.webp") 320w, url("../img/clients/640w/ct10_640w.webp") 640w, url("../img/clients/1024w/ct10_1024w.webp") 1024w, url("../img/clients/1920w/ct10_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct10_320w.webp") 320w, url("../img/clients/640w/ct10_640w.webp") 640w, url("../img/clients/1024w/ct10_1024w.webp") 1024w, url("../img/clients/1920w/ct10_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct10_320w.jpg") 320w, url("../img/clients/640w/ct10_640w.jpg") 640w, url("../img/clients/1024w/ct10_1024w.jpg") 1024w, url("../img/clients/1920w/ct10_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct10_320w.jpg") 320w, url("../img/clients/640w/ct10_640w.jpg") 640w, url("../img/clients/1024w/ct10_1024w.jpg") 1024w, url("../img/clients/1920w/ct10_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg10 {
-    background: url("../img/clients/ct11.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct11.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct11_320w.webp") 320w, url("../img/clients/640w/ct11_640w.webp") 640w, url("../img/clients/1024w/ct11_1024w.webp") 1024w, url("../img/clients/1920w/ct11_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct11_320w.webp") 320w, url("../img/clients/640w/ct11_640w.webp") 640w, url("../img/clients/1024w/ct11_1024w.webp") 1024w, url("../img/clients/1920w/ct11_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct11_320w.jpg") 320w, url("../img/clients/640w/ct11_640w.jpg") 640w, url("../img/clients/1024w/ct11_1024w.jpg") 1024w, url("../img/clients/1920w/ct11_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct11_320w.jpg") 320w, url("../img/clients/640w/ct11_640w.jpg") 640w, url("../img/clients/1024w/ct11_1024w.jpg") 1024w, url("../img/clients/1920w/ct11_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg11 {
-    background: url("../img/clients/ct12.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct12.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct12_320w.webp") 320w, url("../img/clients/640w/ct12_640w.webp") 640w, url("../img/clients/1024w/ct12_1024w.webp") 1024w, url("../img/clients/1920w/ct12_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct12_320w.webp") 320w, url("../img/clients/640w/ct12_640w.webp") 640w, url("../img/clients/1024w/ct12_1024w.webp") 1024w, url("../img/clients/1920w/ct12_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct12_320w.jpg") 320w, url("../img/clients/640w/ct12_640w.jpg") 640w, url("../img/clients/1024w/ct12_1024w.jpg") 1024w, url("../img/clients/1920w/ct12_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct12_320w.jpg") 320w, url("../img/clients/640w/ct12_640w.jpg") 640w, url("../img/clients/1024w/ct12_1024w.jpg") 1024w, url("../img/clients/1920w/ct12_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg12 {
-    background: url("../img/clients/ct13.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct13.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct13_320w.webp") 320w, url("../img/clients/640w/ct13_640w.webp") 640w, url("../img/clients/1024w/ct13_1024w.webp") 1024w, url("../img/clients/1920w/ct13_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct13_320w.webp") 320w, url("../img/clients/640w/ct13_640w.webp") 640w, url("../img/clients/1024w/ct13_1024w.webp") 1024w, url("../img/clients/1920w/ct13_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct13_320w.jpg") 320w, url("../img/clients/640w/ct13_640w.jpg") 640w, url("../img/clients/1024w/ct13_1024w.jpg") 1024w, url("../img/clients/1920w/ct13_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct13_320w.jpg") 320w, url("../img/clients/640w/ct13_640w.jpg") 640w, url("../img/clients/1024w/ct13_1024w.jpg") 1024w, url("../img/clients/1920w/ct13_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg12 {
-    background: url("../img/clients/ct14.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct14.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct14_320w.webp") 320w, url("../img/clients/640w/ct14_640w.webp") 640w, url("../img/clients/1024w/ct14_1024w.webp") 1024w, url("../img/clients/1920w/ct14_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct14_320w.webp") 320w, url("../img/clients/640w/ct14_640w.webp") 640w, url("../img/clients/1024w/ct14_1024w.webp") 1024w, url("../img/clients/1920w/ct14_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct14_320w.jpg") 320w, url("../img/clients/640w/ct14_640w.jpg") 640w, url("../img/clients/1024w/ct14_1024w.jpg") 1024w, url("../img/clients/1920w/ct14_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct14_320w.jpg") 320w, url("../img/clients/640w/ct14_640w.jpg") 640w, url("../img/clients/1024w/ct14_1024w.jpg") 1024w, url("../img/clients/1920w/ct14_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg13 {
-    background: url("../img/clients/ct15.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct15.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct15_320w.webp") 320w, url("../img/clients/640w/ct15_640w.webp") 640w, url("../img/clients/1024w/ct15_1024w.webp") 1024w, url("../img/clients/1920w/ct15_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct15_320w.webp") 320w, url("../img/clients/640w/ct15_640w.webp") 640w, url("../img/clients/1024w/ct15_1024w.webp") 1024w, url("../img/clients/1920w/ct15_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct15_320w.jpg") 320w, url("../img/clients/640w/ct15_640w.jpg") 640w, url("../img/clients/1024w/ct15_1024w.jpg") 1024w, url("../img/clients/1920w/ct15_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct15_320w.jpg") 320w, url("../img/clients/640w/ct15_640w.jpg") 640w, url("../img/clients/1024w/ct15_1024w.jpg") 1024w, url("../img/clients/1920w/ct15_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg14 {
-    background: url("../img/clients/ct16.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct16.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct16_320w.webp") 320w, url("../img/clients/640w/ct16_640w.webp") 640w, url("../img/clients/1024w/ct16_1024w.webp") 1024w, url("../img/clients/1920w/ct16_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct16_320w.webp") 320w, url("../img/clients/640w/ct16_640w.webp") 640w, url("../img/clients/1024w/ct16_1024w.webp") 1024w, url("../img/clients/1920w/ct16_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct16_320w.jpg") 320w, url("../img/clients/640w/ct16_640w.jpg") 640w, url("../img/clients/1024w/ct16_1024w.jpg") 1024w, url("../img/clients/1920w/ct16_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct16_320w.jpg") 320w, url("../img/clients/640w/ct16_640w.jpg") 640w, url("../img/clients/1024w/ct16_1024w.jpg") 1024w, url("../img/clients/1920w/ct16_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.text-center.kh15 {
-    background: url("../img/clients/ct17.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct17.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct17_320w.webp") 320w, url("../img/clients/640w/ct17_640w.webp") 640w, url("../img/clients/1024w/ct17_1024w.webp") 1024w, url("../img/clients/1920w/ct17_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct17_320w.webp") 320w, url("../img/clients/640w/ct17_640w.webp") 640w, url("../img/clients/1024w/ct17_1024w.webp") 1024w, url("../img/clients/1920w/ct17_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct17_320w.jpg") 320w, url("../img/clients/640w/ct17_640w.jpg") 640w, url("../img/clients/1024w/ct17_1024w.jpg") 1024w, url("../img/clients/1920w/ct17_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct17_320w.jpg") 320w, url("../img/clients/640w/ct17_640w.jpg") 640w, url("../img/clients/1024w/ct17_1024w.jpg") 1024w, url("../img/clients/1920w/ct17_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg16 {
-    background: url("../img/clients/ct18.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct18.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct18_320w.webp") 320w, url("../img/clients/640w/ct18_640w.webp") 640w, url("../img/clients/1024w/ct18_1024w.webp") 1024w, url("../img/clients/1920w/ct18_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct18_320w.webp") 320w, url("../img/clients/640w/ct18_640w.webp") 640w, url("../img/clients/1024w/ct18_1024w.webp") 1024w, url("../img/clients/1920w/ct18_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct18_320w.jpg") 320w, url("../img/clients/640w/ct18_640w.jpg") 640w, url("../img/clients/1024w/ct18_1024w.jpg") 1024w, url("../img/clients/1920w/ct18_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct18_320w.jpg") 320w, url("../img/clients/640w/ct18_640w.jpg") 640w, url("../img/clients/1024w/ct18_1024w.jpg") 1024w, url("../img/clients/1920w/ct18_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg17 {
-    background: url("../img/clients/ct19.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct19.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct19_320w.webp") 320w, url("../img/clients/640w/ct19_640w.webp") 640w, url("../img/clients/1024w/ct19_1024w.webp") 1024w, url("../img/clients/1920w/ct19_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct19_320w.webp") 320w, url("../img/clients/640w/ct19_640w.webp") 640w, url("../img/clients/1024w/ct19_1024w.webp") 1024w, url("../img/clients/1920w/ct19_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct19_320w.jpg") 320w, url("../img/clients/640w/ct19_640w.jpg") 640w, url("../img/clients/1024w/ct19_1024w.jpg") 1024w, url("../img/clients/1920w/ct19_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct19_320w.jpg") 320w, url("../img/clients/640w/ct19_640w.jpg") 640w, url("../img/clients/1024w/ct19_1024w.jpg") 1024w, url("../img/clients/1920w/ct19_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg18 {
-    background: url("../img/clients/ct20.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct20.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct20_320w.webp") 320w, url("../img/clients/640w/ct20_640w.webp") 640w, url("../img/clients/1024w/ct20_1024w.webp") 1024w, url("../img/clients/1920w/ct20_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct20_320w.webp") 320w, url("../img/clients/640w/ct20_640w.webp") 640w, url("../img/clients/1024w/ct20_1024w.webp") 1024w, url("../img/clients/1920w/ct20_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct20_320w.jpg") 320w, url("../img/clients/640w/ct20_640w.jpg") 640w, url("../img/clients/1024w/ct20_1024w.jpg") 1024w, url("../img/clients/1920w/ct20_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct20_320w.jpg") 320w, url("../img/clients/640w/ct20_640w.jpg") 640w, url("../img/clients/1024w/ct20_1024w.jpg") 1024w, url("../img/clients/1920w/ct20_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.text-center.kg19 {
-    background: url("../img/clients/ct21.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct21.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct21_320w.webp") 320w, url("../img/clients/640w/ct21_640w.webp") 640w, url("../img/clients/1024w/ct21_1024w.webp") 1024w, url("../img/clients/1920w/ct21_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct21_320w.webp") 320w, url("../img/clients/640w/ct21_640w.webp") 640w, url("../img/clients/1024w/ct21_1024w.webp") 1024w, url("../img/clients/1920w/ct21_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct21_320w.jpg") 320w, url("../img/clients/640w/ct21_640w.jpg") 640w, url("../img/clients/1024w/ct21_1024w.jpg") 1024w, url("../img/clients/1920w/ct21_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct21_320w.jpg") 320w, url("../img/clients/640w/ct21_640w.jpg") 640w, url("../img/clients/1024w/ct21_1024w.jpg") 1024w, url("../img/clients/1920w/ct21_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kg21 {
-    background: url("../img/clients/ct22.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct22.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct22_320w.webp") 320w, url("../img/clients/640w/ct22_640w.webp") 640w, url("../img/clients/1024w/ct22_1024w.webp") 1024w, url("../img/clients/1920w/ct22_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct22_320w.webp") 320w, url("../img/clients/640w/ct22_640w.webp") 640w, url("../img/clients/1024w/ct22_1024w.webp") 1024w, url("../img/clients/1920w/ct22_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct22_320w.jpg") 320w, url("../img/clients/640w/ct22_640w.jpg") 640w, url("../img/clients/1024w/ct22_1024w.jpg") 1024w, url("../img/clients/1920w/ct22_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct22_320w.jpg") 320w, url("../img/clients/640w/ct22_640w.jpg") 640w, url("../img/clients/1024w/ct22_1024w.jpg") 1024w, url("../img/clients/1920w/ct22_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg24 {
-    background: url("../img/clients/ct24.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct24.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct24_320w.webp") 320w, url("../img/clients/640w/ct24_640w.webp") 640w, url("../img/clients/1024w/ct24_1024w.webp") 1024w, url("../img/clients/1920w/ct24_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct24_320w.webp") 320w, url("../img/clients/640w/ct24_640w.webp") 640w, url("../img/clients/1024w/ct24_1024w.webp") 1024w, url("../img/clients/1920w/ct24_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct24_320w.jpg") 320w, url("../img/clients/640w/ct24_640w.jpg") 640w, url("../img/clients/1024w/ct24_1024w.jpg") 1024w, url("../img/clients/1920w/ct24_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct24_320w.jpg") 320w, url("../img/clients/640w/ct24_640w.jpg") 640w, url("../img/clients/1024w/ct24_1024w.jpg") 1024w, url("../img/clients/1920w/ct24_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg25 {
-    background: url("../img/clients/ct25.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct25.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct25_320w.webp") 320w, url("../img/clients/640w/ct25_640w.webp") 640w, url("../img/clients/1024w/ct25_1024w.webp") 1024w, url("../img/clients/1920w/ct25_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct25_320w.webp") 320w, url("../img/clients/640w/ct25_640w.webp") 640w, url("../img/clients/1024w/ct25_1024w.webp") 1024w, url("../img/clients/1920w/ct25_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct25_320w.jpg") 320w, url("../img/clients/640w/ct25_640w.jpg") 640w, url("../img/clients/1024w/ct25_1024w.jpg") 1024w, url("../img/clients/1920w/ct25_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct25_320w.jpg") 320w, url("../img/clients/640w/ct25_640w.jpg") 640w, url("../img/clients/1024w/ct25_1024w.jpg") 1024w, url("../img/clients/1920w/ct25_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg26 {
-    background: url("../img/clients/ct26.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct26.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct26_320w.webp") 320w, url("../img/clients/640w/ct26_640w.webp") 640w, url("../img/clients/1024w/ct26_1024w.webp") 1024w, url("../img/clients/1920w/ct26_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct26_320w.webp") 320w, url("../img/clients/640w/ct26_640w.webp") 640w, url("../img/clients/1024w/ct26_1024w.webp") 1024w, url("../img/clients/1920w/ct26_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct26_320w.jpg") 320w, url("../img/clients/640w/ct26_640w.jpg") 640w, url("../img/clients/1024w/ct26_1024w.jpg") 1024w, url("../img/clients/1920w/ct26_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct26_320w.jpg") 320w, url("../img/clients/640w/ct26_640w.jpg") 640w, url("../img/clients/1024w/ct26_1024w.jpg") 1024w, url("../img/clients/1920w/ct26_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg27 {
-    background: url("../img/clients/ct27.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct27.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct27_320w.webp") 320w, url("../img/clients/640w/ct27_640w.webp") 640w, url("../img/clients/1024w/ct27_1024w.webp") 1024w, url("../img/clients/1920w/ct27_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct27_320w.webp") 320w, url("../img/clients/640w/ct27_640w.webp") 640w, url("../img/clients/1024w/ct27_1024w.webp") 1024w, url("../img/clients/1920w/ct27_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct27_320w.jpg") 320w, url("../img/clients/640w/ct27_640w.jpg") 640w, url("../img/clients/1024w/ct27_1024w.jpg") 1024w, url("../img/clients/1920w/ct27_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct27_320w.jpg") 320w, url("../img/clients/640w/ct27_640w.jpg") 640w, url("../img/clients/1024w/ct27_1024w.jpg") 1024w, url("../img/clients/1920w/ct27_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg28 {
-    background: url("../img/clients/ct28.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct28.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct28_320w.webp") 320w, url("../img/clients/640w/ct28_640w.webp") 640w, url("../img/clients/1024w/ct28_1024w.webp") 1024w, url("../img/clients/1920w/ct28_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct28_320w.webp") 320w, url("../img/clients/640w/ct28_640w.webp") 640w, url("../img/clients/1024w/ct28_1024w.webp") 1024w, url("../img/clients/1920w/ct28_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct28_320w.jpg") 320w, url("../img/clients/640w/ct28_640w.jpg") 640w, url("../img/clients/1024w/ct28_1024w.jpg") 1024w, url("../img/clients/1920w/ct28_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct28_320w.jpg") 320w, url("../img/clients/640w/ct28_640w.jpg") 640w, url("../img/clients/1024w/ct28_1024w.jpg") 1024w, url("../img/clients/1920w/ct28_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg29 {
-    background: url("../img/clients/ct29.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct29.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct29_320w.webp") 320w, url("../img/clients/640w/ct29_640w.webp") 640w, url("../img/clients/1024w/ct29_1024w.webp") 1024w, url("../img/clients/1920w/ct29_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct29_320w.webp") 320w, url("../img/clients/640w/ct29_640w.webp") 640w, url("../img/clients/1024w/ct29_1024w.webp") 1024w, url("../img/clients/1920w/ct29_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct29_320w.jpg") 320w, url("../img/clients/640w/ct29_640w.jpg") 640w, url("../img/clients/1024w/ct29_1024w.jpg") 1024w, url("../img/clients/1920w/ct29_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct29_320w.jpg") 320w, url("../img/clients/640w/ct29_640w.jpg") 640w, url("../img/clients/1024w/ct29_1024w.jpg") 1024w, url("../img/clients/1920w/ct29_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg30 {
-    background: url("../img/clients/ct30.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct30.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct30_320w.webp") 320w, url("../img/clients/640w/ct30_640w.webp") 640w, url("../img/clients/1024w/ct30_1024w.webp") 1024w, url("../img/clients/1920w/ct30_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct30_320w.webp") 320w, url("../img/clients/640w/ct30_640w.webp") 640w, url("../img/clients/1024w/ct30_1024w.webp") 1024w, url("../img/clients/1920w/ct30_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct30_320w.jpg") 320w, url("../img/clients/640w/ct30_640w.jpg") 640w, url("../img/clients/1024w/ct30_1024w.jpg") 1024w, url("../img/clients/1920w/ct30_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct30_320w.jpg") 320w, url("../img/clients/640w/ct30_640w.jpg") 640w, url("../img/clients/1024w/ct30_1024w.jpg") 1024w, url("../img/clients/1920w/ct30_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg31 {
-    background: url("../img/clients/ct31.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct31.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct31_320w.webp") 320w, url("../img/clients/640w/ct31_640w.webp") 640w, url("../img/clients/1024w/ct31_1024w.webp") 1024w, url("../img/clients/1920w/ct31_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct31_320w.webp") 320w, url("../img/clients/640w/ct31_640w.webp") 640w, url("../img/clients/1024w/ct31_1024w.webp") 1024w, url("../img/clients/1920w/ct31_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct31_320w.jpg") 320w, url("../img/clients/640w/ct31_640w.jpg") 640w, url("../img/clients/1024w/ct31_1024w.jpg") 1024w, url("../img/clients/1920w/ct31_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct31_320w.jpg") 320w, url("../img/clients/640w/ct31_640w.jpg") 640w, url("../img/clients/1024w/ct31_1024w.jpg") 1024w, url("../img/clients/1920w/ct31_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg32 {
-    background: url("../img/clients/ct32.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct32.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct32_320w.webp") 320w, url("../img/clients/640w/ct32_640w.webp") 640w, url("../img/clients/1024w/ct32_1024w.webp") 1024w, url("../img/clients/1920w/ct32_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct32_320w.webp") 320w, url("../img/clients/640w/ct32_640w.webp") 640w, url("../img/clients/1024w/ct32_1024w.webp") 1024w, url("../img/clients/1920w/ct32_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct32_320w.jpg") 320w, url("../img/clients/640w/ct32_640w.jpg") 640w, url("../img/clients/1024w/ct32_1024w.jpg") 1024w, url("../img/clients/1920w/ct32_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct32_320w.jpg") 320w, url("../img/clients/640w/ct32_640w.jpg") 640w, url("../img/clients/1024w/ct32_1024w.jpg") 1024w, url("../img/clients/1920w/ct32_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg33 {
-    background: url("../img/clients/ct33.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct33.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct33_320w.webp") 320w, url("../img/clients/640w/ct33_640w.webp") 640w, url("../img/clients/1024w/ct33_1024w.webp") 1024w, url("../img/clients/1920w/ct33_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct33_320w.webp") 320w, url("../img/clients/640w/ct33_640w.webp") 640w, url("../img/clients/1024w/ct33_1024w.webp") 1024w, url("../img/clients/1920w/ct33_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct33_320w.jpg") 320w, url("../img/clients/640w/ct33_640w.jpg") 640w, url("../img/clients/1024w/ct33_1024w.jpg") 1024w, url("../img/clients/1920w/ct33_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct33_320w.jpg") 320w, url("../img/clients/640w/ct33_640w.jpg") 640w, url("../img/clients/1024w/ct33_1024w.jpg") 1024w, url("../img/clients/1920w/ct33_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg34 {
-    background: url("../img/clients/ct34.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct34.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct34_320w.webp") 320w, url("../img/clients/640w/ct34_640w.webp") 640w, url("../img/clients/1024w/ct34_1024w.webp") 1024w, url("../img/clients/1920w/ct34_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct34_320w.webp") 320w, url("../img/clients/640w/ct34_640w.webp") 640w, url("../img/clients/1024w/ct34_1024w.webp") 1024w, url("../img/clients/1920w/ct34_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct34_320w.jpg") 320w, url("../img/clients/640w/ct34_640w.jpg") 640w, url("../img/clients/1024w/ct34_1024w.jpg") 1024w, url("../img/clients/1920w/ct34_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct34_320w.jpg") 320w, url("../img/clients/640w/ct34_640w.jpg") 640w, url("../img/clients/1024w/ct34_1024w.jpg") 1024w, url("../img/clients/1920w/ct34_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg35 {
-    background: url("../img/clients/ct35.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct35.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct35_320w.webp") 320w, url("../img/clients/640w/ct35_640w.webp") 640w, url("../img/clients/1024w/ct35_1024w.webp") 1024w, url("../img/clients/1920w/ct35_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct35_320w.webp") 320w, url("../img/clients/640w/ct35_640w.webp") 640w, url("../img/clients/1024w/ct35_1024w.webp") 1024w, url("../img/clients/1920w/ct35_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct35_320w.jpg") 320w, url("../img/clients/640w/ct35_640w.jpg") 640w, url("../img/clients/1024w/ct35_1024w.jpg") 1024w, url("../img/clients/1920w/ct35_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct35_320w.jpg") 320w, url("../img/clients/640w/ct35_640w.jpg") 640w, url("../img/clients/1024w/ct35_1024w.jpg") 1024w, url("../img/clients/1920w/ct35_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg36 {
-    background: url("../img/clients/ct36.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct36.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct36_320w.webp") 320w, url("../img/clients/640w/ct36_640w.webp") 640w, url("../img/clients/1024w/ct36_1024w.webp") 1024w, url("../img/clients/1920w/ct36_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct36_320w.webp") 320w, url("../img/clients/640w/ct36_640w.webp") 640w, url("../img/clients/1024w/ct36_1024w.webp") 1024w, url("../img/clients/1920w/ct36_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct36_320w.jpg") 320w, url("../img/clients/640w/ct36_640w.jpg") 640w, url("../img/clients/1024w/ct36_1024w.jpg") 1024w, url("../img/clients/1920w/ct36_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct36_320w.jpg") 320w, url("../img/clients/640w/ct36_640w.jpg") 640w, url("../img/clients/1024w/ct36_1024w.jpg") 1024w, url("../img/clients/1920w/ct36_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg37 {
-    background: url("../img/clients/ct37.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct37.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct37_320w.webp") 320w, url("../img/clients/640w/ct37_640w.webp") 640w, url("../img/clients/1024w/ct37_1024w.webp") 1024w, url("../img/clients/1920w/ct37_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct37_320w.webp") 320w, url("../img/clients/640w/ct37_640w.webp") 640w, url("../img/clients/1024w/ct37_1024w.webp") 1024w, url("../img/clients/1920w/ct37_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct37_320w.jpg") 320w, url("../img/clients/640w/ct37_640w.jpg") 640w, url("../img/clients/1024w/ct37_1024w.jpg") 1024w, url("../img/clients/1920w/ct37_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct37_320w.jpg") 320w, url("../img/clients/640w/ct37_640w.jpg") 640w, url("../img/clients/1024w/ct37_1024w.jpg") 1024w, url("../img/clients/1920w/ct37_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg38 {
-    background: url("../img/clients/ct38.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct38.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct38_320w.webp") 320w, url("../img/clients/640w/ct38_640w.webp") 640w, url("../img/clients/1024w/ct38_1024w.webp") 1024w, url("../img/clients/1920w/ct38_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct38_320w.webp") 320w, url("../img/clients/640w/ct38_640w.webp") 640w, url("../img/clients/1024w/ct38_1024w.webp") 1024w, url("../img/clients/1920w/ct38_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct38_320w.jpg") 320w, url("../img/clients/640w/ct38_640w.jpg") 640w, url("../img/clients/1024w/ct38_1024w.jpg") 1024w, url("../img/clients/1920w/ct38_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct38_320w.jpg") 320w, url("../img/clients/640w/ct38_640w.jpg") 640w, url("../img/clients/1024w/ct38_1024w.jpg") 1024w, url("../img/clients/1920w/ct38_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg39 {
-    background: url("../img/clients/ct39.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct39.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct39_320w.webp") 320w, url("../img/clients/640w/ct39_640w.webp") 640w, url("../img/clients/1024w/ct39_1024w.webp") 1024w, url("../img/clients/1920w/ct39_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct39_320w.webp") 320w, url("../img/clients/640w/ct39_640w.webp") 640w, url("../img/clients/1024w/ct39_1024w.webp") 1024w, url("../img/clients/1920w/ct39_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct39_320w.jpg") 320w, url("../img/clients/640w/ct39_640w.jpg") 640w, url("../img/clients/1024w/ct39_1024w.jpg") 1024w, url("../img/clients/1920w/ct39_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct39_320w.jpg") 320w, url("../img/clients/640w/ct39_640w.jpg") 640w, url("../img/clients/1024w/ct39_1024w.jpg") 1024w, url("../img/clients/1920w/ct39_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg40 {
-    background: url("../img/clients/ct40.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct40.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct40_320w.webp") 320w, url("../img/clients/640w/ct40_640w.webp") 640w, url("../img/clients/1024w/ct40_1024w.webp") 1024w, url("../img/clients/1920w/ct40_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct40_320w.webp") 320w, url("../img/clients/640w/ct40_640w.webp") 640w, url("../img/clients/1024w/ct40_1024w.webp") 1024w, url("../img/clients/1920w/ct40_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct40_320w.jpg") 320w, url("../img/clients/640w/ct40_640w.jpg") 640w, url("../img/clients/1024w/ct40_1024w.jpg") 1024w, url("../img/clients/1920w/ct40_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct40_320w.jpg") 320w, url("../img/clients/640w/ct40_640w.jpg") 640w, url("../img/clients/1024w/ct40_1024w.jpg") 1024w, url("../img/clients/1920w/ct40_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg41 {
-    background: url("../img/clients/ct41.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct41.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct41_320w.webp") 320w, url("../img/clients/640w/ct41_640w.webp") 640w, url("../img/clients/1024w/ct41_1024w.webp") 1024w, url("../img/clients/1920w/ct41_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct41_320w.webp") 320w, url("../img/clients/640w/ct41_640w.webp") 640w, url("../img/clients/1024w/ct41_1024w.webp") 1024w, url("../img/clients/1920w/ct41_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct41_320w.jpg") 320w, url("../img/clients/640w/ct41_640w.jpg") 640w, url("../img/clients/1024w/ct41_1024w.jpg") 1024w, url("../img/clients/1920w/ct41_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct41_320w.jpg") 320w, url("../img/clients/640w/ct41_640w.jpg") 640w, url("../img/clients/1024w/ct41_1024w.jpg") 1024w, url("../img/clients/1920w/ct41_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg42 {
-    background: url("../img/clients/ct42.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct42.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct42_320w.webp") 320w, url("../img/clients/640w/ct42_640w.webp") 640w, url("../img/clients/1024w/ct42_1024w.webp") 1024w, url("../img/clients/1920w/ct42_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct42_320w.webp") 320w, url("../img/clients/640w/ct42_640w.webp") 640w, url("../img/clients/1024w/ct42_1024w.webp") 1024w, url("../img/clients/1920w/ct42_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct42_320w.jpg") 320w, url("../img/clients/640w/ct42_640w.jpg") 640w, url("../img/clients/1024w/ct42_1024w.jpg") 1024w, url("../img/clients/1920w/ct42_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct42_320w.jpg") 320w, url("../img/clients/640w/ct42_640w.jpg") 640w, url("../img/clients/1024w/ct42_1024w.jpg") 1024w, url("../img/clients/1920w/ct42_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg43 {
-    background: url("../img/clients/ct43.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct43.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct43_320w.webp") 320w, url("../img/clients/640w/ct43_640w.webp") 640w, url("../img/clients/1024w/ct43_1024w.webp") 1024w, url("../img/clients/1920w/ct43_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct43_320w.webp") 320w, url("../img/clients/640w/ct43_640w.webp") 640w, url("../img/clients/1024w/ct43_1024w.webp") 1024w, url("../img/clients/1920w/ct43_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct43_320w.jpg") 320w, url("../img/clients/640w/ct43_640w.jpg") 640w, url("../img/clients/1024w/ct43_1024w.jpg") 1024w, url("../img/clients/1920w/ct43_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct43_320w.jpg") 320w, url("../img/clients/640w/ct43_640w.jpg") 640w, url("../img/clients/1024w/ct43_1024w.jpg") 1024w, url("../img/clients/1920w/ct43_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg44 {
-    background: url("../img/clients/ct44.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct44.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct44_320w.webp") 320w, url("../img/clients/640w/ct44_640w.webp") 640w, url("../img/clients/1024w/ct44_1024w.webp") 1024w, url("../img/clients/1920w/ct44_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct44_320w.webp") 320w, url("../img/clients/640w/ct44_640w.webp") 640w, url("../img/clients/1024w/ct44_1024w.webp") 1024w, url("../img/clients/1920w/ct44_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct44_320w.jpg") 320w, url("../img/clients/640w/ct44_640w.jpg") 640w, url("../img/clients/1024w/ct44_1024w.jpg") 1024w, url("../img/clients/1920w/ct44_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct44_320w.jpg") 320w, url("../img/clients/640w/ct44_640w.jpg") 640w, url("../img/clients/1024w/ct44_1024w.jpg") 1024w, url("../img/clients/1920w/ct44_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg45 {
-    background: url("../img/clients/ct45.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct45.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct45_320w.webp") 320w, url("../img/clients/640w/ct45_640w.webp") 640w, url("../img/clients/1024w/ct45_1024w.webp") 1024w, url("../img/clients/1920w/ct45_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct45_320w.webp") 320w, url("../img/clients/640w/ct45_640w.webp") 640w, url("../img/clients/1024w/ct45_1024w.webp") 1024w, url("../img/clients/1920w/ct45_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct45_320w.jpg") 320w, url("../img/clients/640w/ct45_640w.jpg") 640w, url("../img/clients/1024w/ct45_1024w.jpg") 1024w, url("../img/clients/1920w/ct45_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct45_320w.jpg") 320w, url("../img/clients/640w/ct45_640w.jpg") 640w, url("../img/clients/1024w/ct45_1024w.jpg") 1024w, url("../img/clients/1920w/ct45_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg46 {
-    background: url("../img/clients/ct46.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct46.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct46_320w.webp") 320w, url("../img/clients/640w/ct46_640w.webp") 640w, url("../img/clients/1024w/ct46_1024w.webp") 1024w, url("../img/clients/1920w/ct46_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct46_320w.webp") 320w, url("../img/clients/640w/ct46_640w.webp") 640w, url("../img/clients/1024w/ct46_1024w.webp") 1024w, url("../img/clients/1920w/ct46_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct46_320w.jpg") 320w, url("../img/clients/640w/ct46_640w.jpg") 640w, url("../img/clients/1024w/ct46_1024w.jpg") 1024w, url("../img/clients/1920w/ct46_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct46_320w.jpg") 320w, url("../img/clients/640w/ct46_640w.jpg") 640w, url("../img/clients/1024w/ct46_1024w.jpg") 1024w, url("../img/clients/1920w/ct46_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kg47 {
-    background: url("../img/clients/ct47.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/ct47.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ct47_320w.webp") 320w, url("../img/clients/640w/ct47_640w.webp") 640w, url("../img/clients/1024w/ct47_1024w.webp") 1024w, url("../img/clients/1920w/ct47_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct47_320w.webp") 320w, url("../img/clients/640w/ct47_640w.webp") 640w, url("../img/clients/1024w/ct47_1024w.webp") 1024w, url("../img/clients/1920w/ct47_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct47_320w.jpg") 320w, url("../img/clients/640w/ct47_640w.jpg") 640w, url("../img/clients/1024w/ct47_1024w.jpg") 1024w, url("../img/clients/1920w/ct47_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct47_320w.jpg") 320w, url("../img/clients/640w/ct47_640w.jpg") 640w, url("../img/clients/1024w/ct47_1024w.jpg") 1024w, url("../img/clients/1920w/ct47_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kgn1 {
-    background: url("../img/clients/23.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/23.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/23_320w.webp") 320w, url("../img/clients/640w/23_640w.webp") 640w, url("../img/clients/1024w/23_1024w.webp") 1024w, url("../img/clients/1920w/23_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/23_320w.webp") 320w, url("../img/clients/640w/23_640w.webp") 640w, url("../img/clients/1024w/23_1024w.webp") 1024w, url("../img/clients/1920w/23_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/23_320w.jpg") 320w, url("../img/clients/640w/23_640w.jpg") 640w, url("../img/clients/1024w/23_1024w.jpg") 1024w, url("../img/clients/1920w/23_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/23_320w.jpg") 320w, url("../img/clients/640w/23_640w.jpg") 640w, url("../img/clients/1024w/23_1024w.jpg") 1024w, url("../img/clients/1920w/23_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.kgn2 {
-    background: url("../img/clients/24.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/24.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/24_320w.webp") 320w, url("../img/clients/640w/24_640w.webp") 640w, url("../img/clients/1024w/24_1024w.webp") 1024w, url("../img/clients/1920w/24_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/24_320w.webp") 320w, url("../img/clients/640w/24_640w.webp") 640w, url("../img/clients/1024w/24_1024w.webp") 1024w, url("../img/clients/1920w/24_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/24_320w.jpg") 320w, url("../img/clients/640w/24_640w.jpg") 640w, url("../img/clients/1024w/24_1024w.jpg") 1024w, url("../img/clients/1920w/24_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/24_320w.jpg") 320w, url("../img/clients/640w/24_640w.jpg") 640w, url("../img/clients/1024w/24_1024w.jpg") 1024w, url("../img/clients/1920w/24_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom-2.text-center.kgn3 {
-    background: url("../img/clients/25.png") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/25.png") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/25_320w.webp") 320w, url("../img/clients/640w/25_640w.webp") 640w, url("../img/clients/1024w/25_1024w.webp") 1024w, url("../img/clients/1920w/25_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/25_320w.webp") 320w, url("../img/clients/640w/25_640w.webp") 640w, url("../img/clients/1024w/25_1024w.webp") 1024w, url("../img/clients/1920w/25_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/25_320w.png") 320w, url("../img/clients/640w/25_640w.png") 640w, url("../img/clients/1024w/25_1024w.png") 1024w, url("../img/clients/1920w/25_1920w.png") 1920w);
+background: image-set(url("../img/clients/320w/25_320w.png") 320w, url("../img/clients/640w/25_640w.png") 640w, url("../img/clients/1024w/25_1024w.png") 1024w, url("../img/clients/1920w/25_1920w.png") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.text-center.kgn4 {
-    background: url("../img/clients/26.png") 0 0/cover no-repeat rgba(0, 0, 0, 0)
+    background: url("../img/clients/26.png") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/26_320w.webp") 320w, url("../img/clients/640w/26_640w.webp") 640w, url("../img/clients/1024w/26_1024w.webp") 1024w, url("../img/clients/1920w/26_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/26_320w.webp") 320w, url("../img/clients/640w/26_640w.webp") 640w, url("../img/clients/1024w/26_1024w.webp") 1024w, url("../img/clients/1920w/26_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/26_320w.png") 320w, url("../img/clients/640w/26_640w.png") 640w, url("../img/clients/1024w/26_1024w.png") 1024w, url("../img/clients/1920w/26_1920w.png") 1920w);
+background: image-set(url("../img/clients/320w/26_320w.png") 320w, url("../img/clients/640w/26_640w.png") 640w, url("../img/clients/1024w/26_1024w.png") 1024w, url("../img/clients/1920w/26_1920w.png") 1920w);
+, 0, 0, 
+background: 0)
 }
 
 .single-item.pd-bottom.text-center.ver1 {
-    background: url("../img/clients/add-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/add-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/add-bg_320w.webp") 320w, url("../img/clients/640w/add-bg_640w.webp") 640w, url("../img/clients/1024w/add-bg_1024w.webp") 1024w, url("../img/clients/1920w/add-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/add-bg_320w.webp") 320w, url("../img/clients/640w/add-bg_640w.webp") 640w, url("../img/clients/1024w/add-bg_1024w.webp") 1024w, url("../img/clients/1920w/add-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/add-bg_320w.jpg") 320w, url("../img/clients/640w/add-bg_640w.jpg") 640w, url("../img/clients/1024w/add-bg_1024w.jpg") 1024w, url("../img/clients/1920w/add-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/add-bg_320w.jpg") 320w, url("../img/clients/640w/add-bg_640w.jpg") 640w, url("../img/clients/1024w/add-bg_1024w.jpg") 1024w, url("../img/clients/1920w/add-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver2 {
-    background: url("../img/clients/msr.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/msr.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/msr_320w.webp") 320w, url("../img/clients/640w/msr_640w.webp") 640w, url("../img/clients/1024w/msr_1024w.webp") 1024w, url("../img/clients/1920w/msr_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/msr_320w.webp") 320w, url("../img/clients/640w/msr_640w.webp") 640w, url("../img/clients/1024w/msr_1024w.webp") 1024w, url("../img/clients/1920w/msr_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/msr_320w.jpg") 320w, url("../img/clients/640w/msr_640w.jpg") 640w, url("../img/clients/1024w/msr_1024w.jpg") 1024w, url("../img/clients/1920w/msr_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/msr_320w.jpg") 320w, url("../img/clients/640w/msr_640w.jpg") 640w, url("../img/clients/1024w/msr_1024w.jpg") 1024w, url("../img/clients/1920w/msr_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver3 {
-    background: url("../img/clients/pennar-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/pennar-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/pennar-bg_320w.webp") 320w, url("../img/clients/640w/pennar-bg_640w.webp") 640w, url("../img/clients/1024w/pennar-bg_1024w.webp") 1024w, url("../img/clients/1920w/pennar-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/pennar-bg_320w.webp") 320w, url("../img/clients/640w/pennar-bg_640w.webp") 640w, url("../img/clients/1024w/pennar-bg_1024w.webp") 1024w, url("../img/clients/1920w/pennar-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/pennar-bg_320w.jpg") 320w, url("../img/clients/640w/pennar-bg_640w.jpg") 640w, url("../img/clients/1024w/pennar-bg_1024w.jpg") 1024w, url("../img/clients/1920w/pennar-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/pennar-bg_320w.jpg") 320w, url("../img/clients/640w/pennar-bg_640w.jpg") 640w, url("../img/clients/1024w/pennar-bg_1024w.jpg") 1024w, url("../img/clients/1920w/pennar-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver4 {
-    background: url("../img/clients/ntpc-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ntpc-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ntpc-bg_320w.webp") 320w, url("../img/clients/640w/ntpc-bg_640w.webp") 640w, url("../img/clients/1024w/ntpc-bg_1024w.webp") 1024w, url("../img/clients/1920w/ntpc-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ntpc-bg_320w.webp") 320w, url("../img/clients/640w/ntpc-bg_640w.webp") 640w, url("../img/clients/1024w/ntpc-bg_1024w.webp") 1024w, url("../img/clients/1920w/ntpc-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ntpc-bg_320w.jpg") 320w, url("../img/clients/640w/ntpc-bg_640w.jpg") 640w, url("../img/clients/1024w/ntpc-bg_1024w.jpg") 1024w, url("../img/clients/1920w/ntpc-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ntpc-bg_320w.jpg") 320w, url("../img/clients/640w/ntpc-bg_640w.jpg") 640w, url("../img/clients/1024w/ntpc-bg_1024w.jpg") 1024w, url("../img/clients/1920w/ntpc-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver5 {
-    background: url("../img/clients/dvc-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/dvc-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/dvc-bg_320w.webp") 320w, url("../img/clients/640w/dvc-bg_640w.webp") 640w, url("../img/clients/1024w/dvc-bg_1024w.webp") 1024w, url("../img/clients/1920w/dvc-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/dvc-bg_320w.webp") 320w, url("../img/clients/640w/dvc-bg_640w.webp") 640w, url("../img/clients/1024w/dvc-bg_1024w.webp") 1024w, url("../img/clients/1920w/dvc-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/dvc-bg_320w.jpg") 320w, url("../img/clients/640w/dvc-bg_640w.jpg") 640w, url("../img/clients/1024w/dvc-bg_1024w.jpg") 1024w, url("../img/clients/1920w/dvc-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/dvc-bg_320w.jpg") 320w, url("../img/clients/640w/dvc-bg_640w.jpg") 640w, url("../img/clients/1024w/dvc-bg_1024w.jpg") 1024w, url("../img/clients/1920w/dvc-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver6 {
-    background: url("../img/clients/ind-rwys-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ind-rwys-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/ind-rwys-bg_320w.webp") 320w, url("../img/clients/640w/ind-rwys-bg_640w.webp") 640w, url("../img/clients/1024w/ind-rwys-bg_1024w.webp") 1024w, url("../img/clients/1920w/ind-rwys-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ind-rwys-bg_320w.webp") 320w, url("../img/clients/640w/ind-rwys-bg_640w.webp") 640w, url("../img/clients/1024w/ind-rwys-bg_1024w.webp") 1024w, url("../img/clients/1920w/ind-rwys-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ind-rwys-bg_320w.jpg") 320w, url("../img/clients/640w/ind-rwys-bg_640w.jpg") 640w, url("../img/clients/1024w/ind-rwys-bg_1024w.jpg") 1024w, url("../img/clients/1920w/ind-rwys-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ind-rwys-bg_320w.jpg") 320w, url("../img/clients/640w/ind-rwys-bg_640w.jpg") 640w, url("../img/clients/1024w/ind-rwys-bg_1024w.jpg") 1024w, url("../img/clients/1920w/ind-rwys-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver7 {
-    background: url("../img/clients/isro-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/isro-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/isro-bg_320w.webp") 320w, url("../img/clients/640w/isro-bg_640w.webp") 640w, url("../img/clients/1024w/isro-bg_1024w.webp") 1024w, url("../img/clients/1920w/isro-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/isro-bg_320w.webp") 320w, url("../img/clients/640w/isro-bg_640w.webp") 640w, url("../img/clients/1024w/isro-bg_1024w.webp") 1024w, url("../img/clients/1920w/isro-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/isro-bg_320w.jpg") 320w, url("../img/clients/640w/isro-bg_640w.jpg") 640w, url("../img/clients/1024w/isro-bg_1024w.jpg") 1024w, url("../img/clients/1920w/isro-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/isro-bg_320w.jpg") 320w, url("../img/clients/640w/isro-bg_640w.jpg") 640w, url("../img/clients/1024w/isro-bg_1024w.jpg") 1024w, url("../img/clients/1920w/isro-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver8 {
-    background: url("../img/clients/rotodyne-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/rotodyne-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/rotodyne-bg_320w.webp") 320w, url("../img/clients/640w/rotodyne-bg_640w.webp") 640w, url("../img/clients/1024w/rotodyne-bg_1024w.webp") 1024w, url("../img/clients/1920w/rotodyne-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/rotodyne-bg_320w.webp") 320w, url("../img/clients/640w/rotodyne-bg_640w.webp") 640w, url("../img/clients/1024w/rotodyne-bg_1024w.webp") 1024w, url("../img/clients/1920w/rotodyne-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/rotodyne-bg_320w.jpg") 320w, url("../img/clients/640w/rotodyne-bg_640w.jpg") 640w, url("../img/clients/1024w/rotodyne-bg_1024w.jpg") 1024w, url("../img/clients/1920w/rotodyne-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/rotodyne-bg_320w.jpg") 320w, url("../img/clients/640w/rotodyne-bg_640w.jpg") 640w, url("../img/clients/1024w/rotodyne-bg_1024w.jpg") 1024w, url("../img/clients/1920w/rotodyne-bg_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .single-item.pd-bottom.text-center.ver9 {
-    background: url("../img/clients/krk-bg.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/krk-bg.jpg") 0 0/cover no-repeat rgba(0;
+background: -webkit-image-set(url("../img/clients/320w/krk-bg_320w.webp") 320w, url("../img/clients/640w/krk-bg_640w.webp") 640w, url("../img/clients/1024w/krk-bg_1024w.webp") 1024w, url("../img/clients/1920w/krk-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/krk-bg_320w.webp") 320w, url("../img/clients/640w/krk-bg_640w.webp") 640w, url("../img/clients/1024w/krk-bg_1024w.webp") 1024w, url("../img/clients/1920w/krk-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/krk-bg_320w.jpg") 320w, url("../img/clients/640w/krk-bg_640w.jpg") 640w, url("../img/clients/1024w/krk-bg_1024w.jpg") 1024w, url("../img/clients/1920w/krk-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/krk-bg_320w.jpg") 320w, url("../img/clients/640w/krk-bg_640w.jpg") 640w, url("../img/clients/1024w/krk-bg_1024w.jpg") 1024w, url("../img/clients/1920w/krk-bg_1920w.jpg") 1920w);
+, 0, 0, 0) !important
 }
 
-.menu .submenu .dropdown-submenu .dropdown-menu li a:hover,
-.menu .submenu li a:hover,
-.single-item:hover:before {
+.menu .submenu .dropdown-submenu .dropdown-menu li a:hover, .menu .submenu li a:hover, .single-item:hover:before {
     background-color: #504d84
 }
 
 .single-item h3 {
-    color: #fff;
+    color: #fff
     margin: 54px 0 5px;
     text-transform: uppercase;
     font-size: 18px
@@ -3364,33 +3739,81 @@ p {
 
 
 .kg014 {
-    background: url("../img/clients/ct016.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    
+background: url("../img/clients/ct016.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct016_320w.webp") 320w, url("../img/clients/640w/ct016_640w.webp") 640w, url("../img/clients/1024w/ct016_1024w.webp") 1024w, url("../img/clients/1920w/ct016_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct016_320w.webp") 320w, url("../img/clients/640w/ct016_640w.webp") 640w, url("../img/clients/1024w/ct016_1024w.webp") 1024w, url("../img/clients/1920w/ct016_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct016_320w.jpg") 320w, url("../img/clients/640w/ct016_640w.jpg") 640w, url("../img/clients/1024w/ct016_1024w.jpg") 1024w, url("../img/clients/1920w/ct016_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct016_320w.jpg") 320w, url("../img/clients/640w/ct016_640w.jpg") 640w, url("../img/clients/1024w/ct016_1024w.jpg") 1024w, url("../img/clients/1920w/ct016_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg015 {
-    background: url("../img/clients/ct017.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct017.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct017_320w.webp") 320w, url("../img/clients/640w/ct017_640w.webp") 640w, url("../img/clients/1024w/ct017_1024w.webp") 1024w, url("../img/clients/1920w/ct017_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct017_320w.webp") 320w, url("../img/clients/640w/ct017_640w.webp") 640w, url("../img/clients/1024w/ct017_1024w.webp") 1024w, url("../img/clients/1920w/ct017_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct017_320w.jpg") 320w, url("../img/clients/640w/ct017_640w.jpg") 640w, url("../img/clients/1024w/ct017_1024w.jpg") 1024w, url("../img/clients/1920w/ct017_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct017_320w.jpg") 320w, url("../img/clients/640w/ct017_640w.jpg") 640w, url("../img/clients/1024w/ct017_1024w.jpg") 1024w, url("../img/clients/1920w/ct017_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg016 {
-    background: url("../img/clients/ct018.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct018.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct018_320w.webp") 320w, url("../img/clients/640w/ct018_640w.webp") 640w, url("../img/clients/1024w/ct018_1024w.webp") 1024w, url("../img/clients/1920w/ct018_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct018_320w.webp") 320w, url("../img/clients/640w/ct018_640w.webp") 640w, url("../img/clients/1024w/ct018_1024w.webp") 1024w, url("../img/clients/1920w/ct018_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct018_320w.jpg") 320w, url("../img/clients/640w/ct018_640w.jpg") 640w, url("../img/clients/1024w/ct018_1024w.jpg") 1024w, url("../img/clients/1920w/ct018_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct018_320w.jpg") 320w, url("../img/clients/640w/ct018_640w.jpg") 640w, url("../img/clients/1024w/ct018_1024w.jpg") 1024w, url("../img/clients/1920w/ct018_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg017 {
-    background: url("../img/clients/ct019.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct019.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct019_320w.webp") 320w, url("../img/clients/640w/ct019_640w.webp") 640w, url("../img/clients/1024w/ct019_1024w.webp") 1024w, url("../img/clients/1920w/ct019_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct019_320w.webp") 320w, url("../img/clients/640w/ct019_640w.webp") 640w, url("../img/clients/1024w/ct019_1024w.webp") 1024w, url("../img/clients/1920w/ct019_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct019_320w.jpg") 320w, url("../img/clients/640w/ct019_640w.jpg") 640w, url("../img/clients/1024w/ct019_1024w.jpg") 1024w, url("../img/clients/1920w/ct019_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct019_320w.jpg") 320w, url("../img/clients/640w/ct019_640w.jpg") 640w, url("../img/clients/1024w/ct019_1024w.jpg") 1024w, url("../img/clients/1920w/ct019_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg018 {
-    background: url("../img/clients/ct020.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct020.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct020_320w.webp") 320w, url("../img/clients/640w/ct020_640w.webp") 640w, url("../img/clients/1024w/ct020_1024w.webp") 1024w, url("../img/clients/1920w/ct020_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct020_320w.webp") 320w, url("../img/clients/640w/ct020_640w.webp") 640w, url("../img/clients/1024w/ct020_1024w.webp") 1024w, url("../img/clients/1920w/ct020_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct020_320w.jpg") 320w, url("../img/clients/640w/ct020_640w.jpg") 640w, url("../img/clients/1024w/ct020_1024w.jpg") 1024w, url("../img/clients/1920w/ct020_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct020_320w.jpg") 320w, url("../img/clients/640w/ct020_640w.jpg") 640w, url("../img/clients/1024w/ct020_1024w.jpg") 1024w, url("../img/clients/1920w/ct020_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg019 {
-    background: url("../img/clients/ct021.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct021.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct021_320w.webp") 320w, url("../img/clients/640w/ct021_640w.webp") 640w, url("../img/clients/1024w/ct021_1024w.webp") 1024w, url("../img/clients/1920w/ct021_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct021_320w.webp") 320w, url("../img/clients/640w/ct021_640w.webp") 640w, url("../img/clients/1024w/ct021_1024w.webp") 1024w, url("../img/clients/1920w/ct021_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct021_320w.jpg") 320w, url("../img/clients/640w/ct021_640w.jpg") 640w, url("../img/clients/1024w/ct021_1024w.jpg") 1024w, url("../img/clients/1920w/ct021_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct021_320w.jpg") 320w, url("../img/clients/640w/ct021_640w.jpg") 640w, url("../img/clients/1024w/ct021_1024w.jpg") 1024w, url("../img/clients/1920w/ct021_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg020 {
-    background: url("../img/clients/ct022.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct022.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct022_320w.webp") 320w, url("../img/clients/640w/ct022_640w.webp") 640w, url("../img/clients/1024w/ct022_1024w.webp") 1024w, url("../img/clients/1920w/ct022_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct022_320w.webp") 320w, url("../img/clients/640w/ct022_640w.webp") 640w, url("../img/clients/1024w/ct022_1024w.webp") 1024w, url("../img/clients/1920w/ct022_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct022_320w.jpg") 320w, url("../img/clients/640w/ct022_640w.jpg") 640w, url("../img/clients/1024w/ct022_1024w.jpg") 1024w, url("../img/clients/1920w/ct022_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct022_320w.jpg") 320w, url("../img/clients/640w/ct022_640w.jpg") 640w, url("../img/clients/1024w/ct022_1024w.jpg") 1024w, url("../img/clients/1920w/ct022_1920w.jpg") 1920w);
+, 0, 0, 
+background: 0) !important
 }
 
 .kg021 {
-    background: url("../img/clients/ct023.jpg") 0 0/cover no-repeat rgba(0, 0, 0, 0) !important
+    background: url("../img/clients/ct023.jpg") 0 0/cover no-repeat rgba(0
+background: -webkit-image-set(url("../img/clients/320w/ct023_320w.webp") 320w, url("../img/clients/640w/ct023_640w.webp") 640w, url("../img/clients/1024w/ct023_1024w.webp") 1024w, url("../img/clients/1920w/ct023_1920w.webp") 1920w); 
+background: image-set(url("../img/clients/320w/ct023_320w.webp") 320w, url("../img/clients/640w/ct023_640w.webp") 640w, url("../img/clients/1024w/ct023_1024w.webp") 1024w, url("../img/clients/1920w/ct023_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/clients/320w/ct023_320w.jpg") 320w, url("../img/clients/640w/ct023_640w.jpg") 640w, url("../img/clients/1024w/ct023_1024w.jpg") 1024w, url("../img/clients/1920w/ct023_1920w.jpg") 1920w);
+background: image-set(url("../img/clients/320w/ct023_320w.jpg") 320w, url("../img/clients/640w/ct023_640w.jpg") 640w, url("../img/clients/1024w/ct023_1024w.jpg") 1024w, url("../img/clients/1920w/ct023_1920w.jpg") 1920w);
+, 0, 0, 0) !important
 }

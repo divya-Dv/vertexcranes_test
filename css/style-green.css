@@ -276,7 +276,7 @@ a:hover {
     width: 18px;
     height: 7px;
     margin: 5px;
-    background: #bbf5df;
+    #bbf5df
     border: 0 solid #bbf5df;
     display: block;
     transition: .6s ease-in-out;
@@ -326,7 +326,7 @@ a:hover {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #24b67e;
+    #24b67e
     width: 44px;
     height: 44px;
     line-height: 1;
@@ -350,11 +350,11 @@ a:hover {
     bottom: 0;
     z-index: 9999;
     overflow: hidden;
-    background: #fff
+    #fff
 }
 
 #preloader:before {
-    content: "";
+    content: ""
     position: fixed;
     top: calc(50% - 30px);
     left: calc(50% - 30px);

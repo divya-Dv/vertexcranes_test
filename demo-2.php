@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>High Way Rods Pulling Crane Manufacturers | Vertexcranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta name="description" content="High Way Rods Pulling Crane Manufacturers from Vertex cranes Industries. Is professionally managed by a group of technocrats having a good experience.">
   <link rel="canonical" href="https://www.vertexcranes.com/about-us.php">
-  <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+  <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -19,9 +17,9 @@
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/animate.css" />
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
@@ -38,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-about">
@@ -50,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">About US</a></li>
             </ul>
           </div>        
@@ -65,15 +63,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="col-md-7">
         <div class="about-sec">
             <h4 style="color:#01a9f4" class="pro-hh text-center">Vertex cranes Industries</h4>
-<p><b>Vertex Cranes and Hoists (India) P.Ltd. your premier destination for quality lifting solutions. As Cranes & Hoists Manufacturers, we specialize in precision engineering, innovation, and safety. Trust Vertex for cutting-edge cranes and hoists that elevate your operations.</b></p>
+<p><b>Vertex Cranes and Hoists (India) P.Ltd. your premier destination for quality lifting solutions. As Cranes &amp; Hoists Manufacturers, we specialize in precision engineering, innovation, and safety. Trust Vertex for cutting-edge cranes and hoists that elevate your operations.</b></p>
 <p><b>Is professionally managed by a group of technocrats having More than two decades experience in the field of designing and manufacturing of HEAVY DUTY CRANES, HOISTS and other tailor made Material handling Equipments/Systems.
-Throughout its history, Vertex cranes has been an industry Leader in both technological and product advancements, Contributing to its long-standing reputation as a manufacturer of high Quality Material handling Equipments. During these years of operations Vertex cranes has established itself as a TRUSTED' manufacturer of ‘QUALITY’ Material Handling Equipment. Which is reflected in REPEATED ORDERS from its Valued & Existing customers.</b></p>
+Throughout its history, Vertex cranes has been an industry Leader in both technological and product advancements, Contributing to its long-standing reputation as a manufacturer of high Quality Material handling Equipments. During these years of operations Vertex cranes has established itself as a TRUSTED' manufacturer of ‘QUALITY’ Material Handling Equipment. Which is reflected in REPEATED ORDERS from its Valued &amp; Existing customers.</b></p>
 
 <p>Products have been inspected and accepted by reputed Inspection houses like JYOTHI’S SPECTOR, REFEX etc.</p>
 
 <p>Has a strong reputation in key industries such as Steel, Cement, Power Generation, Automobile, Railways, Defense. Petrochemicals and General Engineering Industries Throughout India.</p>
 
-<p>Well laid out manufacturing plants at HYDERABAD Have all the essential facilities to produce Quality & reliable Equipment.</p>
+<p>Well laid out manufacturing plants at HYDERABAD Have all the essential facilities to produce Quality &amp; reliable Equipment.</p>
         </div>
         
     </div>
@@ -83,15 +81,15 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
 
   <div class="carousel-inner cib">
     <div class="carousel-item active">
-      <img src="img/about/about_img3.jpg" style="width:100%" alt="High Way Rods Pulling Crane Manufacturers" >
+      <picture><source srcset="img/about/320w/about_img3_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/about_img3_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/about_img3_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/about_img3_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/about_img3.webp" style="width:100%" alt="High Way Rods Pulling Crane Manufacturers" loading="lazy" decoding="async"></picture>
     
     </div>
     <div class="carousel-item">
-      <img src="img/about/about_img4.jpg" style="width:100%" alt="High Way Rods Pulling Crane Manufacturers" >
+      <picture><source srcset="img/about/320w/about_img4_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/about_img4_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/about_img4_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/about_img4_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/about_img4.webp" style="width:100%" alt="High Way Rods Pulling Crane Manufacturers" loading="lazy" decoding="async"></picture>
        
     </div>
     <div class="carousel-item">
-      <img src="img/about/abouts1.jpg" style="width:100%" alt="High Way Rods Pulling Crane Manufacturers">
+      <picture><source srcset="img/about/320w/abouts1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/abouts1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/abouts1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/abouts1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/abouts1.webp" style="width:100%" alt="High Way Rods Pulling Crane Manufacturers" loading="lazy" decoding="async"></picture>
      
     </div>
   </div>
@@ -184,7 +182,7 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/one.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/one.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/one_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/one_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/one_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/one_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/one.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Top View Of the Factory</h5>
             </a>
@@ -195,7 +193,7 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/two.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/two.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/two_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/two_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/two_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/two_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/two.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Production Area</h5>
             </a>
@@ -206,7 +204,7 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/seven.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/seven.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/seven_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/seven_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/seven_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/seven_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/seven.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Hoist Assembly Section</h5>
             </a>
@@ -217,9 +215,9 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/five.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/five.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/five_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/five_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/five_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/five_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/five.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
-              <h5 class="tvo">Painting & Dispatching Area</h5>
+              <h5 class="tvo">Painting &amp; Dispatching Area</h5>
             </a>
           </div>
         </div>
@@ -228,7 +226,7 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/six.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/six.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/six_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/six_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/six_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/six_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/six.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Machine Shopping</h5>
             </a>
@@ -239,7 +237,7 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/eleven.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/eleven.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/eleven_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/eleven_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/eleven_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/eleven_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/eleven.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Nagari Plant</h5>
             </a>
@@ -250,7 +248,7 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
           <div class="work-box">
             <a href="img/about/twelve.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/about/twelve.jpg" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/about/320w/twelve_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/about/640w/twelve_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/about/1024w/twelve_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/about/1920w/twelve_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/about/twelve.webp" alt="High Way Rods Pulling Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Top View Of The Factory</h5>
             </a>
@@ -285,7 +283,8 @@ Throughout its history, Vertex cranes has been an industry Leader in both techno
   <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

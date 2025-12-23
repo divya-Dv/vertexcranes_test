@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Jib Cranes | Vertex Cranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <link rel="canonical" href="https://www.vertexcranes.com/jib-cranes.php">
-  <meta name="description" content="Jib Cranes Manufacturer, Vertex Cranes. These are not only used in industrial premises but also are extensively applied on military vehicles. Call us." >
+  <meta name="description" content="Jib Cranes Manufacturer, Vertex Cranes. These are not only used in industrial premises but also are extensively applied on military vehicles. Call us.">
   <meta name="keywords" content="Jib Cranes, Jib Cranes Manufacturer">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,9 +16,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
   
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -36,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bg1">
     <div class="overlay-itro"></div>
@@ -47,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Jib Cranes</a></li>
             </ul>
           </div>          
@@ -65,11 +63,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h5>We are providing good services</h5>
 <p>We are the celebrated manufacturers and exporters of Jib Cranes in India. We are engaged in offering powerful material handling equipments to diversified industries. A Jib Crane is a type of crane where a horizontal member, supporting a <a href="hoists-manufacturers.php">movable hoist</a>, is fixed to a wall or to a floor mounted pillar. These Jib Cranes are not only used in industrial premises but also are extensively applied on military vehicles. The Jib may be fixed or may swing through an arc in order to give an additional lateral movement. Such cranes and other hoists are usually fitted on the top floor of warehouse buildings to enable goods to be lifted to all floors. These Jib Cranes are highly demanded in Engineering Industry, Ports, Granite Industry, Steel Yards, Cement Pipe Industry, Shipyards, Container Depots, etc.</p>
 <p>The versatility of our Jib Cranes is unsurpassable as they offer an extensive range of installation options and capacities. Our cranes have been accorded the best material handling solutions with maximum space utilization. These can accommodate any work plans and space constraints and can be easily mounted to your facility floor, foundation, column, pillar or wall. Our Jib Cranes are an economical way of lifting and moving materials that also provide supplemental lifting coverage of 360 degrees. These Jib Cranes are offered to our clients at industry leading prices.</p>
- <?php include_once("order.php"); ?>
+ <!--?php include_once("order.php"); ?-->
 </div>
 </div>
 <div class="col-md-5 m9">
-<img src="img/pj1.jpg" alt="Jib Cranes Manufacturer, Jib Cranes" title="Jib Cranes Manufacturer, Jib Cranes" class="img-fluid" />
+<picture><source srcset="img/320w/pj1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/pj1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/pj1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/pj1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/pj1.webp" alt="Jib Cranes Manufacturer, Jib Cranes" title="Jib Cranes Manufacturer, Jib Cranes" class="img-fluid" loading="lazy" decoding="async"></picture>
 </div>
 
 </div>
@@ -97,7 +95,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Crane in Hyderabad | Vertexcranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link rel="canonical" href="https://www.vertexcranes.com/crane-manufacturers.php">
-<meta name="description" content="Crane in Hyderabad, Vertexcranes is the pre-eminent manufacturers and exporters of dependable and versatile Gantry Cranes. Reach us today" />
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+<meta name="description" content="Crane in Hyderabad, Vertexcranes is the pre-eminent manufacturers and exporters of dependable and versatile Gantry Cranes. Reach us today">
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -16,9 +14,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -35,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bg">
     <div class="overlay-itro"></div>
@@ -46,7 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Cranes</a></li>
             </ul>
           </div>          
@@ -69,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div class="col-md-5 col-sm-12 m9">
-<img src="img/im9.jpg" alt="Crane Manufacturers" class="img-fluid" />
+<picture><source srcset="img/320w/im9_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/im9_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/im9_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/im9_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/im9.webp" alt="Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
 </div>
 
 </div>
@@ -129,8 +127,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
 
-</body>
-</html>
+
+
+</body></html>

@@ -1,10 +1,9 @@
-<?php
+<!--?php
 
 /**
  * Simplified Chinese PHPMailer language file: refer to English translation for definitive list
  * @package PHPMailer
- * @author liqwei <liqwei@liqwei.com>
- * @author young <masxy@foxmail.com>
+ * @author liqwei <liqwei@liqwei.com--><html><head></head><body>* @author young <masxy@foxmail.com>
  * @author Teddysun <i@teddysun.com>
  */
 
@@ -34,3 +33,4 @@ $PHPMAILER_LANG['signing']              = '签名错误：';
 $PHPMAILER_LANG['smtp_code']            = 'SMTP代码： ';
 $PHPMAILER_LANG['smtp_code_ex']         = '附加SMTP信息： ';
 $PHPMAILER_LANG['smtp_detail']          = '详情:';
+</i@teddysun.com></masxy@foxmail.com></body></html>

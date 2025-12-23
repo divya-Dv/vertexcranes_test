@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Cranes Manufacturers In Hyderabad | Quality Manufacturers | Vertexcranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="Cranes Manufacturers in Hyderabad, Vertexcranes equipped with high-grade machinery that allows us to build customized cranes as per clients need" />
+  <meta name="description" content="Cranes Manufacturers in Hyderabad, Vertexcranes equipped with high-grade machinery that allows us to build customized cranes as per clients need">
   <link rel="canonical" href="https://www.vertexcranes.com/cranes/cranes-manufacturers-in-hyderabad.php">
-     <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+     <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -38,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -78,7 +76,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="work-box">
    <!--<a href="../img/gallery/gallery-02.jpg" data-lightbox="gallery-mf">-->
    <div class="work-img">
-   <img src="../img/gallery/gallery-02.jpg" style="height:300px;width:400px" class="img-fluid" alt="Cranes Manufacturers in Hyderabad" title="Cranes Manufacturers in Hyderabad">
+   <picture><source srcset="../img/gallery/320w/gallery-02_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-02_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-02_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-02_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-02.webp" style="height:300px;width:400px" class="img-fluid" alt="Cranes Manufacturers in Hyderabad" title="Cranes Manufacturers in Hyderabad"></picture>
    </div>
    <!--</a>-->
    </div>
@@ -93,15 +91,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Vertex cranes Industries is professionally managed by a group of technocrats having more than two decades experience in the field of designing and manufacturing of heavy duty cranes, hoists and other tailor made material handling equipments/systems.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Throughout its history, Vertex cranes has been an industry leader in both technological and product advancements, contributing to its lone-standing reputation as a manufacturer of high quality material handling equipments.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">During these years of operations Vertex cranes has established itself as a &lsquo;TRUSTED&rsquo; manufacturer of &lsquo;QAUALITY&rsquo; material handling equipment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">During these years of operations Vertex cranes has established itself as a ‘TRUSTED’ manufacturer of ‘QAUALITY’ material handling equipment.</span></li>
 </ol>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 
 
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -154,7 +152,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
         
       </div>
-</div>
+
 <!--cranes manufacturer end-->
 
 </section>
@@ -172,8 +170,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../js/main.js"></script>
 
 <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

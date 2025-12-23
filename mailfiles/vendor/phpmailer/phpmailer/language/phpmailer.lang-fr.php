@@ -1,4 +1,4 @@
-<?php
+<!--?php
 
 /**
  * French PHPMailer language file: refer to English translation for definitive list
@@ -35,3 +35,4 @@ $PHPMAILER_LANG['smtp_connect_failed']  = 'La fonction SMTP connect() a échoué
 $PHPMAILER_LANG['smtp_detail']          = 'Détails : ';
 $PHPMAILER_LANG['smtp_error']           = 'Erreur du serveur SMTP : ';
 $PHPMAILER_LANG['variable_set']         = 'Impossible d’initialiser ou de réinitialiser une variable : ';
+--><html><head></head><body></body></html>

@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Sitemap | Vertex Cranes</title>
 
@@ -8,11 +6,11 @@
   <meta content="" name="keywords">
   <link rel="canonical" href="https://www.vertexcranes.com/sitemap.php">
 
-  <meta name="description" content="Vertex Cranes is a prestigious business individual engaged as Cranes Manufacturers HYD. Our manufacturers offer comprehensive range of high quality cranes." />
+  <meta name="description" content="Vertex Cranes is a prestigious business individual engaged as Cranes Manufacturers HYD. Our manufacturers offer comprehensive range of high quality cranes.">
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -39,7 +37,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
 <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 
 
@@ -57,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Sitemap</a></li>
             </ul>
           </div>       
@@ -176,7 +174,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!--cranes manufacturer end-->
 
-</section>
+</div></div></section>
 
   <!--/ Section Blog End /-->
 
@@ -190,8 +188,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
 <!--/ Footer Start /-->
- <?php include_once("footer.php"); ?>
+ <!--?php include_once("footer.php"); ?-->
   <!--/ Footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

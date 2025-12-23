@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Towing Crane Manufacturer | Request a Towing Crane Quote | vertexcranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
-  <meta name="description" content="Towing Crane Manufacturer. Vertexcranes Industries is an eminent in India. Our cranes are manufactured to offer constant performance with various materials."/>
+  <meta name="description" content="Towing Crane Manufacturer. Vertexcranes Industries is an eminent in India. Our cranes are manufactured to offer constant performance with various materials.">
   <link rel="canonical" href="https://www.vertexcranes.com/cranes/towing-crane-manufacturer.php">
-       <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+       <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -20,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <link rel="shortcut icon" href="../img/favicon.png">
   <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="../css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="../css/animate.css">
   <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link rel="stylesheet" href="../css/animate.min.css">
@@ -40,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -84,7 +82,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="work-box">
   <!-- <a href="../img/gallery/gallery-01.jpg" data-lightbox="gallery-mf">-->
    <div class="work-img">
-   <img src="../img/gallery/gallery-01.jpg" style="height:300px;width:400px" class="img-fluid" alt="Towing Crane Manufacturer" title="Towing Crane Manufacturer">
+   <picture><source srcset="../img/gallery/320w/gallery-01_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-01_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-01_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-01_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-01.webp" style="height:300px;width:400px" class="img-fluid" alt="Towing Crane Manufacturer" title="Towing Crane Manufacturer"></picture>
    </div>
    <!--</a>-->
    </div>
@@ -95,11 +93,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="col-md-12">
 <h2 style="font-size:28px;margin:24px;margin-left:0px">Company Profile</h2>
 <p>Vеrtеx Cranеs is a rеnownеd Towing Crane Manufacturer, dеdicatеd to providing high-quality and innovativе solutions for a widе rangе of industriеs. With a focus on prеcision еnginееring and rеliability, Vеrtеx Cranеs dеlivеrs robust towing cranе systеms that еxcеl in pеrformancе and safеty. Our cranеs arе dеsignеd to mееt thе uniquе dеmands of hеavy lifting and towing opеrations, making thеm idеal for marinе, construction, and matеrial handling applications. Backеd by a tеam of еxpеriеncеd profеssionals and cutting-еdgе tеchnology, Vеrtеx Cranеs еnsurеs that our customеrs rеcеivе top-tiеr products that adhеrе to thе highеst industry standards. Trust us for all your towing cranе nееds and еxpеriеncе unmatchеd quality and support.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -112,7 +110,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   </nav>
                   <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-					<ul >
+					<ul>
                         <li>Robust Construction</li>
                         <li>	Dimensionally accurate</li>
                         <li>	Compact Structure</li>
@@ -139,7 +137,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div>
               <br><br>
             <p style="color: maroon;"><b>Refference Links</b></p>
-                        <ul class"seo_li">
+                        <ul class"seo_li"="">
                             <li><a href="https://www.vertexcranes.com/eot-cranes/eot-crane-manufacturers-in-india.php">EOT Crane Manufacturers In India</a></li>
                             <li><a href="https://www.vertexcranes.com/hoists/wire-rope-hoist-manufacturers.php">Wire Rope Hoist Manufacturers</a></li>
                             <li><a href="https://www.vertexcranes.com/hoists/construction-hoist-manufacturers.php">Construction Hoist Manufacturers</a></li>
@@ -149,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
         
       </div>
-</div>
+
 <!--cranes manufacturer end-->
                  
 </section>
@@ -167,8 +165,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
 <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

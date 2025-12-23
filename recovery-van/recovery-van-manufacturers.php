@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Recovery Van Manufacturers | Suppliers | Vertex</title>
- <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+ <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,9 +15,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="canonical" href="https://www.vertexcranes.com/recovery-van/recovery-van-manufacturers.php">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="" name="keywords">
-<meta name="description" content="Recovery Van Manufacturers and suppliers, Vertex Cranes is a prestigious business in Hyderabad. We offer high-quality recovery van to our customers."/>
+<meta name="description" content="Recovery Van Manufacturers and suppliers, Vertex Cranes is a prestigious business in Hyderabad. We offer high-quality recovery van to our customers.">
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -29,7 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -49,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -78,7 +76,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <p>We are providing supreme quality <strong>Recovery Van Manufacturers </strong> to our customers in Hyderabad. Mostly these <strong>Recovery Van </strong>Manufacturers are used in heavy duty towing and recovery operations. We use all innovative techniques in the manufacturing of these <strong>Recovery Vans.</strong> Because of using high innovative technology these recovery vans maintain like heat treated pivot pins and components that give it the capacity to withstand stresses.</p>
    <p>At the time of manufacturing this <strong>recovery van,</strong> our manufacturer experts are taking much care about optimum quality, tested raw material, superior performance, latest technology and longer service life in order to meet client's exact requirements.</p>
    <p>Our complete assortment of manufactured recovery van is well tested on different parameters in order to ensure its quality and high functionality. The success story of vertex is to satisfy the customer, we promote this with our best<strong> recovery van,</strong> which must function with ease, have the desired appearance and emphasis on good quality for long lasting services. Our valuable clients can avail recovery van from us at a feasible price. Visit Also: <a href="https://www.vertexcranes.com/jib-cranes/jib-crane-suppliers.php">JIB Crane Suppliers</a></p>
-  <?php include_once("../order.php"); ?>
+  <!--?php include_once("../order.php"); ?-->
 
    </div>
 
@@ -89,7 +87,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!--<a href="../img/gallery/gallery-13.jpg" data-lightbox="gallery-mf">-->
 
    <div class="work-img">
-   <img src="../img/gallery/gallery-13.jpg" style="height:300px;width:400px" class="img-fluid">
+   <picture><source srcset="../img/gallery/320w/gallery-13_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-13_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-13_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-13_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-13.webp" style="height:300px;width:400px" class="img-fluid"></picture>
    </div>
 
    <!--</a>-->
@@ -101,7 +99,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    </div>
 
   
-</section>
+</div></section>
 
 
 
@@ -115,7 +113,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+</body></html>

@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>VertexCranes | Our Exports</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
   <link rel="canonical" href="https://www.vertexcranes.com/our-exports.php">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,9 +16,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -31,10 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-P89CT76');</script>
 <!-- End Google Tag Manager -->
-<link
-          rel="stylesheet"
-          href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.css"
-          />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.css">
 <style>
     .export-img-width img{
         width:100%;
@@ -45,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route bg-client">
     <div class="overlay-itro"></div>
@@ -56,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Our Exports</a></li>
             </ul>
           </div>         
@@ -81,7 +76,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/oct-export-inner-one.jpg">
-                  <img src="img/exports/oct-export-one.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/oct-export-one_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/oct-export-one_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/oct-export-one_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/oct-export-one_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/oct-export-one.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -89,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/oct-export-inner-two.jpg">
-                  <img src="img/exports/oct-export-two.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/oct-export-two_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/oct-export-two_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/oct-export-two_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/oct-export-two_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/oct-export-two.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -97,7 +92,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/oct-export-inner-three.jpg">
-                  <img src="img/exports/oct-export-three.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/oct-export-three_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/oct-export-three_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/oct-export-three_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/oct-export-three_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/oct-export-three.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -105,7 +100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/oct-export-inner-four.jpg">
-                  <img src="img/exports/oct-export-four.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/oct-export-four_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/oct-export-four_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/oct-export-four_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/oct-export-four_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/oct-export-four.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -114,7 +109,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-two.jpg">
-                  <img src="img/exports/export-two.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-two_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-two_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-two_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-two_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-two.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                 
             </div>
@@ -123,7 +118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-three.jpg">
-                  <img src="img/exports/export-three.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-three_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-three_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-three_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-three_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-three.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                 
             </div>
@@ -132,7 +127,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-four.jpg">
-                  <img src="img/exports/export-four.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-four_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-four_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-four_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-four_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-four.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
               
             </div>
@@ -141,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-five.jpg">
-                  <img src="img/exports/export-five.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-five_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-five_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-five_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-five_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-five.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                 
             </div>
@@ -150,7 +145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-six.jpg">
-                  <img src="img/exports/export-six.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-six_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-six_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-six_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-six_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-six.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                 
             </div>
@@ -159,7 +154,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-seven.jpg">
-                  <img src="img/exports/export-seven.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-seven_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-seven_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-seven_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-seven_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-seven.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -169,7 +164,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-eight.jpg">
-                  <img src="img/exports/export-eight.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-eight_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-eight_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-eight_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-eight_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-eight.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -201,7 +196,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-twelve.jpg">
-                  <img src="img/exports/export-twelve.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-twelve_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-twelve_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-twelve_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-twelve_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-twelve.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -209,7 +204,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-thirteen.jpg">
-                  <img src="img/exports/export-thirteen.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-thirteen_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-thirteen_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-thirteen_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-thirteen_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-thirteen.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -225,7 +220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-fifteen.jpg">
-                  <img src="img/exports/export-fifteen.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-fifteen_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-fifteen_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-fifteen_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-fifteen_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-fifteen.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -233,7 +228,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 mb-3 export-img-width">
                 <a data-fancybox="gallery" data-src="img/exports/export-inner-sixteen.jpg">
-                  <img src="img/exports/export-sixteen.jpg"   alt="Our Exports Image" />
+                  <picture><source srcset="img/exports/320w/export-sixteen_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/exports/640w/export-sixteen_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/exports/1024w/export-sixteen_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/exports/1920w/export-sixteen_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/exports/export-sixteen.webp" alt="Our Exports Image" loading="lazy" decoding="async"></picture>
                 </a>
                
             </div>
@@ -298,7 +293,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.umd.js"></script>
     <script>
@@ -306,5 +301,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         //
       });    
     </script>
-</body>
-</html>
+
+
+</body></html>

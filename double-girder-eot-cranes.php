@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Double Girder EOT Cranes | Vertexcranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta name="description" content="Double Girder EOT Cranes based in India. We, Vertexcranes are the well-reckoned manufacturers and suppliers of a broad array. Stay connected with us now">
   <link rel="canonical" href="https://www.vertexcranes.com/double-girder-eot-cranes.php">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,9 +15,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -35,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bg6">
     <div class="overlay-itro"></div>
@@ -46,7 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Double Grider EOT Cranes</a></li>
             </ul>
           </div>        
@@ -62,13 +60,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="pro-cont">
 <h3 class="title-a slideInRight">CRANES</h3>
 <h5>We are providing good services</h5>
-<p>We are the well reckoned manufacturers and suppliers of a broad array of Double Girder EOT Cranes based in India. We are accorded the prominent player in the manufacture and supply of heavy engineering EOT Cranes. We design these cranes especially with mechanical means for traveling in both directions and raising and lowering a load by electrical. These Double Girder EOT Cranes comprise of structures, wheels, gearboxes, wire ropes, electrical motors, panels & hooks assembly. These cranes are known for their optimum efficiency that helps in cutting down power costs.</p>
+<p>We are the well reckoned manufacturers and suppliers of a broad array of Double Girder EOT Cranes based in India. We are accorded the prominent player in the manufacture and supply of heavy engineering EOT Cranes. We design these cranes especially with mechanical means for traveling in both directions and raising and lowering a load by electrical. These Double Girder EOT Cranes comprise of structures, wheels, gearboxes, wire ropes, electrical motors, panels &amp; hooks assembly. These cranes are known for their optimum efficiency that helps in cutting down power costs.</p>
 <p>Our engineers ensure that these Double Girder EOT Cranes are designed and developed as per the Indian standards. The simple design of the cranes ensures minimum dead weight, wheel load headroom and easy to maintain. Our Double Girder EOT Cranes are very easy to install and possess a reliable structure. They can be made available in pendent control type and radio remote control type based on the requirement. All motions in the EOT Cranes can be protected using limit switches and in case of any limit switch failure we have rubber buffers provided for extra protection against collision. The designs of the Double Girder EOT Cranes are practical and economical as well require very less or no maintenance.</p>
 
 </div>
 </div>
 <div class="col-md-5 m9">
-<img src="img/dbgrider.jpg" alt="Double Girder EOT Cranes" width="100%" />
+<picture><source srcset="img/320w/dbgrider_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/dbgrider_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/dbgrider_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/dbgrider_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/dbgrider.webp" alt="Double Girder EOT Cranes" width="100%" loading="lazy" decoding="async"></picture>
 </div>
 </div>
 </div>
@@ -95,8 +93,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
-  
+
+
+  </body></html>

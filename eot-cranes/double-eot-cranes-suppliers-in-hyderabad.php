@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Double EOT Cranes Suppliers in Hyderabad</title>
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="" name="keywords">
-<meta name="description" content="Double EOT Cranes Suppliers in Hyderabad from Vertexcranes is prominent suppliers. Deal with double EOT crane which is known for their optimal efficiency" />
+<meta name="description" content="Double EOT Cranes Suppliers in Hyderabad from Vertexcranes is prominent suppliers. Deal with double EOT crane which is known for their optimal efficiency">
 <link rel="canonical" href="https://www.vertexcranes.com/eot-cranes/double-eot-cranes-suppliers-in-hyderabad.php">
- <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+ <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,7 +15,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5JKBHJC4');</script>
 <!-- End Google Tag Manager -->
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -28,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -48,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -85,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
    <div class="work-img">
 
-   <img src="../img/gallery/gallery-16.jpg" style="height:300px;width:400px" class="img-fluid">
+   <picture><source srcset="../img/gallery/320w/gallery-16_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-16_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-16_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-16_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-16.webp" style="height:300px;width:400px" class="img-fluid"></picture>
 
    </div>
 
@@ -122,7 +120,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 
-<div class="container" >
+<div class="container">
 
               <div class="row">
 
@@ -148,7 +146,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 
-					<ul >
+					<ul>
 
                         <li>Robust Construction</li>
 
@@ -200,7 +198,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       </div>
 
-</div>
+
 
 <!--cranes manufacturer end-->
 
@@ -218,7 +216,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

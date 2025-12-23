@@ -1,12 +1,11 @@
-<?php
+<!--?php
 
 /**
  * PHPMailer - PHP email creation and transport class.
  * PHP Version 5.5
  * @package PHPMailer
  * @see https://github.com/PHPMailer/PHPMailer/ The PHPMailer GitHub project
- * @author Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk>
- * @author Jim Jagielski (jimjag) <jimjag@gmail.com>
+ * @author Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk--><html><head></head><body>* @author Jim Jagielski (jimjag) <jimjag@gmail.com>
  * @author Andy Prevost (codeworxtech) <codeworxtech@users.sourceforge.net>
  * @author Brent R. Matzelle (original founder)
  * @copyright 2012 - 2020 Marcus Bointon
@@ -47,10 +46,10 @@ use Stevenmaguire\OAuth2\Client\Provider\Microsoft;
 //@see https://github.com/greew/oauth2-azure-provider
 use Greew\OAuth2\Client\Provider\Azure;
 
-if (!isset($_GET['code']) && !isset($_POST['provider'])) {
-    ?>
-<html>
-<body>
+if (!isset($_GET['code']) &amp;&amp; !isset($_POST['provider'])) {
+    ?&gt;
+
+
 <form method="post">
     <h1>Select Provider</h1>
     <input type="radio" name="provider" value="Google" id="providerGoogle">
@@ -64,14 +63,85 @@ if (!isset($_GET['code']) && !isset($_POST['provider'])) {
     <h1>Enter id and secret</h1>
     <p>These details are obtained by setting up an app in your provider's developer console.
     </p>
-    <p>ClientId: <input type="text" name="clientId"><p>
-    <p>ClientSecret: <input type="text" name="clientSecret"></p>
+    <p>ClientId: <input type="text" name="clientId"></p><p>
+    </p><p>ClientSecret: <input type="text" name="clientSecret"></p>
     <p>TenantID (only relevant for Azure): <input type="text" name="tenantId"></p>
     <input type="submit" value="Continue">
 </form>
-</body>
-</html>
-    <?php
+
+
+     $clientId,
+    'clientSecret' =&gt; $clientSecret,
+    'redirectUri' =&gt; $redirectUri,
+    'accessType' =&gt; 'offline'
+];
+
+$options = [];
+$provider = null;
+
+switch ($providerName) {
+    case 'Google':
+        $provider = new Google($params);
+        $options = [
+            'scope' =&gt; [
+                'https://mail.google.com/'
+            ]
+        ];
+        break;
+    case 'Yahoo':
+        $provider = new Yahoo($params);
+        break;
+    case 'Microsoft':
+        $provider = new Microsoft($params);
+        $options = [
+            'scope' =&gt; [
+                'wl.imap',
+                'wl.offline_access'
+            ]
+        ];
+        break;
+    case 'Azure':
+        $params['tenantId'] = $tenantId;
+
+        $provider = new Azure($params);
+        $options = [
+            'scope' =&gt; [
+                'https://outlook.office.com/SMTP.Send',
+                'offline_access'
+            ]
+        ];
+        break;
+}
+
+if (null === $provider) {
+    exit('Provider missing');
+}
+
+if (!isset($_GET['code'])) {
+    //If we don't have an authorization code then get one
+    $authUrl = $provider-&gt;getAuthorizationUrl($options);
+    $_SESSION['oauth2state'] = $provider-&gt;getState();
+    header('Location: ' . $authUrl);
+    exit;
+    //Check given state against previously stored one to mitigate CSRF attack
+} elseif (empty($_GET['state']) || ($_GET['state'] !== $_SESSION['oauth2state'])) {
+    unset($_SESSION['oauth2state']);
+    unset($_SESSION['provider']);
+    exit('Invalid state');
+} else {
+    unset($_SESSION['provider']);
+    //Try to get an access token (using the authorization code grant)
+    $token = $provider-&gt;getAccessToken(
+        'authorization_code',
+        [
+            'code' =&gt; $_GET['code']
+        ]
+    );
+    //Use this to interact with an API on the users behalf
+    //Use this to get a new access token if the old one expires
+    echo 'Refresh Token: ', $token-&gt;getRefreshToken();
+}
+</folder></yourdomain></codeworxtech@users.sourceforge.net></jimjag@gmail.com></body></html><!--?php
     exit;
 }
 
@@ -109,74 +179,4 @@ $redirectUri = (isset($_SERVER['HTTPS']) ? 'https://' : 'http://') . $_SERVER['H
 //$redirectUri = 'http://localhost/PHPMailer/redirect';
 
 $params = [
-    'clientId' => $clientId,
-    'clientSecret' => $clientSecret,
-    'redirectUri' => $redirectUri,
-    'accessType' => 'offline'
-];
-
-$options = [];
-$provider = null;
-
-switch ($providerName) {
-    case 'Google':
-        $provider = new Google($params);
-        $options = [
-            'scope' => [
-                'https://mail.google.com/'
-            ]
-        ];
-        break;
-    case 'Yahoo':
-        $provider = new Yahoo($params);
-        break;
-    case 'Microsoft':
-        $provider = new Microsoft($params);
-        $options = [
-            'scope' => [
-                'wl.imap',
-                'wl.offline_access'
-            ]
-        ];
-        break;
-    case 'Azure':
-        $params['tenantId'] = $tenantId;
-
-        $provider = new Azure($params);
-        $options = [
-            'scope' => [
-                'https://outlook.office.com/SMTP.Send',
-                'offline_access'
-            ]
-        ];
-        break;
-}
-
-if (null === $provider) {
-    exit('Provider missing');
-}
-
-if (!isset($_GET['code'])) {
-    //If we don't have an authorization code then get one
-    $authUrl = $provider->getAuthorizationUrl($options);
-    $_SESSION['oauth2state'] = $provider->getState();
-    header('Location: ' . $authUrl);
-    exit;
-    //Check given state against previously stored one to mitigate CSRF attack
-} elseif (empty($_GET['state']) || ($_GET['state'] !== $_SESSION['oauth2state'])) {
-    unset($_SESSION['oauth2state']);
-    unset($_SESSION['provider']);
-    exit('Invalid state');
-} else {
-    unset($_SESSION['provider']);
-    //Try to get an access token (using the authorization code grant)
-    $token = $provider->getAccessToken(
-        'authorization_code',
-        [
-            'code' => $_GET['code']
-        ]
-    );
-    //Use this to interact with an API on the users behalf
-    //Use this to get a new access token if the old one expires
-    echo 'Refresh Token: ', $token->getRefreshToken();
-}
+    'clientId' =-->

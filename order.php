@@ -1,1 +1,1 @@
-<!--<p style="font-family: 'Calibri', sans-serif; color: maroon;"><b>&#9733; To Puchase Vertex - Gantry Cranes, JIB Cranes,Electric Winch, EOT Cranes, Portal Gantry, Hoists please contact us through our <b>Live Chat Box</b> 24×7 hour Services</b></p>--> 
+<!--<p style="font-family: 'Calibri', sans-serif; color: maroon;"><b>&#9733; To Puchase Vertex - Gantry Cranes, JIB Cranes,Electric Winch, EOT Cranes, Portal Gantry, Hoists please contact us through our <b>Live Chat Box</b> 24×7 hour Services</b></p>--><html><head></head><body></body></html>

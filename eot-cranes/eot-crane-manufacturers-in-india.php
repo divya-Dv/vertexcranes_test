@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>EOT Crane Manufacturers In India | Vertex Cranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="EOT Crane Manufacturers in India, Vertex Cranes. The smooth working of our cranes makes the employment simple and less prolonged with no harm. Call us "/>
+  <meta name="description" content="EOT Crane Manufacturers in India, Vertex Cranes. The smooth working of our cranes makes the employment simple and less prolonged with no harm. Call us ">
   <meta name="keywords" content="EOT Crane Manufacturers in India">
 
   <link rel="canonical" href="https://www.vertexcranes.com/eot-cranes/eot-crane-manufacturers-in-india.php">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -19,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -30,7 +28,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -50,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -89,7 +87,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <div class="work-box">
    <!--<a href="../img/gallery/gallery-07.jpg" data-lightbox="gallery-mf">-->
    <div class="work-img">
-   <img src="../img/eot.jpg" style="height:300px;width:400px" class="img-fluid" title="EOT Crane Manufacturers in India" alt="EOT Crane Manufacturers in India">
+   <picture><source srcset="../img/320w/eot_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/640w/eot_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/1024w/eot_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/1920w/eot_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/eot.webp" style="height:300px;width:400px" class="img-fluid" title="EOT Crane Manufacturers in India" alt="EOT Crane Manufacturers in India"></picture>
    </div>
    <!--</a>-->
    </div>
@@ -102,11 +100,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="col-md-12">
 <h2 style="font-size:28px;margin:24px;margin-left:0px"> Company Profile</h2>
 <p>Vertex Cranes is the largest <b>EOT crane manufacturer in India</b> in terms of quantity and manufactures various sorts of heavy-duty EOT cranes. We are equipped to manufacture and provide EOT cranes which will handle a load of 250 kg to 200 tons and beyond. Being one among the oldest and renowned EOT crane companies in India, Vertex Cranes has placed a distinct segment among EOT Crane Suppliers within the market.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -146,13 +144,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
               <br><br>
             <p style="color: maroon;"><b>Refference Links</b></p>        
-            <ul class"seo_li">
+            <ul class"seo_li"="">
             <li><a href="https://www.vertexcranes.com/wire-rope-hoists/wire-rope-hoist-suppliers.php">Wire Rope Hoist Suppliers</a></li>
             <li><a href="https://www.vertexcranes.com/hoists/construction-hoist-suppliers.php">Construction Hoist Suppliers</a></li>
             <li><a href="https://www.vertexcranes.com/gantry-cranes/gantry-cranes-suppliers-in-hyderabad.php">Gantry Cranes Suppliers In Hyderabad</a></li>
             </ul>
       </div>
-</div>
+
 <!--cranes manufacturer end-->
 
 </section>
@@ -167,8 +165,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

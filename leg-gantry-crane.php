@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Leg Gantry Cranes Manufacturers | Vertex</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <link rel="canonical" href="https://www.vertexcranes.com/leg-gantry-crane.php">
   <meta name="description" content="Leg Gantry Cranes Manufacturers. Vertexcranes are designed to offer reliable performance with suitable materials and are designed with quality. Enquiry">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -16,9 +14,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -34,7 +32,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bg">
     <div class="overlay-itro"></div>
@@ -45,7 +43,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Leg Gantry</a></li>
             </ul>
           </div>          
@@ -63,11 +61,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h5>We are providing good services</h5>
 <p>We are recognized in India as the reliable manufacturer and exporter of Leg Gantry Cranes. These cranes are designed to offer reliable performance with different materials and are designed with a powerful gantry supported by uprights. These Leg Gantry Cranes function by running on a floor mounted rails on its two metallic legs. We have available with us the single types and double types of Leg Gantry Cranes.</p>
 <p>We are equipped with state of the art machinery that allows us to manufacture customized Leg Gantry Cranes as per the requirements of the clients. We are committed towards excellence. Therefore, all our business practices are oriented in giving the best in terms of quality Leg Gantry Cranes in tamperproof packaging, on the time delivery, competitive prices, and prompt after sales services. They pass through several levels of stringent testing before being delivered to the client. Our Leg Gantry Cranes conform to I.S. standards which dictate their quality and efficiency. As the result, we have garnered a rich clientele belonging to different industrial segments.</p>
- <?php include_once("order.php"); ?>
+ <!--?php include_once("order.php"); ?-->
 </div>
 </div>
 <div class="col-md-5 m9">
-<img src="img/leg.jpg" alt="" class="img-fluid" />
+<picture><source srcset="img/320w/leg_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/leg_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/leg_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/leg_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/leg.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
 </div>
 
 </div>
@@ -99,7 +97,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

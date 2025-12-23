@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Vertex</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -8,9 +6,9 @@
   <meta content="" name="description">
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -32,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route bg-image1">
     <div class="overlay-itro"></div>
@@ -40,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="table-cell">
         <div class="container">
           <div>
-            <img src="img/msent.gif" alt="" class="img-fluid">
+            <picture><source srcset="img/320w/msent_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/msent_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/msent_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/msent_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/msent.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
           </div>
       <h1 class="ty mb-4">Thank You!!</h1>
     <h3 class="thanks">Click Below Button to download the brochure</h3>
@@ -79,5 +77,6 @@ function downloadBrochure() {
     </script>
 
 
-</body>
-</html>
+
+
+</body></html>

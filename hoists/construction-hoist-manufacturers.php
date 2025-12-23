@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Construction Hoist Manufacturers In India | Vertexcranes</title>
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="" name="keywords">
-<meta name="description" content="Elevate your projects with top-tier Construction Hoist Manufacturers in India - Vertexcranes. Discover reliable hoisting solutions for your Need Call."/>
+<meta name="description" content="Elevate your projects with top-tier Construction Hoist Manufacturers in India - Vertexcranes. Discover reliable hoisting solutions for your Need Call.">
 <link rel="canonical" href="https://www.vertexcranes.com/hoists/construction-hoist-manufacturers.php">
- <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+ <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,7 +15,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5JKBHJC4');</script>
 <!-- End Google Tag Manager -->
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -28,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -48,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 
@@ -72,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h2 style="font-size:28px;margin:24px;margin-left:0px">Construction Hoist Manufacturers In India</h2>
 
-   <p>Vertex Cranes & Hoists (India) P.Ltd. is a predominant Construction Hoist Manufacturers in India. Construction hoists are the instruments that are utilized for raising and dropping heavy loads and moving them to other place. Offered products by construction hoist manufacturers can be operated electrically, manually or pneumatically. Hoists use rope, chain or fiber as a medium for lifting. Our manufactures design hoists with premium quality raw materials. We offer sturdily designed, robust, light weight and compact hoists to our customers. Different kinds of construction hoists are offered by our suppliers such as hook suspension electric chain hoist, hand operated travel electric chain hoist and many others. Our scope of hoists is highly recommended in the market for its compatibility, compact design, smooth performance and durable nature. Offered hoists have longer shelf life and are available at reasonable rates.</p>
+   <p>Vertex Cranes &amp; Hoists (India) P.Ltd. is a predominant Construction Hoist Manufacturers in India. Construction hoists are the instruments that are utilized for raising and dropping heavy loads and moving them to other place. Offered products by construction hoist manufacturers can be operated electrically, manually or pneumatically. Hoists use rope, chain or fiber as a medium for lifting. Our manufactures design hoists with premium quality raw materials. We offer sturdily designed, robust, light weight and compact hoists to our customers. Different kinds of construction hoists are offered by our suppliers such as hook suspension electric chain hoist, hand operated travel electric chain hoist and many others. Our scope of hoists is highly recommended in the market for its compatibility, compact design, smooth performance and durable nature. Offered hoists have longer shelf life and are available at reasonable rates.</p>
    
    </div>
 
@@ -83,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!--<a href="../img/gallery/gallery-22.jpg" data-lightbox="gallery-mf">-->
 
    <div class="work-img">
-   <img src="../img/gallery/gallery-22.jpg" style="height:300px;width:400px" class="img-fluid">
+   <picture><source srcset="../img/gallery/320w/gallery-22_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-22_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-22_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-22_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-22.webp" style="height:300px;width:400px" class="img-fluid"></picture>
    </div>
 
    <!--</a>-->
@@ -109,14 +107,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 We offer a diverse range of construction hoists, including single and double cages, rack-and-pinion hoists, and more, designed to meet various project requirements. Vertex Cranes is committed to customer satisfaction, providing excellent after-sales support and maintenance services nationwide. Trust us for superior construction hoist solutions that elevate your project efficiency and safety. Visit Our Next Products: <a href="tower-hoist-manufacturer.php">Tower Hoist</a></p>
 <!--<p>Vertex cranes Industries is professionally managed by a group of technocrats having more than two decades experience in the field of designing and manufacturing of heavy duty cranes, hoists and other tailor made material handling equipments/systems. Throughout its history, Vertex cranes has been an industry leader in both technological and product advancements, contributing to its lone-standing reputation as a manufacturer of high quality material handling equipments. During these years of operations Vertex cranes has established itself as a ‘TRUSTED’ manufacturer of ‘QAUALITY’ material handling equipment.</p>-->
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 
 </div>
 
 </div>
 
-<div class="container" >
+<div class="container">
 
               <div class="row">
 
@@ -142,7 +140,7 @@ We offer a diverse range of construction hoists, including single and double cag
 
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 
-					<ul >
+					<ul>
 
                         <li>Robust Construction</li>
 
@@ -195,7 +193,7 @@ We offer a diverse range of construction hoists, including single and double cag
               <br><br>
             <p style="color: maroon;"><b>Refference Links</b></p>
         
-        <ul class"seo_li">
+        <ul class"seo_li"="">
         <li><a href="https://www.vertexcranes.com/electric-winch/electric-winch-manufacturers.php">Electric Winch Manufacturers</a></li>
         <li><a href="https://www.vertexcranes.com/hoists/hydel-gate-hoist-manufacturers.php">Hydel Gate Hoist Manufacturers</a></li>
         <li><a href="https://www.vertexcranes.com/gantry-cranes/gantry-cranes-suppliers.php">Gantry Cranes Manufacturers</a></li>
@@ -203,7 +201,7 @@ We offer a diverse range of construction hoists, including single and double cag
 
       </div>
 
-</div>
+
 
 <!--cranes manufacturer end-->
 
@@ -223,11 +221,12 @@ We offer a diverse range of construction hoists, including single and double cag
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
 
-</body>
-</html>
 
 
 
+
+
+</body></html>

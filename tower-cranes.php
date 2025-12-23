@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Tower Cranes | Vertexcranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link rel="canonical" href="https://www.vertexcranes.com/tower-cranes.php">
-<meta name="description" content="Tower Cranes Manufacturers in Hyderabad, Vertex is the pre-eminent manufacturers and exporters of dependable and versatile Tower Cranes. Reach us today." />
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+<meta name="description" content="Tower Cranes Manufacturers in Hyderabad, Vertex is the pre-eminent manufacturers and exporters of dependable and versatile Tower Cranes. Reach us today.">
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29596041-42"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29596041-42"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -19,9 +17,9 @@
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/animate.css" />
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
@@ -42,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-tc">
     <div class="overlay-itro"></div>
@@ -53,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Tower Cranes</a></li>
             </ul>
           </div>          
@@ -81,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/ramky-tc.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/ram-tc.jpg" alt="" class="img-fluid">
+                <picture><source srcset="img/320w/ram-tc_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/ram-tc_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/ram-tc_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/ram-tc_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/ram-tc.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Ramky TC</h5>
             </a>
@@ -92,7 +90,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/raghava-tc.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/rag-tc.jpg" alt="" class="img-fluid">
+                <picture><source srcset="img/320w/rag-tc_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/rag-tc_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/rag-tc_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/rag-tc_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/rag-tc.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Raghava TC</h5>
             </a>
@@ -103,7 +101,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/ncc-topless-tc.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/tpless-tc.jpg" alt="" class="img-fluid">
+                <picture><source srcset="img/320w/tpless-tc_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/tpless-tc_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/tpless-tc_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/tpless-tc_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/tpless-tc.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">NCC Topless TC</h5>
             </a>
@@ -114,7 +112,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/luffing-crane-ncc.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/lc-ncc.jpg" alt="" class="img-fluid">
+                <picture><source srcset="img/320w/lc-ncc_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/lc-ncc_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/lc-ncc_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/lc-ncc_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/lc-ncc.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Luffing Crane NCC</h5>
             </a>
@@ -125,7 +123,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/sew-luffing.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/sew-luf.jpg" alt="" class="img-fluid">
+                <picture><source srcset="img/320w/sew-luf_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/sew-luf_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/sew-luf_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/sew-luf_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/sew-luf.webp" alt="" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               <h5 class="tvo">Sew Luffing</h5>
             </a>
@@ -162,7 +160,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="js/main.js"></script>
 
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

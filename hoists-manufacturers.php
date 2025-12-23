@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Hoists Manufacturers in Hyderabad | Vertex Cranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -8,7 +6,7 @@
 
 <link rel="canonical" href="https://www.vertexcranes.com/hoists-manufacturers.php">
 <meta name="description" content="Hoists Manufacturers in Hyderabad, Vertexcranes. We are recognized as the predominant supplier of Hoist from the Indian market. Stay connected with us">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -19,9 +17,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -31,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bg3">
     <div class="overlay-itro"></div>
@@ -42,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Hoists</a></li>
             </ul>
           </div>          
@@ -61,18 +59,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>We are recognized as the predominant manufacturers and suppliers of Hoists from the Indian market. Hoists are the devices that are used for lifting or lowering a load by means of a drum or lift-wheel around which or chain wraps. These Hoists can be operated manually, electrically or pneumatically driven and they use chain, rope or fiber as a <a href="https://www.vertexcranes.com/goods-lift/goods-lift-manufacturers.php">lifting </a>medium. The Hoists that are electrically driven come with an electric trolley and suspension hook that makes the hoists suitable for various applications. We fabricate them from premium grade raw materials that offer rugged construction and durability to the structure. As a leading <b>Hoists Manufacturers in Hyderabad</b> we offer our clients with different types of Hoists namely Pull Push Travel Electric Chain Hoist, Hook Suspension Electric Chain Hoist, Electric Travel Chain Hoist and Hand Operated Travel Electric Chain Hoist.</p>
 
 <p>Our range of Hoists is highly preferred in the market as it has a compact and a light weight design and a simple mounting for providing an easy installation. Each hoist manufactured in our factory is tested and is made from steel and machined finish that is ideal to load chain thereby ensuring a smoother operation. The steel forged hooks are in compliance with International standards. They possess hardened alloy steel gears that are precision machined of which both the ends are mounted on ball bearings. This offers enhanced long life to the Hoists and a smooth and noiseless operation. There are only very few parts of these Hoists that require frequent maintenance, otherwise all the remaining parts are easily accessible, removed and replaced. We are named as the leading <b>Hoists Manufacturers in Hyderabad</b>. With excellent reviews from our clients.</p>
- <?php include_once("order.php"); ?>
+ <!--?php include_once("order.php"); ?-->
 </div>
 </div>
 <div class="col-md-5 m9">
-<img src="img/pj2.jpg" alt="Hoists Manufacturers in Hyderabad" title="Hoists Manufacturers in Hyderabad" class="img-fluid" />
+<picture><source srcset="img/320w/pj2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/pj2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/pj2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/pj2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/pj2.webp" alt="Hoists Manufacturers in Hyderabad" title="Hoists Manufacturers in Hyderabad" class="img-fluid" loading="lazy" decoding="async"></picture>
 </div>
 
 
 
 </div>
 <p style="color: maroon;"><b>Refference Links</b></p>        
-            <ul class"seo_li">
+            <ul class"seo_li"="">
             <li><a href="https://www.vertexcranes.com/eot-cranes/single-eot-cranes-suppliers.php">Single EOT Cranes Suppliers</a></li>
             <li><a href="https://www.vertexcranes.com/eot-cranes/double-girder-eot-cranes-suppliers.php">Double Girder EOT Cranes Suppliers</a></li>
             <li><a href="https://www.vertexcranes.com/eot-cranes/single-girder-eot-cranes-suppliers.php">Single Girder EOT Cranes Suppliers</a></li>
@@ -101,7 +99,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

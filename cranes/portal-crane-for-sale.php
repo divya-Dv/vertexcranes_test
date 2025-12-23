@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Portal Crane For Sale In India | Vertexcranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
-  <meta name="description" content="Vertex Cranes offers Portal Crane For Sale In India. Explore superior lifting solutions with our state-of-the-art designs, prioritizing safety Contact"/>
+  <meta name="description" content="Vertex Cranes offers Portal Crane For Sale In India. Explore superior lifting solutions with our state-of-the-art designs, prioritizing safety Contact">
   <link rel="canonical" href="https://www.vertexcranes.com/cranes/portal-crane-for-sale.php">
-     <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+     <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -20,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -41,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -86,9 +84,9 @@ Don't compromise on first-rate and safety. Invest in a Vertex portal crane on th
    </div>
    <div class="col-md-4">
    <div class="work-box">
-   <a href="../img/gallery/gallery-07.jpg" data-lTower ightbo Suppliersx="g <div class="work-img">
-   <img src="../img/gallery/gallery-02.jpg" alt="Portal Crane For Sale In India" title="Portal Crane For Sale In India" height="350" width="350">
-   </div>
+   <a href="../img/gallery/gallery-07.jpg" data-ltower="" ightbo="" suppliersx="g <div class=" work-img"="">
+   <picture><source srcset="../img/gallery/320w/gallery-02_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-02_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-02_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-02_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-02.webp" alt="Portal Crane For Sale In India" title="Portal Crane For Sale In India" height="350" width="350"></picture>
+   </a></div><a href="../img/gallery/gallery-07.jpg" data-ltower="" ightbo="" suppliersx="g <div class=" work-img"="">
    </a>
    </div>
    </div>
@@ -100,11 +98,11 @@ Don't compromise on first-rate and safety. Invest in a Vertex portal crane on th
 <div class="col-md-12">
 <h2 style="font-size:28px;margin:24px;margin-left:0px">Company Profile</h2>
     <p>Vertex Cranes is a leading provider of Portal Crane For Sale In India, delivering contemporary solutions for various fabric coping with needs. With a dedication to excellence, we provide a complete range of sturdy and reliable portal cranes designed for gold standard overall performance. Our cranes cater to numerous industries, ensuring green and secure lifting operations. At Vertex Cranes, we prioritize first-class, durability, and patron delight. Choose us for pinnacle-tier portal cranes that guarantee productivity and safety. Partner with Vertex Cranes on your cloth handling requirements and experience unequalled information and service inside the enterprise.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -117,7 +115,7 @@ Don't compromise on first-rate and safety. Invest in a Vertex portal crane on th
                   </nav>
                   <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-					<ul >
+					<ul>
                         <li>Robust Construction</li>
                         <li>	Dimensionally accurate</li>
                         <li>	Compact Structure</li>
@@ -148,8 +146,8 @@ Don't compromise on first-rate and safety. Invest in a Vertex portal crane on th
             </ul>
         </div>
 
-      </div>
-</div>
+      
+
 <!--cranes manufacturer end-->
 
 </section>
@@ -167,8 +165,9 @@ Don't compromise on first-rate and safety. Invest in a Vertex portal crane on th
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
 <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

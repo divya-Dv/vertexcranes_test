@@ -2774,7 +2774,7 @@
 nav>.nav.nav-tabs {
     border: none;
     color: #fff;
-    background: #272e38;
+    #272e38
     border-radius: 0
 }
 
@@ -2783,7 +2783,7 @@ nav>div a.nav-item.nav-link.active {
     border: none;
     padding: 18px 25px;
     color: #fff;
-    background: #272e38;
+    #272e38
     border-radius: 0
 }
 
@@ -2797,7 +2797,7 @@ nav>div a.nav-item.nav-link.active:after {
 }
 
 .tab-content {
-    background: #fdfdfd;
+    #fdfdfd
     line-height: 25px;
     border: 1px solid #ddd;
     border-top: 5px solid #e74c3c;

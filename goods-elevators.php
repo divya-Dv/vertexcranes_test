@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Goods Elevators Manufacturers | Vertexcranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link rel="canonical" href="https://www.vertexcranes.com/goods-elevators.php">
-<meta name="description" content="Goods Elevators Manufacturers in Hyderabad, Vertex is the pre-eminent manufacturers and exporters of dependable and versatile Goods Cranes. Reach us today." />
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+<meta name="description" content="Goods Elevators Manufacturers in Hyderabad, Vertex is the pre-eminent manufacturers and exporters of dependable and versatile Goods Cranes. Reach us today.">
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -16,9 +14,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -38,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bgge">
     <div class="overlay-itro"></div>
@@ -49,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Goods Elevators</a></li>
             </ul>
           </div>          
@@ -63,19 +61,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="row">
 
 <div class="col-md-6 col-sm-6 m9">
-<img src="img/ge1.jpg" alt="" class="mr">
+<picture><source srcset="img/320w/ge1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/ge1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/ge1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/ge1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/ge1.webp" alt="" class="mr" loading="lazy" decoding="async"></picture>
 </div>
 
 <div class="col-md-6 col-sm-3 m9">
-<img src="img/ge2.jpg" alt="" class="mr" />
+<picture><source srcset="img/320w/ge2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/ge2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/ge2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/ge2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/ge2.webp" alt="" class="mr" loading="lazy" decoding="async"></picture>
 </div>
 
 <div class="col-md-6 col-sm-3 m9">
-<img src="img/ge3.jpg" alt="" class="mr" />
+<picture><source srcset="img/320w/ge3_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/ge3_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/ge3_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/ge3_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/ge3.webp" alt="" class="mr" loading="lazy" decoding="async"></picture>
 </div>
 
 <div class="col-md-6 col-sm-3 m9">
-<img src="img/ge4.jpg" alt="" class="mr" />
+<picture><source srcset="img/320w/ge4_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/ge4_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/ge4_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/ge4_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/ge4.webp" alt="" class="mr" loading="lazy" decoding="async"></picture>
 </div>
 
 </div>
@@ -104,8 +102,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/counterup/jquery.counterup.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
 
-</body>
-</html>
+
+
+</body></html>

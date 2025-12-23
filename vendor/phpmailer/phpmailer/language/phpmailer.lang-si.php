@@ -1,10 +1,9 @@
-<?php
+<!--?php
 
 /**
  * Sinhalese PHPMailer language file: refer to English translation for definitive list
  * @package PHPMailer
- * @author Ayesh Karunaratne <ayesh@aye.sh>
- */
+ * @author Ayesh Karunaratne <ayesh@aye.sh--><html><head></head><body>*/
 
 $PHPMAILER_LANG['authenticate']         = 'SMTP දෝෂය: සත්‍යාපනය අසාර්ථක විය.';
 $PHPMAILER_LANG['buggy_php']            = 'ඔබගේ PHP version එකෙහි පවතින දෝෂයක් නිසා email පණිවිඩ දෝෂ සහගත වීමේ හැකියාවක් ඇත. මෙය විසදීම සදහා SMTP භාවිතා කිරීම, mail.add_x_header INI setting එක අක්‍රීය කිරීම, MacOS හෝ Linux වලට මාරු වීම, හෝ ඔබගේ PHP version එක 7.0.17+ හෝ 7.1.3+ වලට අලුත් කිරීම කරගන්න.';
@@ -32,3 +31,4 @@ $PHPMAILER_LANG['smtp_connect_failed']  = 'SMTP සම්බන්ධය අස�
 $PHPMAILER_LANG['smtp_detail']          = 'තොරතුරු: ';
 $PHPMAILER_LANG['smtp_error']           = 'SMTP දෝෂය: ';
 $PHPMAILER_LANG['variable_set']         = 'Variable එක සැකසීමට හෝ නැවත සැකසීමට නොහැක: ';
+</body></html>

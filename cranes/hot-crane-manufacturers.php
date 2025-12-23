@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Hot Crane Manufacturers In India | Vertexcranes</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
-  <meta name="description" content="Leading Hot Crane Manufacturers in India - Vertex Cranes: Elevating Precision and Performance. Explore Our Range of Hot Cranes Today for Industry call"/>
+  <meta name="description" content="Leading Hot Crane Manufacturers in India - Vertex Cranes: Elevating Precision and Performance. Explore Our Range of Hot Cranes Today for Industry call">
   <link rel="canonical" href="https://www.vertexcranes.com/cranes/hot-crane-manufacturers.php">
-     <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+     <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -20,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -41,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -81,9 +79,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    </div>
    <div class="col-md-4">
    <div class="work-box">
-   <a href="../img/gallery/gallery-07.jpg" data-lTower ightbo Suppliersx="g <div class="work-img">
-   <img src="../img/gallery/gallery-07.jpg" style="height:300px;width:400px" class="img-fluid" alt="Hot Cranes Manufacturers in India" title="Hot Cranes Manufacturers in India">
-   </div>
+   <a href="../img/gallery/gallery-07.jpg" data-ltower="" ightbo="" suppliersx="g <div class=" work-img"="">
+   <picture><source srcset="../img/gallery/320w/gallery-07_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-07_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-07_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-07_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-07.webp" style="height:300px;width:400px" class="img-fluid" alt="Hot Cranes Manufacturers in India" title="Hot Cranes Manufacturers in India"></picture>
+   </a></div><a href="../img/gallery/gallery-07.jpg" data-ltower="" ightbo="" suppliersx="g <div class=" work-img"="">
    </a>
    </div>
    </div>
@@ -98,11 +96,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <p>When it comes to leading the way in the manufacturing of hot cranes in India, Vertex Cranes is the name that rises above the rest. With a track record of excellence, innovation, and commitment to quality, we are your trusted partner for all your hot crane requirements.
 
 Vertex Cranes offers a comprehensive range of hot cranes designed to meet the demanding needs of various industries across India. Our hot cranes are engineered to handle high-temperature environments with precision and safety. Whether you need an overhead hot crane, a double girder hot crane, or a customized solution, our manufacturing expertise ensures you get the perfect crane for your specific applications.</p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 </div>
 </div>
-<div class="container" >
+<div class="container">
               <div class="row">
                 <div class="col-md-12">
                   <nav>
@@ -115,7 +113,7 @@ Vertex Cranes offers a comprehensive range of hot cranes designed to meet the de
                   </nav>
                   <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-					<ul >
+					<ul>
                         <li>Robust Construction</li>
                         <li>	Dimensionally accurate</li>
                         <li>	Compact Structure</li>
@@ -139,8 +137,8 @@ Vertex Cranes offers a comprehensive range of hot cranes designed to meet the de
                 </div>
               </div>
         </div>
-      </div>
-</div>
+      
+
 <!--cranes manufacturer end-->
 
 </section>
@@ -158,8 +156,9 @@ Vertex Cranes offers a comprehensive range of hot cranes designed to meet the de
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
 <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
 
+
+
+</body></html>

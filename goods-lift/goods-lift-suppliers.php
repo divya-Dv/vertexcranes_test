@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Goods Lift Suppliers | Vertex Cranes</title>
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link rel="canonical" href="https://www.vertexcranes.com/goods-lift/goods-lift-suppliers.php">
 <meta name="keywords" content="Goods Lift Suppliers,Goods Lift Suppliers In India">
-<meta name="description" content="Goods Lift Suppliers, Vertex Cranes. We provide solutions with deep industry expertise, cutting-edge technology and an unwavering commitment. Visit us" />
- <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+<meta name="description" content="Goods Lift Suppliers, Vertex Cranes. We provide solutions with deep industry expertise, cutting-edge technology and an unwavering commitment. Visit us">
+ <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,7 +15,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5JKBHJC4');</script>
 <!-- End Google Tag Manager -->
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -28,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -48,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 
@@ -94,7 +92,7 @@ Whеn you choosе Vеrtеxcranеs as your <b>goods lift suppliеr in India</b>, 
   <!-- <a href="../img/gallery/gallery-16.jpg" data-lightbox="gallery-mf">-->
 
    <div class="work-img">
-   <img src="../img/gallery/gallery-16.jpg" style="height:300px;width:400px" class="img-fluid" alt="Goods Lift Suppliers In India" title="Goods Lift Suppliers In India">
+   <picture><source srcset="../img/gallery/320w/gallery-16_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-16_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-16_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-16_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-16.webp" style="height:300px;width:400px" class="img-fluid" alt="Goods Lift Suppliers In India" title="Goods Lift Suppliers In India"></picture>
    </div>
 
    <!--</a>-->
@@ -113,7 +111,7 @@ Whеn you choosе Vеrtеxcranеs as your <b>goods lift suppliеr in India</b>, 
 
 <h2 style="font-size:28px;margin:24px;margin-left:0px">Welcome to Company Profile</h2>
 <p>Vertexcranes stands as a leading force in India's industrial landscape, specializing in the supply of high-quality Goods Lifts. As top-tier <b>Goods Lift Supplier in India</b>, we are dedicated to delivering efficient, safe, and reliable solutions for a wide range of material handling needs. With deep industry expertise, cutting-edge technology, and an unwavering commitment to quality and safety, Vertexcranes provides customized solutions, adheres to international standards, and ensures on-time deliveries. Choose Vertexcranes as your trusted <b>Goods Lift Suppliers in India</b>. Visit Also: <a href="https://www.vertexcranes.com/electric-hoist.php">Electric Hoist</a></p>
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 <!--<p>Vertex cranes Industries is professionally managed by a group of technocrats having more than two decades experience in the field of designing and manufacturing of heavy duty cranes, hoists and other tailor made material handling equipments/systems. Throughout its history, Vertex cranes has been an industry leader in both technological and product advancements, contributing to its lone-standing reputation as a manufacturer of high quality material handling equipments. During these years of operations Vertex cranes has established itself as a ‘TRUSTED’ manufacturer of ‘QAUALITY’ material handling equipment.</p>
 <p><li></li>
 	  <li><a href="gantry-cranes/deck-leg-gantry-crane-manufacturers.php">Deck Leg Gantry Crane Manufacturers</a></li></p>-->
@@ -124,7 +122,7 @@ Whеn you choosе Vеrtеxcranеs as your <b>goods lift suppliеr in India</b>, 
 
 </div>
 
-<div class="container" >
+<div class="container">
 
               <div class="row">
 
@@ -150,7 +148,7 @@ Whеn you choosе Vеrtеxcranеs as your <b>goods lift suppliеr in India</b>, 
 
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 
-					<ul >
+					<ul>
 
                         <li>Robust Construction</li>
 
@@ -210,7 +208,7 @@ Whеn you choosе Vеrtеxcranеs as your <b>goods lift suppliеr in India</b>, 
 
       </div>
 
-</div>
+
 
 </section>
 
@@ -224,7 +222,7 @@ Whеn you choosе Vеrtеxcranеs as your <b>goods lift suppliеr in India</b>, 
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+</body></html>

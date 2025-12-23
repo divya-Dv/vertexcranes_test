@@ -64,7 +64,7 @@
   .owl-carousel .owl-nav button.owl-prev,
   .owl-carousel .owl-nav button.owl-next,
   .owl-carousel button.owl-dot {
-    background: none;
+    none
     color: inherit;
     border: none;
     padding: 0 !important;
@@ -147,7 +147,7 @@
 .owl-carousel .owl-video-wrapper {
   position: relative;
   height: 100%;
-  background: #000; }
+  #000 }
 
 .owl-carousel .owl-video-play-icon {
   position: absolute;
@@ -157,7 +157,13 @@
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("owl.video.play.png") no-repeat;
+  
+background: url("owl.video.play.png") no-repeat;
+background: -webkit-image-set(url("./320w/owl.video.play_320w.webp") 320w, url("./640w/owl.video.play_640w.webp") 640w, url("./1024w/owl.video.play_1024w.webp") 1024w, url("./1920w/owl.video.play_1920w.webp") 1920w); 
+background: image-set(url("./320w/owl.video.play_320w.webp") 320w, url("./640w/owl.video.play_640w.webp") 640w, url("./1024w/owl.video.play_1024w.webp") 1024w, url("./1920w/owl.video.play_1920w.webp") 1920w);
+background: -webkit-image-set(url("./320w/owl.video.play_320w.png") 320w, url("./640w/owl.video.play_640w.png") 640w, url("./1024w/owl.video.play_1024w.png") 1024w, url("./1920w/owl.video.play_1920w.png") 1920w);
+background: image-set(url("./320w/owl.video.play_320w.png") 320w, url("./640w/owl.video.play_640w.png") 640w, url("./1024w/owl.video.play_1024w.png") 1024w, url("./1920w/owl.video.play_1920w.png") 1920w);
+
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;

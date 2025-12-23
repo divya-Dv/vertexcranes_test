@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Cranes Manufacturers | Vertex Cranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -9,9 +7,9 @@
   <meta content="Cranes Manufacturers, Vertex Cranes. We specialize in precision engineering, innovation, and safety. Trust Vertex for cutting-edge cranes and hoists." name="description">
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -23,7 +21,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5JKBHJC4');</script>
 <!-- End Google Tag Manager -->
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -36,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bgv">
     <div class="overlay-itro"></div>
@@ -47,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Videos</a></li>
             </ul>
           </div> 
@@ -63,14 +61,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  
  </section>
      
-<br/><br/>
+<br><br>
 <section class="welcome-industry-area">
     <div class="container">
         <div class="row">
               <div class="row">
                   <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 245px;" controls>
+<video class="w-100" style="max-height: 245px;" controls="">
   <source src="img/video/150-inches-Lifing-photo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -89,7 +87,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--</div>-->
   <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 245px;" controls>
+<video class="w-100" style="max-height: 245px;" controls="">
   <source src="img/video/electric-locomotive-workshop-bhusawal.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -98,7 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 245px;;" controls>
+<video class="w-100" style="max-height: 245px;;" controls="">
   <source src="img/video/mechanical-workshop-gorakhpur.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -107,7 +105,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 245px;;" controls>
+<video class="w-100" style="max-height: 245px;;" controls="">
   <source src="img/video/mechanical-workshop-gorakhpur-2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -121,15 +119,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     </div>
     
-            <div class="col-md-6" >
+            <div class="col-md-6">
              <div class="dd" style="border: 5px solid #f9e606;">
-                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/Vsg16sjdtn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/Vsg16sjdtn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                 </div>
            
               <div class="col-md-6">
              <div class="dd" style="border: 5px solid #f9e606;">
-                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/DOKW3kodlPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/DOKW3kodlPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                 </div>
                 </div>
                 <!---->
@@ -151,19 +149,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="row">
             <div class="col-md-6">
             <div class="dd" style="border: 5px solid #f9e606;">
-              <iframe width="100%" height="315" src="https://www.youtube.com/embed/LqUrCeC76e8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/LqUrCeC76e8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
               </div>
                 </div>
            
             <div class="col-md-6">
             <div class="dd" style="border: 5px solid #f9e606;">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/YTCsC_74iOA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/YTCsC_74iOA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                 </div>
                 </div>
                 <!---->
                 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 245px;;" controls>
+<video class="w-100" style="max-height: 245px;;" controls="">
   <source src="img/video/guntupally.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -174,7 +172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <!---->
                 <div class="col-md-6 col-lg-6">
                 <div class="vir-01">
-                <video class="w-100" style="max-height: 245px;;" controls>
+                <video class="w-100" style="max-height: 245px;;" controls="">
                   <source src="img/video/tirichi.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
@@ -185,7 +183,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <!---->
                 <div class="col-md-6 col-lg-6">
                 <div class="vir-01">
-                <video class="w-100" style="max-height: 245px;;" controls>
+                <video class="w-100" style="max-height: 245px;;" controls="">
                   <source src="img/video/perambur.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
@@ -198,7 +196,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
   
 </section>
-<br/><br/>
+<br><br>
   
   <section>
   <div class="container-fluid">
@@ -221,7 +219,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="js/main.js"></script>
 
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

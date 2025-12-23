@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Crane Manufacturers | EOT | Gantry | Jib | Vertex Cranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link rel="canonical" href="https://www.vertexcranes.com/">
 <meta name="description" content="Crane Manufacturers, EOT, Gantry, Hoists, Eletric Winch Suppliers in Hyderabad. Vertexcranes Industries is professionally managed by a group of technocrats">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ENMLSYFB5Q"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -20,9 +18,9 @@
 {"@context":"https://schema.org","@type":"WebSite","@id":"http://www.vertexcranes.com/#website","url":"http://www.vertexcranes.com/","name":"Vertex Cranes","potentialAction":{"@type":"SearchAction","target":"http://www.vertexcranes.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
@@ -39,7 +37,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
   
   <div id="demo" class="carousel slide" data-ride="carousel">
@@ -54,35 +52,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/slider-01.jpg" alt="Jib Crane Manufacturers" style="width:100%;">
+      <picture><source srcset="img/320w/slider-01_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-01_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-01_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-01_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-01.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption  wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
          <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="img/slider-02.jpg" alt="Jib Crane Manufacturers" style="width:100%;">
+      <picture><source srcset="img/320w/slider-02_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-02_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-02_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-02_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-02.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
          <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="img/slider-03.jpg" alt="Jib Crane Manufacturers" style="width:100%;" >
+      <picture><source srcset="img/320w/slider-03_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-03_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-03_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-03_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-03.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
           <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
       </div>   
     </div>
      <div class="carousel-item">
-      <img src="img/slider-04.jpg" alt="Jib Crane Manufacturers" style="width:100%;" >
+      <picture><source srcset="img/320w/slider-04_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-04_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-04_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-04_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-04.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
           <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
       </div>   
     </div>
      <div class="carousel-item">
-      <img src="img/slider-05.jpg" alt="Jib Crane Manufacturers" style="width:100%;" >
+      <picture><source srcset="img/320w/slider-05_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-05_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-05_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-05_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-05.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
           <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
@@ -90,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
      <div class="carousel-item">
-      <img src="img/slider-06.jpg" alt="Jib Crane Manufacturers" style="width:100%;" >
+      <picture><source srcset="img/320w/slider-06_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-06_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-06_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-06_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-06.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
           <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
@@ -98,7 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
     <div class="carousel-item">
-      <img src="img/slider-08.jpg" alt="Jib Crane Manufacturers" style="width:100%;" >
+      <picture><source srcset="img/320w/slider-08_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-08_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-08_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-08_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-08.webp" alt="Jib Crane Manufacturers" style="width:100%;" loading="lazy" decoding="async"></picture>
       <div class="carousel-caption wow" data-anim-type="zoomIn" data-wow-delay="0.6s" style="animation-duration: 1.3s; animation-name: zoomIn; animation-delay: 1.3s;">
           <h1 class="intro-title mb-4">Providing Durable Quality Crane Services</h1>
           <div class="dd-btn"><a href="contact.php">Enquire Now</a></div>
@@ -128,12 +126,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <div class="vert-01">
         <p>VERTEX CRANES INDUSTRIES is professionally managed by a group of technocrats having More than two decades experience in the field of designing and manufacturing of HEAVY DUTY CRANES, HOISTS and other tailor made Material handling Equipments</p>
-        <p>Throughout its history, Vertex cranes has been an industry Leader in both technological and product advancements, Contributing to its long-standing reputation as a manufacturer of high Quality Material handling Equipments. During these years of operations Vertex cranes has established itself as a 'TRUSTED' manufacturer of 'QAUALITY ' Material Handling Equipment. Which is reflected in REPEATED ORDERS from its Valued & its Existing Customers.</p>
+        <p>Throughout its history, Vertex cranes has been an industry Leader in both technological and product advancements, Contributing to its long-standing reputation as a manufacturer of high Quality Material handling Equipments. During these years of operations Vertex cranes has established itself as a 'TRUSTED' manufacturer of 'QAUALITY ' Material Handling Equipment. Which is reflected in REPEATED ORDERS from its Valued &amp; its Existing Customers.</p>
 
             </div>
             </div>
             <div class="col-md-6 m9">
-            <img src="img/overlay-bg.jpg" alt="Jib Crane Manufacturers"  width="100%"/>
+            <picture><source srcset="img/320w/overlay-bg_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/overlay-bg_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/overlay-bg_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/overlay-bg_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/overlay-bg.webp" alt="Jib Crane Manufacturers" width="100%" loading="lazy" decoding="async"></picture>
             </div>
         </div>
         </div>
@@ -155,7 +153,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <img src="img/sr-01.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+              <picture><source srcset="img/320w/sr-01_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/sr-01_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/sr-01_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/sr-01_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/sr-01.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -174,7 +172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <img src="img/e1.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+              <picture><source srcset="img/320w/e1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/e1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/e1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/e1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/e1.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -193,7 +191,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <img src="img/j1.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+              <picture><source srcset="img/320w/j1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/j1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/j1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/j1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/j1.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -212,7 +210,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <img src="img/sr-04.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+              <picture><source srcset="img/320w/sr-04_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/sr-04_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/sr-04_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/sr-04_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/sr-04.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -231,7 +229,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <img src="img/sr-05.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+              <picture><source srcset="img/320w/sr-05_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/sr-05_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/sr-05_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/sr-05_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/sr-05.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -250,7 +248,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <img src="img/sr-06.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+              <picture><source srcset="img/320w/sr-06_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/sr-06_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/sr-06_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/sr-06_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/sr-06.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -289,7 +287,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/gallery-01.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/gallery-01.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/320w/gallery-01_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/gallery-01_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/gallery-01_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/gallery-01_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/gallery-01.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -299,7 +297,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/gallery-02.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/gallery-02.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/320w/gallery-02_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/gallery-02_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/gallery-02_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/gallery-02_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/gallery-02.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -309,7 +307,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/gallery-15.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/gallery-15.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/320w/gallery-15_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/gallery-15_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/gallery-15_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/gallery-15_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/gallery-15.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -319,7 +317,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/gallery-04.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/gallery-04.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/320w/gallery-04_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/gallery-04_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/gallery-04_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/gallery-04_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/gallery-04.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -329,7 +327,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/gallery-05.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/e11.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/320w/e11_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/e11_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/e11_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/e11_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/e11.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -339,7 +337,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="work-box">
             <a href="img/gallery-06.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/gallery-06.jpg" alt="Jib Crane Manufacturers" class="img-fluid">
+                <picture><source srcset="img/320w/gallery-06_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/gallery-06_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/gallery-06_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/gallery-06_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/gallery-06.webp" alt="Jib Crane Manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -419,7 +417,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="work-box">
             <a href="img/a1.jpeg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/a1.jpeg" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%">
+                <picture><source srcset="img/320w/a1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/a1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/a1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/a1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/a1.webp" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -430,7 +428,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="work-box">
             <a href="img/a2.jpeg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/a2.jpeg" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%">
+                <picture><source srcset="img/320w/a2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/a2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/a2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/a2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/a2.webp" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -447,7 +445,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="work-box">
             <a href="img/award-inner-one.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/award-one.jpg" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%">
+                <picture><source srcset="img/320w/award-one_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/award-one_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/award-one_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/award-one_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/award-one.webp" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -458,7 +456,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="work-box">
             <a href="img/award-two.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/award-inner-two.jpg" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%">
+                <picture><source srcset="img/320w/award-inner-two_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/award-inner-two_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/award-inner-two_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/award-inner-two_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/award-inner-two.webp" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -475,7 +473,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="work-box">
             <a href="img/award-inner-three.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/award-three.jpg" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%">
+                <picture><source srcset="img/320w/award-three_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/award-three_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/award-three_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/award-three_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/award-three.webp" alt="Jib Crane Manufacturers" class="img-fluid" style="height:350px;width:100%" loading="lazy" decoding="async"></picture>
               </div>
               
             </a>
@@ -541,14 +539,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           
       <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<iframe async width="100%" height="400" src="https://www.youtube.com/embed/Vsg16sjdtn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h4>Different Manufacturing Plant & Steel Mill Cranes Working</h4>
+<iframe async="" width="100%" height="400" src="https://www.youtube.com/embed/Vsg16sjdtn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h4>Different Manufacturing Plant &amp; Steel Mill Cranes Working</h4>
 </div>
 </div>
 
 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<iframe async width="100%" height="400" src="https://www.youtube.com/embed/DOKW3kodlPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe async="" width="100%" height="400" src="https://www.youtube.com/embed/DOKW3kodlPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <h4>Interview For TV5</h4>
 </div>
 </div>
@@ -560,7 +558,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<iframe async width="100%" height="400" src="https://www.youtube.com/embed/YTCsC_74iOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe async="" width="100%" height="400" src="https://www.youtube.com/embed/YTCsC_74iOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <h4>Kawasaki Representative Visit Our Plant for Discussion About Bullet Train Project</h4>
 </div>
 </div>
@@ -574,7 +572,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video width="100%" height="400" controls>
+<video width="100%" height="400" controls="">
   <source src="img/video/overview.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -593,7 +591,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 310px;" controls>
+<video class="w-100" style="max-height: 310px;" controls="">
   <source src="img/video/mechanical-workshop-gorakhpur-2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -603,7 +601,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="col-md-6 col-lg-6">
 <div class="vir-01">
-<video class="w-100" style="max-height: 310px;" controls>
+<video class="w-100" style="max-height: 310px;" controls="">
   <source src="img/video/mechanical-workshop-gorakhpur.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -620,7 +618,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="col-md-6 col-lg-6">
             <div class="vir-01">
-                <video class="w-100" style="max-height: 310px;" controls>
+                <video class="w-100" style="max-height: 310px;" controls="">
                   <source src="img/video/electric-locomotive-workshop-bhusawal.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
@@ -630,7 +628,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 <div class="col-md-6 col-lg-6">
                 <div class="vir-01">
-                <video class="w-100" style="max-height: 310px;" controls>
+                <video class="w-100" style="max-height: 310px;" controls="">
                   <source src="img/video/mechanical-workshop-gorakhpur.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
@@ -688,8 +686,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
 
-</body>
-</html>
+
+
+</body></html>

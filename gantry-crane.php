@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Gantry Cranes Manufacturers | Vertex Cranes</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta name="keywords" content="Gantry crane manufacturers">
 <link rel="canonical" href="https://www.vertexcranes.com/gantry-crane.php">
-<meta name="description" content="Gantry Cranes Manufacturers, Vertex Cranes. As a leading company we are specifically designed keeping in mind the safety of the user first. Visit us now" />
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+<meta name="description" content="Gantry Cranes Manufacturers, Vertex Cranes. As a leading company we are specifically designed keeping in mind the safety of the user first. Visit us now">
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,9 +16,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -37,7 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route pro-bg">
     <div class="overlay-itro"></div>
@@ -48,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Gantry Cranes</a></li>
             </ul>
           </div>          
@@ -64,15 +62,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="pro-cont">
 <h2 class="title-a slideInRight">GANTRY CRANE MANUFACTURERS</h2>
 <h5>We are providing good services</h5>
-<p>We are the pre-eminent manufacturers and exporters of dependable and versatile Gantry Cranes. These Cranes offer cost effective lifting portability that has the capability of withstanding the heaviest of loads. You can easily relocate the entire <a href="https://www.vertexcranes.com/gantry-cranes/gantry-cranes-suppliers.php" >Gantry Crane</a> with your leased facility operation, so that its utility is provided in more than just one area. Additionally these Gantry Cranes can be customized to exactly fit your individual requirements. As leading <b>gantry crane manufacturers</b> we are specifically designed keeping in mind the safety of the user first and then that the job gets done for the right price.</p>
+<p>We are the pre-eminent manufacturers and exporters of dependable and versatile Gantry Cranes. These Cranes offer cost effective lifting portability that has the capability of withstanding the heaviest of loads. You can easily relocate the entire <a href="https://www.vertexcranes.com/gantry-cranes/gantry-cranes-suppliers.php">Gantry Crane</a> with your leased facility operation, so that its utility is provided in more than just one area. Additionally these Gantry Cranes can be customized to exactly fit your individual requirements. As leading <b>gantry crane manufacturers</b> we are specifically designed keeping in mind the safety of the user first and then that the job gets done for the right price.</p>
 
 <p>Our highly customized range of <b>Gantry Cranes manufacturers</b> by our professionals with precision to serve the varied demands of the industries. We cater to the industrial parameters while manufacturing the Gantry Cranes that makes the loading and unloading of the industrial goods and materials easy and reliable. The optimum quality raw materials that go into the manufacturing of the Gantry Cranes makes them highly durable and they render service to our clients for a longer life. These Gantry Cranes can be obtained by our clientele at industry leading prices.</p>
 
- <?php include_once("order.php"); ?>
+ <!--?php include_once("order.php"); ?-->
 </div>
 </div>
 <div class="col-md-5 col-sm-12 m9">
-<img src="img/im9.jpg" alt="Gantry crane manufacturers" title="Gantry crane manufacturers" class="img-fluid" />
+<picture><source srcset="img/320w/im9_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/im9_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/im9_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/im9_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/im9.webp" alt="Gantry crane manufacturers" title="Gantry crane manufacturers" class="img-fluid" loading="lazy" decoding="async"></picture>
 </div>
 
 </div>
@@ -136,8 +134,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="js/main.js"></script>
 
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
 
-</body>
-</html>
+
+
+</body></html>

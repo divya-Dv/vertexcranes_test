@@ -19,7 +19,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "@lhci/cli": "^0.12.0",
-    "@squoosh/cli": "^0.5.0",
+    "@squoosh/cli": "^0.7.1",
     "cheerio": "^1.0.0-rc.12",
     "clean-css-cli": "^5.6.0",
     "cssnano": "^6.0.1",
@@ -31,7 +31,6 @@
     "imagemin-pngquant": "^9.0.2",
     "imagemin-webp": "^7.0.0",
     "lighthouse": "^10.0.0",
-    
     "postcss": "^8.4.25",
     "purgecss": "^5.0.0",
     "sharp": "^0.32.6",

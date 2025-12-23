@@ -1,10 +1,9 @@
-<?php
+<!--?php
 
 /**
  * Dutch PHPMailer language file: refer to PHPMailer.php for definitive list.
  * @package PHPMailer
- * @author Tuxion <team@tuxion.nl>
- */
+ * @author Tuxion <team@tuxion.nl--><html><head></head><body>*/
 
 $PHPMAILER_LANG['authenticate']         = 'SMTP-fout: authenticatie mislukt.';
 $PHPMAILER_LANG['buggy_php']            = 'PHP versie gededecteerd die onderhavig is aan een bug die kan resulteren in gecorrumpeerde berichten. Om dit te voorkomen, gebruik SMTP voor het verzenden van berichten, zet de mail.add_x_header optie in uw php.ini file uit, gebruik MacOS of Linux, of pas de gebruikte PHP versie aan naar versie 7.0.17+ or 7.1.3+.';
@@ -32,3 +31,4 @@ $PHPMAILER_LANG['smtp_connect_failed']  = 'SMTP Verbinding mislukt.';
 $PHPMAILER_LANG['smtp_detail']          = 'Detail: ';
 $PHPMAILER_LANG['smtp_error']           = 'SMTP-serverfout: ';
 $PHPMAILER_LANG['variable_set']         = 'Kan de volgende variabele niet instellen of resetten: ';
+</body></html>

@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>VertexCranes | Clients</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
   <link rel="canonical" href="https://www.vertexcranes.com/clients.php">
-   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+   <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,9 +16,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   <link rel="shortcut icon" href="img/favicon.png">
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
   <link href="css/style.css" rel="stylesheet">
@@ -36,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
   <!--/ Nav Star /-->
- <?php include_once("header.php"); ?>
+ <!--?php include_once("header.php"); ?-->
   <!--/ Nav End /-->
 <div id="home" class="intro route bg-client">
     <div class="overlay-itro"></div>
@@ -47,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="breadcrumb">
             <ul>
               <li><a href="index.php">Home</a></li>
-              <li><a href="#"> >> </a></li>
+              <li><a href="#"> &gt;&gt; </a></li>
               <li><a href="#">Our Clients</a></li>
             </ul>
           </div>         
@@ -63,7 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg014">
-                    <img class="img_da" src="img/clients/new-client-1.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-1.webp" loading="lazy" decoding="async"></picture>
                     <h3>MIEPL</h3>
                     <span class="border"></span>    
                 </div>
@@ -72,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg015">
-                    <img class="img_da" src="img/clients/new-client-2.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-2.webp" loading="lazy" decoding="async"></picture>
                     <h3>HBL Power Systems Ltd.</h3>
                     <span class="border"></span>    
                 </div>
@@ -81,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg016">
-                    <img class="img_da" src="img/clients/new-client-3.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-3_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-3_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-3_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-3_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-3.webp" loading="lazy" decoding="async"></picture>
                     <h3>GOVT of Telangana Irrigation and CAD Department</h3>
                     <span class="border"></span>    
                 </div>
@@ -90,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg017">
-                    <img class="img_da" src="img/clients/new-client-4.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-4_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-4_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-4_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-4_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-4.webp" loading="lazy" decoding="async"></picture>
                     <h3>VISWASAMUDRA</h3>
                     <span class="border"></span>    
                 </div>
@@ -99,7 +97,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg018">
-                    <img class="img_da" src="img/clients/new-client-5.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-5_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-5_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-5_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-5_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-5.webp" loading="lazy" decoding="async"></picture>
                     <h3>U.P JAL NIGAM</h3>
                     <span class="border"></span>    
                 </div>
@@ -108,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg019">
-                    <img class="img_da" src="img/clients/new-client-6.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-6_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-6_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-6_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-6_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-6.webp" loading="lazy" decoding="async"></picture>
                     <h3>U.P GOVT SWSM </h3>
                     <span class="border"></span>    
                 </div>
@@ -117,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg020">
-                    <img class="img_da" src="img/clients/new-client-7.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-7_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-7_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-7_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-7_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-7.webp" loading="lazy" decoding="async"></picture>
                     <h3>TWAD</h3>
                     <span class="border"></span>    
                 </div>
@@ -126,7 +124,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg021">
-                    <img class="img_da" src="img/clients/new-client-8.jpg">
+                    <picture><source srcset="img/clients/320w/new-client-8_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/new-client-8_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/new-client-8_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/new-client-8_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/new-client-8.webp" loading="lazy" decoding="async"></picture>
                     <h3>KNNL</h3>
                     <span class="border"></span>    
                 </div>
@@ -148,7 +146,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg13">
-                    <img class="img_da" src="img/clients/logo14.jpg">
+                    <picture><source srcset="img/clients/320w/logo14_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo14_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo14_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo14_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo14.webp" loading="lazy" decoding="async"></picture>
                     <h3>SHANKARA</h3>
                     <span class="border"></span>    
                 </div>
@@ -158,7 +156,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg12">
-                     <img class="img_da" src="img/clients/logo12.jpg">
+                     <picture><source srcset="img/clients/320w/logo12_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo12_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo12_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo12_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo12.webp" loading="lazy" decoding="async"></picture>
                     <h3>SEW</h3>
                     <span class="border"></span> 
                 </div>
@@ -167,7 +165,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kgn1">
-                    <img class="img_da" src="img/clients/23.jpg" width="84px">
+                    <picture><source srcset="img/clients/320w/23_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/23_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/23_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/23_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/23.webp" width="84px" loading="lazy" decoding="async"></picture>
                     <h3>NCC</h3>
                     <span class="border"></span>
                 </div>
@@ -177,7 +175,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg10">
-                    <img class="img_da" src="img/clients/logo10.jpg">
+                    <picture><source srcset="img/clients/320w/logo10_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo10_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo10_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo10_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo10.webp" loading="lazy" decoding="async"></picture>
                     <h3>RAMKY</h3>
                     <span class="border"></span>
                 </div>
@@ -187,7 +185,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg9">
-                    <img class="img_da" src="img/clients/logo9.jpg">
+                    <picture><source srcset="img/clients/320w/logo9_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo9_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo9_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo9_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo9.webp" loading="lazy" decoding="async"></picture>
                     <h3>MEIL</h3>
                     <span class="border"></span>   
                 </div>
@@ -197,7 +195,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg24">
-                     <img class="img_da" src="img/clients/logo24.jpg">
+                     <picture><source srcset="img/clients/320w/logo24_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo24_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo24_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo24_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo24.webp" loading="lazy" decoding="async"></picture>
                     <h3>RAGHAVA CONSTRUCTIONS</h3>
                     <span class="border"></span>  
                 </div>
@@ -206,7 +204,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg4">
-                    <img class="img_da" src="img/clients/logo4.jpg">
+                    <picture><source srcset="img/clients/320w/logo4_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo4_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo4_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo4_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo4.webp" loading="lazy" decoding="async"></picture>
                     <h3>INDU GROUP</h3>
                     <span class="border"></span>
                 </div>
@@ -216,7 +214,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg25">
-                     <img class="img_da" src="img/clients/logo25.jpg">
+                     <picture><source srcset="img/clients/320w/logo25_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo25_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo25_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo25_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo25.webp" loading="lazy" decoding="async"></picture>
                     <h3>MAVIN</h3>
                     <span class="border"></span> 
                 </div>
@@ -226,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item text-center kgn4">
-                   <img class="img_da" src="img/clients/26.png" width="84px">
+                   <picture><source srcset="img/clients/320w/26_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/26_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/26_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/26_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/26.webp" width="84px" loading="lazy" decoding="async"></picture>
                     <h3>TATA</h3>
                     <span class="border"></span>
                 </div>
@@ -236,7 +234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item text-center kg19">
-                   <img class="img_da" src="img/clients/logo21.jpg">
+                   <picture><source srcset="img/clients/320w/logo21_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo21_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo21_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo21_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo21.webp" loading="lazy" decoding="async"></picture>
                     <h3>Essar</h3>
                     <span class="border"></span> 
                 </div>
@@ -246,7 +244,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg26">
-                     <img class="img_da" src="img/clients/logo26.jpg">
+                     <picture><source srcset="img/clients/320w/logo26_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo26_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo26_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo26_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo26.webp" loading="lazy" decoding="async"></picture>
                     <h3>TAURUS</h3>
                     <span class="border"></span>
                 </div>
@@ -256,7 +254,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg7">
-                    <img class="img_da" src="img/clients/logo7.jpg">
+                    <picture><source srcset="img/clients/320w/logo7_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo7_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo7_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo7_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo7.webp" loading="lazy" decoding="async"></picture>
                     <h3>JSW</h3>
                     <span class="border"></span>
                 </div>
@@ -266,7 +264,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg18">
-                    <img class="img_da" src="img/clients/logo19.jpg">
+                    <picture><source srcset="img/clients/320w/logo19_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo19_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo19_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo19_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo19.webp" loading="lazy" decoding="async"></picture>
                     <h3>Inox Air Products</h3>
                     <span class="border"></span>
                 </div>
@@ -276,7 +274,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg5">
-                    <img class="img_da" src="img/clients/logo5.jpg">
+                    <picture><source srcset="img/clients/320w/logo5_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo5_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo5_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo5_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo5.webp" loading="lazy" decoding="async"></picture>
                     <h3>JCB INDIA</h3>
                     <span class="border"></span>
                 </div>
@@ -285,8 +283,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg16">
-                    <img class="img_da" src="img/clients/logo17.jpg">
-                    <h3>L & T</h3>
+                    <picture><source srcset="img/clients/320w/logo17_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo17_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo17_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo17_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo17.webp" loading="lazy" decoding="async"></picture>
+                    <h3>L &amp; T</h3>
                     <span class="border"></span>
                 </div>
             </div>
@@ -295,7 +293,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg14">
-                     <img class="img_da" src="img/clients/logo15.jpg">
+                     <picture><source srcset="img/clients/320w/logo15_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo15_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo15_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo15_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo15.webp" loading="lazy" decoding="async"></picture>
                     <h3>Lokesh Machines</h3>
                     <span class="border"></span>
                 </div>
@@ -305,7 +303,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item text-center kg3">
-                    <img class="img_da" src="img/clients/logot4.jpg">
+                    <picture><source srcset="img/clients/320w/logot4_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logot4_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logot4_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logot4_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logot4.webp" loading="lazy" decoding="async"></picture>
                     <h3>EXCEL INDUSTRIES</h3>
                     <span class="border"></span>  
                 </div>
@@ -315,7 +313,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg27">
-                     <img class="img_da" src="img/clients/logo27.jpg">
+                     <picture><source srcset="img/clients/320w/logo27_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo27_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo27_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo27_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo27.webp" loading="lazy" decoding="async"></picture>
                     <h3>Dr.COPPER</h3>
                     <span class="border"></span>
                 </div>
@@ -325,7 +323,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg2">
-                    <img class="img_da" src="img/clients/logo3.jpg">
+                    <picture><source srcset="img/clients/320w/logo3_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo3_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo3_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo3_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo3.webp" loading="lazy" decoding="async"></picture>
                     <h3>DYNAMIC TOOLS</h3>
                     <span class="border"></span>
                 </div>
@@ -335,7 +333,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg28">
-                     <img class="img_da" src="img/clients/logo28.jpg">
+                     <picture><source srcset="img/clients/320w/logo28_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo28_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo28_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo28_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo28.webp" loading="lazy" decoding="async"></picture>
                     <h3>APL APOLLO</h3>
                     <span class="border"></span>
                 </div>
@@ -345,7 +343,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg6">
-                   <img class="img_da" src="img/clients/log6.jpg">
+                   <picture><source srcset="img/clients/320w/log6_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/log6_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/log6_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/log6_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/log6.webp" loading="lazy" decoding="async"></picture>
                     <h3>JK PAPER</h3>
                     <span class="border"></span>
                 </div>
@@ -355,7 +353,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg29">
-                     <img class="img_da" src="img/clients/logo29.jpg">
+                     <picture><source srcset="img/clients/320w/logo29_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo29_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo29_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo29_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo29.webp" loading="lazy" decoding="async"></picture>
                     <h3>WINGS</h3>
                     <span class="border"></span>
                 </div>
@@ -365,7 +363,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg30">
-                     <img class="img_da" src="img/clients/logo30.jpg">
+                     <picture><source srcset="img/clients/320w/logo30_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo30_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo30_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo30_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo30.webp" loading="lazy" decoding="async"></picture>
                     <h3>GULF SPIC</h3>
                     <span class="border"></span> 
                 </div>
@@ -375,7 +373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg31">
-                     <img class="img_da" src="img/clients/logo31.jpg">
+                     <picture><source srcset="img/clients/320w/logo31_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo31_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo31_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo31_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo31.webp" loading="lazy" decoding="async"></picture>
                     <h3>HINDWARE</h3>
                     <span class="border"></span>  
                 </div>
@@ -385,7 +383,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg32">
-                     <img class="img_da" src="img/clients/logo32.jpg">
+                     <picture><source srcset="img/clients/320w/logo32_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo32_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo32_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo32_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo32.webp" loading="lazy" decoding="async"></picture>
                     <h3>GUBBA</h3>
                     <span class="border"></span>  
                 </div>
@@ -395,7 +393,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg33">
-                     <img class="img_da" src="img/clients/logo33.jpg">
+                     <picture><source srcset="img/clients/320w/logo33_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo33_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo33_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo33_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo33.webp" loading="lazy" decoding="async"></picture>
                     <h3>COVALENT LABORATORIES</h3>
                     <span class="border"></span>  
                 </div>
@@ -405,7 +403,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg34">
-                     <img class="img_da" src="img/clients/logo34.jpg">
+                     <picture><source srcset="img/clients/320w/logo34_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo34_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo34_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo34_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo34.webp" loading="lazy" decoding="async"></picture>
                     <h3>VIRCHOWS</h3>
                     <span class="border"></span> 
                 </div>
@@ -415,7 +413,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg35">
-                     <img class="img_da" src="img/clients/logo35.jpg">
+                     <picture><source srcset="img/clients/320w/logo35_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo35_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo35_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo35_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo35.webp" loading="lazy" decoding="async"></picture>
                     <h3>EMMENNAR</h3>
                     <span class="border"></span>  
                 </div>
@@ -424,7 +422,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center ">
-                    <img class="blog img_da" src="img/clients/arch-logo.jpg">
+                    <picture><source srcset="img/clients/320w/arch-logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/arch-logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/arch-logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/arch-logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="blog img_da" src="img/clients/arch-logo.webp" loading="lazy" decoding="async"></picture>
                     <h3>Pharmaceutical</h3>
                     <span class="border"></span>
                 </div>
@@ -434,7 +432,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg36">
-                     <img class="img_da" src="img/clients/logo36.jpg">
+                     <picture><source srcset="img/clients/320w/logo36_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo36_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo36_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo36_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo36.webp" loading="lazy" decoding="async"></picture>
                     <h3>VEDA BIO FUEL</h3>
                     <span class="border"></span>  
                 </div>
@@ -444,7 +442,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg37">
-                     <img class="img_da" src="img/clients/logo37.jpg">
+                     <picture><source srcset="img/clients/320w/logo37_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo37_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo37_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo37_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo37.webp" loading="lazy" decoding="async"></picture>
                     <h3>COGENT</h3>
                     <span class="border"></span>
                 </div>
@@ -454,7 +452,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg38">
-                     <img class="img_da" src="img/clients/logo38.jpg">
+                     <picture><source srcset="img/clients/320w/logo38_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo38_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo38_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo38_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo38.webp" loading="lazy" decoding="async"></picture>
                     <h3>SIGNODE</h3>
                     <span class="border"></span>  
                 </div>
@@ -463,7 +461,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg12">
-                     <img class="img_da" src="img/clients/logo13.jpg">
+                     <picture><source srcset="img/clients/320w/logo13_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo13_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo13_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo13_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo13.webp" loading="lazy" decoding="async"></picture>
                     <h3>SNEHA</h3>
                     <span class="border"></span>  
                 </div>
@@ -473,7 +471,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg39">
-                     <img class="img_da" src="img/clients/logo39.jpg">
+                     <picture><source srcset="img/clients/320w/logo39_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo39_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo39_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo39_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo39.webp" loading="lazy" decoding="async"></picture>
                     <h3>PRECA</h3>
                     <span class="border"></span>  
                 </div>
@@ -483,7 +481,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg40">
-                     <img class="img_da" src="img/clients/logo40.jpg">
+                     <picture><source srcset="img/clients/320w/logo40_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo40_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo40_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo40_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo40.webp" loading="lazy" decoding="async"></picture>
                     <h3>BUILDTECH</h3>
                     <span class="border"></span>  
                 </div>
@@ -493,7 +491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg41">
-                     <img class="img_da" src="img/clients/logo41.jpg">
+                     <picture><source srcset="img/clients/320w/logo41_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo41_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo41_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo41_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo41.webp" loading="lazy" decoding="async"></picture>
                     <h3>AASAN</h3>
                     <span class="border"></span>  
                 </div>
@@ -503,7 +501,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg42">
-                     <img class="img_da" src="img/clients/logo42.jpg">
+                     <picture><source srcset="img/clients/320w/logo42_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo42_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo42_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo42_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo42.webp" loading="lazy" decoding="async"></picture>
                     <h3>BHARAT OMAN</h3>
                     <span class="border"></span>  
                 </div>
@@ -513,7 +511,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg1">
-                   <img class="img_da" src="img/clients/logo2.jpg">
+                   <picture><source srcset="img/clients/320w/logo2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo2.webp" loading="lazy" decoding="async"></picture>
                     <h3>Bharat Electricals</h3>
                     <span class="border"></span> 
                 </div>
@@ -523,7 +521,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg43">
-                     <img class="img_da" src="img/clients/logo43.jpg">
+                     <picture><source srcset="img/clients/320w/logo43_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo43_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo43_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo43_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo43.webp" loading="lazy" decoding="async"></picture>
                     <h3>ODISHA TRANSCO</h3>
                     <span class="border"></span>  
                 </div>
@@ -533,7 +531,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kgn3">
-                    <img class="img_da" src="img/clients/25.png" width="84px">
+                    <picture><source srcset="img/clients/320w/25_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/25_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/25_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/25_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/25.webp" width="84px" loading="lazy" decoding="async"></picture>
                     <h3>KIA</h3>
                     <span class="border"></span>
                 </div>
@@ -543,7 +541,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg44">
-                     <img class="img_da" src="img/clients/logo44.jpg">
+                     <picture><source srcset="img/clients/320w/logo44_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo44_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo44_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo44_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo44.webp" loading="lazy" decoding="async"></picture>
                     <h3>INDIAN RAILWAYS</h3>
                     <span class="border"></span>  
                 </div>
@@ -553,7 +551,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg45">
-                     <img class="img_da" src="img/clients/logo45.jpg">
+                     <picture><source srcset="img/clients/320w/logo45_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo45_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo45_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo45_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo45.webp" loading="lazy" decoding="async"></picture>
                     <h3>NTPC</h3>
                     <span class="border"></span>  
                 </div>
@@ -563,7 +561,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kgn2" style="">
-                     <img class="img_da" src="img/clients/24.jpg" width="84px">
+                     <picture><source srcset="img/clients/320w/24_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/24_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/24_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/24_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/24.webp" width="84px" loading="lazy" decoding="async"></picture>
                     <h3>MISSION BHAGIRATH</h3>
                     <span class="border"></span>
                 </div>
@@ -573,7 +571,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg46">
-                     <img class="img_da" src="img/clients/logo46.jpg">
+                     <picture><source srcset="img/clients/320w/logo46_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo46_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo46_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo46_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo46.webp" loading="lazy" decoding="async"></picture>
                     <h3>AP TRANSCO</h3>
                     <span class="border"></span>  
                 </div>
@@ -583,7 +581,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg47">
-                     <img class="img_da" src="img/clients/logo47.jpg">
+                     <picture><source srcset="img/clients/320w/logo47_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo47_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo47_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo47_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo47.webp" loading="lazy" decoding="async"></picture>
                     <h3>TS TRANSCO</h3>
                     <span class="border"></span>  
                 </div>
@@ -592,7 +590,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg8">
-                     <img class="img_da" src="img/clients/logo8.jpg">
+                     <picture><source srcset="img/clients/320w/logo8_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo8_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo8_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo8_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo8.webp" loading="lazy" decoding="async"></picture>
                     <h3>POPURI</h3>
                     <span class="border"></span> 
                 </div>
@@ -602,7 +600,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom-2 text-center kg11">
-                     <img class="img_da" src="img/clients/logo11.jpg">
+                     <picture><source srcset="img/clients/320w/logo11_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo11_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo11_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo11_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo11.webp" loading="lazy" decoding="async"></picture>
                     <h3>SAIRAM</h3>
                     <span class="border"></span>
                 </div>
@@ -612,7 +610,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item text-center kh15">
-                     <img class="img_da" src="img/clients/logo16.jpg">
+                     <picture><source srcset="img/clients/320w/logo16_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo16_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo16_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo16_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo16.webp" loading="lazy" decoding="async"></picture>
                     <h3>OPCTL</h3>
                     <span class="border"></span>
                 </div>
@@ -622,7 +620,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Start single item-->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item pd-bottom text-center kg17">
-                     <img class="img_da" src="img/clients/logo18.jpg">
+                     <picture><source srcset="img/clients/320w/logo18_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/clients/640w/logo18_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/clients/1024w/logo18_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/clients/1920w/logo18_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img class="img_da" src="img/clients/logo18.webp" loading="lazy" decoding="async"></picture>
                     <h3>Southern Power</h3>
                     <span class="border"></span> 
                 </div>
@@ -660,7 +658,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("footer.php"); ?>
+  <!--?php include_once("footer.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+
+</body></html>

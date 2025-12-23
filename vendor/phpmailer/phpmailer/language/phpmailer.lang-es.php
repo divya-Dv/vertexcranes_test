@@ -1,10 +1,9 @@
-<?php
+<!--?php
 
 /**
  * Spanish PHPMailer language file: refer to English translation for definitive list
  * @package PHPMailer
- * @author Matt Sturdy <matt.sturdy@gmail.com>
- * @author Crystopher Glodzienski Cardoso <crystopher.glodzienski@gmail.com>
+ * @author Matt Sturdy <matt.sturdy@gmail.com--><html><head></head><body>* @author Crystopher Glodzienski Cardoso <crystopher.glodzienski@gmail.com>
  */
 
 $PHPMAILER_LANG['authenticate']         = 'Error SMTP: Imposible autentificar.';
@@ -29,3 +28,4 @@ $PHPMAILER_LANG['extension_missing']    = 'Extensión faltante: ';
 $PHPMAILER_LANG['smtp_code']            = 'Código del servidor SMTP: ';
 $PHPMAILER_LANG['smtp_code_ex']         = 'Información adicional del servidor SMTP: ';
 $PHPMAILER_LANG['invalid_header']       = 'Nombre o valor de encabezado no válido';
+</crystopher.glodzienski@gmail.com></body></html>

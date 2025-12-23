@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Tower Hoist Manufacturer In India | Vertex cranes</title>
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta name="description" content="Vertexcranes, a leading tower hoist manufacturer in India. Our precision-engineered tower hoists ensure efficient vertical transportation Cotact us Now" />
+<meta name="description" content="Vertexcranes, a leading tower hoist manufacturer in India. Our precision-engineered tower hoists ensure efficient vertical transportation Cotact us Now">
 <link rel="canonical" href="https://www.vertexcranes.com/hoists/tower-hoist-manufacturer.php">
- <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k" />
+ <meta name="google-site-verification" content="v_w1dQtA4btdefYSsg9vl2w_HbNAi8yaqaUsaiRNx_k">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -16,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5JKBHJC4');</script>
 <!-- End Google Tag Manager -->
 <!-- Global site tag (gtag.js) - Google Ads: 834114594 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-834114594"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -27,7 +25,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="shortcut icon" href="../img/favicon.png">
 <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
 <link href="../lib/ionicons/css/ionicons.min.css" rel="stylesheet">
 <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/animate.min.css">
@@ -47,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="page-top">
 
     <!--/ Nav Star /-->
- <?php include_once("../header-seo.php"); ?>
+ <!--?php include_once("../header-seo.php"); ?-->
   <!--/ Nav End /-->
 
 <div id="home" class="intro route bg-client">
@@ -76,7 +74,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
    <h2 style="font-size:28px;margin:24px;margin-left:0px">Tower Hoist Manufacturer In India</h2>
 
-   <p>Vertex Cranes & Hoists (India) P.Ltd. is a predominant Tower Hoist Manufacturer in India. Construction hoists are the instruments that are utilized for raising and dropping heavy loads and moving them to other place. Offered products by construction hoist manufacturers can be operated electrically, manually or pneumatically. Hoists use rope, chain or fiber as a medium for lifting. Our manufactures design hoists with premium quality raw materials. We offer sturdily designed, robust, light weight and compact hoists to our customers. Different kinds of construction hoists are offered by our suppliers such as hook suspension electric chain hoist, hand operated travel electric chain hoist and many others. Our scope of hoists is highly recommended in the market for its compatibility, compact design, smooth performance and durable nature. Offered hoists have longer shelf life and are available at reasonable rates.</p>
+   <p>Vertex Cranes &amp; Hoists (India) P.Ltd. is a predominant Tower Hoist Manufacturer in India. Construction hoists are the instruments that are utilized for raising and dropping heavy loads and moving them to other place. Offered products by construction hoist manufacturers can be operated electrically, manually or pneumatically. Hoists use rope, chain or fiber as a medium for lifting. Our manufactures design hoists with premium quality raw materials. We offer sturdily designed, robust, light weight and compact hoists to our customers. Different kinds of construction hoists are offered by our suppliers such as hook suspension electric chain hoist, hand operated travel electric chain hoist and many others. Our scope of hoists is highly recommended in the market for its compatibility, compact design, smooth performance and durable nature. Offered hoists have longer shelf life and are available at reasonable rates.</p>
    
    </div>
 
@@ -87,7 +85,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!--<a href="../img/gallery/gallery-24.jpg" data-lightbox="gallery-mf">-->
 
    <div class="work-img">
-   <img src="../img/gallery/gallery-24.jpg" style="height:300px;width:400px" class="img-fluid" alt="Tower Hoist Manufacturer In India">
+   <picture><source srcset="../img/gallery/320w/gallery-24_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/gallery/640w/gallery-24_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/gallery/1024w/gallery-24_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/gallery/1920w/gallery-24_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/gallery/gallery-24.webp" style="height:300px;width:400px" class="img-fluid" alt="Tower Hoist Manufacturer In India"></picture>
    </div>
 
    <!--</a>-->
@@ -112,14 +110,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Vertex Cranes, a prominent tower hoist manufacturer in India, brings over a decade of expertise to the construction industry. Our state-of-the-art manufacturing facility ensures top-notch quality and reliability in every tower hoist we produce. Designed to meet diverse project needs, our tower hoists guarantee efficient vertical transportation, optimizing productivity on construction sites. With a commitment to excellence and customer satisfaction, Vertex Cranes is your trusted partner for innovative tower hoist solutions in India. Elevate your projects with our dependable and high-performance equipment. Visit Also: <a href="https://www.vertexcranes.com/cranes/cranes-manufacturers.php">Cranes Manufacturers</a></p>
 
 <!--<p>Vertex cranes Industries is professionally managed by a group of technocrats having more than two decades experience in the field of designing and manufacturing of heavy duty cranes, hoists and other tailor made material handling equipments/systems. Throughout its history, Vertex cranes has been an industry leader in both technological and product advancements, contributing to its lone-standing reputation as a manufacturer of high quality material handling equipments. During these years of operations Vertex cranes has established itself as a ‘TRUSTED’ manufacturer of ‘QAUALITY’ material handling equipment.</p>-->
- <?php include_once("../order.php"); ?>
+ <!--?php include_once("../order.php"); ?-->
 </div>
 
 </div>
 
 </div>
 
-<div class="container" >
+<div class="container">
 
               <div class="row">
 
@@ -145,7 +143,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 
-					<ul >
+					<ul>
 
                         <li>Robust Construction</li>
 
@@ -205,7 +203,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
       </div>
 
-</div>
+
 
 <!--cranes manufacturer end-->
 
@@ -223,7 +221,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script src="../lib/lightbox/js/lightbox.min.js"></script>
   <script src="../js/main.js"></script>
   <!--/ Section Contact-Footer Star /-->
-  <?php include_once("../footer-seo.php"); ?>
+  <!--?php include_once("../footer-seo.php"); ?-->
   <!--/ Section Contact-footer End /-->
-</body>
-</html>
+
+</body></html>
